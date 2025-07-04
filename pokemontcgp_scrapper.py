@@ -3,8 +3,48 @@ from bs4 import BeautifulSoup
 import re
 import json
 import time
+import os
 
 BASE_URL = "https://pocket.limitlesstcg.com/cards/"
+
+# Define all available sets
+available_sets = ["A1", "P-A", "A1a", "A1b", "A2", "A2a", "A2b", "A3", "A3A", "A3B"]
+
+# Modify this list to scrape only specific sets
+sets = ["A1", "P-A", "A1a", "A2", "A2a", "A2b", "A3", "A3A", "A3B"]  # All available sets
+
+# Set code to descriptive filename mapping
+set_filename_mapping = {
+    "A1": "a1-genetic-apex.json",
+    "P-A": "promo.json", 
+    "A1a": "a1a-mythical-island.json",
+    "A1b": "a1b-unknown.json",  # Add if needed
+    "A2": "a2-space-time-smackdown.json",
+    "A2a": "a2a-triumphant-light.json",
+    "A2b": "a2b-shining-revelry.json", 
+    "A3": "a3-celestial-guardians.json",
+    "A3A": "a3a-extradimensional-crisis.json",
+    "A3B": "a3b-eevee-grove.json"
+}
+
+# Rarity symbol to human-readable name mapping
+rarity_mapping = {
+    "◊": "Common",
+    "◊◊": "Uncommon", 
+    "◊◊◊": "Rare",
+    "◊◊◊◊": "Rare EX",
+    "☆": "Full Art",
+    "☆☆": "Full Art EX/Support",
+    "☆☆☆": "Immersive",
+    "♛": "Gold Crown",
+    "Crown Rare": "Gold Crown",  # Alternative name for ♛
+    "Promo": "Promo",
+    # Additional mappings for edge cases
+    "One shiny star": "Full Art",
+    "Two shiny stars": "Full Art EX/Support", 
+    "Two shiny star": "Full Art EX/Support",  # Handle typo in user request
+    "Unknown": "Unknown"
+}
 
 type_mapping = {
     "G": "Grass",
@@ -74,9 +114,9 @@ packs = [
     "Palkia pack",
 ]
 
-# Available sets: ["A1", "P-A", "A1a", "A1b", "A2", "A3", "A3A"]
-# Modify this list to scrape only specific sets
-sets = ["P-A"]
+def convert_rarity_to_readable(rarity_symbol):
+    """Convert rarity symbol to human-readable format."""
+    return rarity_mapping.get(rarity_symbol, rarity_symbol)
 
 
 def map_attack_cost(cost_elements):
@@ -108,9 +148,14 @@ def get_probabilities_by_rarity(rarity):
     return probabilities
 
 
-def extract_card_info(soup):
+def extract_card_info(soup, set_name=None):
     card_info = {}
-    card_info["id"] = extract_id(soup)
+    base_id = extract_id(soup)
+    # Pad ID to 3 digits with leading zeros
+    padded_id = base_id.zfill(3)
+    # Remove dashes from set_name but keep the dash separator
+    clean_set_name = set_name.replace("-", "") if set_name else ""
+    card_info["id"] = f"{clean_set_name}-{padded_id}" if set_name else padded_id
     card_info["name"] = extract_name(soup)
     card_info["hp"] = extract_hp(soup)
     card_info["Element"] = extract_type(soup)
@@ -338,106 +383,88 @@ def extract_crafting_cost(rarity):
     return crafting_cost[rarity] if rarity in crafting_cost else "Unknown"
 
 
-def iterate_per_set(set_name, start_id, end_id):
-    for i in range(start_id, end_id + 1):
-        url = f"{BASE_URL}{set_name}/{i}"
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, "html.parser")
-        try:
-            card_info = extract_card_info(soup)
-        except Exception as e:
-            print(f"Error processing card {i}: {e}")
-            continue
-
-        for key, value in card_info.items():
-            print(f"{key}: {value}")
-        print("-" * 40)
-
-
-def iterate_all_sets():
+def scrape_all_sets(start_id=1, end_id=286):
+    """
+    Main function to scrape all Pokemon card sets and create individual + combined files.
+    """
+    all_cards = []
+    set_card_counts = {}
+    init_time = time.time()
+    
+    # Create output directory if it doesn't exist
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    print(f"Output directory '{output_dir}' is ready.")
+    
+    print("Starting Pokemon card scraping...")
+    
     for set_name in sets:
-        iterate_per_set(set_name, 1, 285)
-
-
-def convert_cards_to_json(start_id, end_id, filename, sets_to_scrape=None):
-    """
-    Convert Pokemon cards to JSON format.
-    
-    Args:
-        start_id (int): Starting card ID
-        end_id (int): Ending card ID  
-        filename (str): Output JSON filename
-        sets_to_scrape (list): List of sets to scrape. If None, uses the global 'sets' variable
-    """
-    if sets_to_scrape is None:
-        sets_to_scrape = sets
-    
-    cards = []
-    error_tracker = 0
-    for set_name in sets_to_scrape:
         print(f"Scraping set: {set_name}")
+        set_cards = []
+        error_tracker = 0
+        
         for i in range(start_id, end_id + 1):
             url = f"{BASE_URL}{set_name}/{i}"
             response = requests.get(url)
             soup = BeautifulSoup(response.content, "html.parser")
             try:
-                card_info = extract_card_info(soup)
+                card_info = extract_card_info(soup, set_name)
+                set_cards.append(card_info)
+                all_cards.append(card_info)
                 print(f"Card {set_name} - {i} processed.")
                 error_tracker = 0
             except Exception as e:
                 print(f"Error processing card {set_name} -{i}: {e}")
                 error_tracker += 1
                 if error_tracker > 4:
-                    print(f"Finished on card {i}")
+                    print(f"Finished set {set_name} on card {i}")
                     break
                 continue
-
-            cards.append(card_info)
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(cards, file, ensure_ascii=False, indent=4)
-
-
-# Rarity symbol to human-readable name mapping
-rarity_mapping = {
-    "◊": "Common",
-    "◊◊": "Uncommon", 
-    "◊◊◊": "Rare",
-    "◊◊◊◊": "Rare EX",
-    "☆": "Full Art",
-    "☆☆": "Full Art EX/Support",
-    "☆☆☆": "Immersive",
-    "♛": "Gold Crown",
-    "Crown Rare": "Gold Crown",  # Alternative name for ♛
-    "Promo": "Promo",
-    # Additional mappings for edge cases
-    "One shiny star": "Full Art",
-    "Two shiny stars": "Full Art EX/Support", 
-    "Two shiny star": "Full Art EX/Support",  # Handle typo in user request
-    "Unknown": "Unknown"
-}
-
-def convert_rarity_to_readable(rarity_symbol):
-    """
-    Convert rarity symbol to human-readable format.
-    
-    Args:
-        rarity_symbol (str): The rarity symbol (e.g., "◊", "☆☆", "♛")
         
-    Returns:
-        str: Human-readable rarity name (e.g., "Common", "Full Art EX/Support", "Gold Crown")
-    """
-    return rarity_mapping.get(rarity_symbol, rarity_symbol)
+        # Save individual set file
+        set_filename = set_filename_mapping.get(set_name, f"{set_name}_cards.json")
+        set_filepath = os.path.join(output_dir, set_filename)
+        with open(set_filepath, "w", encoding="utf-8") as file:
+            json.dump(set_cards, file, ensure_ascii=False, indent=4)
+        
+        set_card_counts[set_name] = len(set_cards)
+        print(f"Saved {len(set_cards)} cards to {set_filepath}")
+    
+    # Check if all available sets are being scraped
+    all_sets_included = len(sets) == len(available_sets) and set(sets) == set(available_sets)
+    
+    if all_sets_included:
+        # Save combined file only if all sets are included
+        combined_filename = "pokemon_cards_all_sets.json"
+        combined_filepath = os.path.join(output_dir, combined_filename)
+        with open(combined_filepath, "w", encoding="utf-8") as file:
+            json.dump(all_cards, file, ensure_ascii=False, indent=4)
+        print(f"✅ All sets included - saved combined file: {combined_filepath}")
+    else:
+        print(f"⚠️  Not all sets included ({len(sets)}/{len(available_sets)}) - skipping combined file")
+        print(f"   Current sets: {sets}")
+        print(f"   Missing sets: {set(available_sets) - set(sets)}")
+    
+    end_time = time.time()
+    print(f"Completed! Total time: {end_time - init_time:.2f} seconds")
+    print(f"Total cards: {len(all_cards)}")
+    
+    # Print summary of what was saved
+    print("\nFiles created:")
+    for set_name, count in set_card_counts.items():
+        filename = set_filename_mapping.get(set_name, f"{set_name}_cards.json")
+        filepath = os.path.join(output_dir, filename)
+        print(f"  {filepath}: {count} cards")
+    
+    if all_sets_included:
+        combined_filepath = os.path.join(output_dir, "pokemon_cards_all_sets.json")
+        print(f"  {combined_filepath}: {len(all_cards)} cards (COMBINED)")
+    else:
+        print(f"  Combined file: SKIPPED (not all sets included)")
+    
+    return all_cards, set_card_counts
 
-# Example use
-init_time = time.time()
-start_id = 1
-end_id = 286
-filename = "pokemon_cards.json"
-#iterate_all_sets() # command to output to console
-print("Starting Pokemon card scraping...")
-convert_cards_to_json(start_id, end_id, filename)
-end_time = time.time()
-print(
-    f"Finished downloading cards to {filename}, total time: {
-        end_time - init_time} seconds."
-)
+
+# Main execution
+if __name__ == "__main__":
+    scrape_all_sets()
