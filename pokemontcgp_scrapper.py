@@ -74,7 +74,9 @@ packs = [
     "Palkia pack",
 ]
 
-sets = ["A1", "P-A", "A1a", "A2"]
+# Available sets: ["A1", "P-A", "A1a", "A1b", "A2", "A3", "A3A"]
+# Modify this list to scrape only specific sets
+sets = ["P-A"]
 
 
 def map_attack_cost(cost_elements):
@@ -111,17 +113,18 @@ def extract_card_info(soup):
     card_info["id"] = extract_id(soup)
     card_info["name"] = extract_name(soup)
     card_info["hp"] = extract_hp(soup)
-    card_info["type"] = extract_type(soup)
-    card_info["card_type"], card_info["evolution_type"] = (
+    card_info["Element"] = extract_type(soup)
+    card_info["type"], card_info["subtype"] = (
         extract_card_and_evolution_type(soup)
     )
     card_info["image"] = extract_image(soup)
     card_info["attacks"] = extract_attacks(soup)
-    card_info["ability"] = extract_ability(soup, card_info["card_type"])
+    card_info["ability"] = extract_ability(soup, card_info["type"])
     card_info["weakness"], card_info["retreat"] = extract_weakness_and_retreat(soup)
-    card_info["rarity"], card_info["fullart"] = extract_rarity_and_fullart(soup)
+    card_info["rarity_symbol"], card_info["fullart"] = extract_rarity_and_fullart(soup)
+    card_info["rarity"] = convert_rarity_to_readable(card_info["rarity_symbol"])
     card_info["ex"] = extract_ex_status(card_info["name"])
-    card_info["set_details"], card_info["pack"] = extract_set_and_pack_info(soup)
+    card_info["set"], card_info["pack"] = extract_set_and_pack_info(soup)
     card_info["alternate_versions"] = extract_alternate_versions(soup)
     card_info["artist"] = extract_artist(soup)
     card_info["probability"] = get_probabilities_by_rarity(card_info["rarity"])
@@ -309,14 +312,20 @@ def extract_alternate_versions(soup):
         rarity_text = rarity_cell.text.strip() if rarity_cell else None
         if version_text and rarity_text:
             version_text = " ".join(version_text.split())
+            rarity_symbol = rarity_text if rarity_text != "Crown Rare" else "♛"
             alternate_versions.append(
                 {
                     "version": version_text,
-                    "rarity": rarity_text if rarity_text != "Crown Rare" else "♛",
+                    #"rarity_symbol": rarity_symbol,
+                    "rarity": convert_rarity_to_readable(rarity_symbol),
                 }
             )
     if not alternate_versions:
-        alternate_versions.append({"version": "Unknown", "rarity": "Unknown"})
+        alternate_versions.append({
+            "version": "Unknown", 
+            #"rarity_symbol": "Unknown",
+            "rarity": "Unknown"
+        })
     return alternate_versions
 
 
@@ -350,10 +359,23 @@ def iterate_all_sets():
         iterate_per_set(set_name, 1, 285)
 
 
-def convert_cards_to_json(start_id, end_id, filename):
+def convert_cards_to_json(start_id, end_id, filename, sets_to_scrape=None):
+    """
+    Convert Pokemon cards to JSON format.
+    
+    Args:
+        start_id (int): Starting card ID
+        end_id (int): Ending card ID  
+        filename (str): Output JSON filename
+        sets_to_scrape (list): List of sets to scrape. If None, uses the global 'sets' variable
+    """
+    if sets_to_scrape is None:
+        sets_to_scrape = sets
+    
     cards = []
     error_tracker = 0
-    for set_name in sets:
+    for set_name in sets_to_scrape:
+        print(f"Scraping set: {set_name}")
         for i in range(start_id, end_id + 1):
             url = f"{BASE_URL}{set_name}/{i}"
             response = requests.get(url)
@@ -371,19 +393,51 @@ def convert_cards_to_json(start_id, end_id, filename):
                 continue
 
             cards.append(card_info)
-    with open(filename, "w") as file:
+    with open(filename, "w", encoding="utf-8") as file:
         json.dump(cards, file, ensure_ascii=False, indent=4)
 
+
+# Rarity symbol to human-readable name mapping
+rarity_mapping = {
+    "◊": "Common",
+    "◊◊": "Uncommon", 
+    "◊◊◊": "Rare",
+    "◊◊◊◊": "Rare EX",
+    "☆": "Full Art",
+    "☆☆": "Full Art EX/Support",
+    "☆☆☆": "Immersive",
+    "♛": "Gold Crown",
+    "Crown Rare": "Gold Crown",  # Alternative name for ♛
+    "Promo": "Promo",
+    # Additional mappings for edge cases
+    "One shiny star": "Full Art",
+    "Two shiny stars": "Full Art EX/Support", 
+    "Two shiny star": "Full Art EX/Support",  # Handle typo in user request
+    "Unknown": "Unknown"
+}
+
+def convert_rarity_to_readable(rarity_symbol):
+    """
+    Convert rarity symbol to human-readable format.
+    
+    Args:
+        rarity_symbol (str): The rarity symbol (e.g., "◊", "☆☆", "♛")
+        
+    Returns:
+        str: Human-readable rarity name (e.g., "Common", "Full Art EX/Support", "Gold Crown")
+    """
+    return rarity_mapping.get(rarity_symbol, rarity_symbol)
 
 # Example use
 init_time = time.time()
 start_id = 1
 end_id = 286
 filename = "pokemon_cards.json"
-iterate_all_sets()
-#convert_cards_to_json(start_id, end_id, filename)
+#iterate_all_sets() # command to output to console
+print("Starting Pokemon card scraping...")
+convert_cards_to_json(start_id, end_id, filename)
 end_time = time.time()
 print(
     f"Finished downloading cards to {filename}, total time: {
-        end_time - init_time} segundos."
+        end_time - init_time} seconds."
 )
