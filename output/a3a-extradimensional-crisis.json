@@ -1,0 +1,4465 @@
+[
+    {
+        "id": "A3A-1",
+        "name": "Petilil",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_001_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Seed Bomb",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #1",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-2",
+        "name": "Lilligant",
+        "hp": "110",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Petilil",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_002_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Cut",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #2",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kagemaru Himeno",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-3",
+        "name": "Rowlet",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_003_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Fury Attack",
+                "damage": "10x",
+                "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #3",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #70",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-4",
+        "name": "Dartrix",
+        "hp": "80",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Rowlet",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_004_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Skill",
+                "damage": "Dive",
+                "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #4",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "AKIRA EGAWA",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-5",
+        "name": "Decidueye",
+        "hp": "130",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Dartrix",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_005_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Sniping",
+                "damage": "Arrow",
+                "effect": "This attack does 70 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #5",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-6",
+        "name": "Buzzwole ex",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_006_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Punch",
+                "damage": "30",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Big Beat",
+                "damage": "120",
+                "effect": "During your next turn, this Pokémon can't use Big Beat."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #6",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #76",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #88",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA Mochizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-7",
+        "name": "Pheromosa",
+        "hp": "70",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_007_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Jump Blues",
+                "damage": "20",
+                "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #7",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #71",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-8",
+        "name": "Kartana",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_008_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Thrash Metal",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #8",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "nagimiso",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-9",
+        "name": "Blacephalon",
+        "hp": "100",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_009_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Beat Punk",
+                "damage": "130",
+                "effect": "This Pokémon also does 70 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #9",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #72",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Anesaki Dynamic",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-10",
+        "name": "Mantine",
+        "hp": "90",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_010_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Surf",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #10",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-11",
+        "name": "Carvanha",
+        "hp": "60",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_011_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #11",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Hideki Ishikawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-12",
+        "name": "Sharpedo",
+        "hp": "90",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Carvanha",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_012_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Crunch",
+                "damage": "50",
+                "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #12",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Yumi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-13",
+        "name": "Shinx",
+        "hp": "60",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_013_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #13",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-14",
+        "name": "Luxio",
+        "hp": "80",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Shinx",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_014_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Head Bolt",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #14",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-15",
+        "name": "Luxray",
+        "hp": "130",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 2 - Evolves from Luxio",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_015_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Electric Ball",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Intimidating Fang",
+            "effect": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #15",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-16",
+        "name": "Blitzle",
+        "hp": "60",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_016_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Rear Kick",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #16",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Miki Tanaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-17",
+        "name": "Zebstrika",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Blitzle",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_017_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Head Bolt",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #17",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Hajime Kusajima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-18",
+        "name": "Emolga",
+        "hp": "70",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_018_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Static Shock",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #18",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Naoki Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-19",
+        "name": "Tapu Koko ex",
+        "hp": "130",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_019_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma Hurricane",
+                "damage": "20",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Mach Bolt",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #77",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #84",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-20",
+        "name": "Xurkitree",
+        "hp": "100",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_020_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Electronica",
+                "damage": "60",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #20",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Satoshi Shirai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-21",
+        "name": "Zeraora",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_021_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Lightning Claw",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Thunderclap Flash",
+            "effect": "At the end of your first turn, take a  Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #21",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "kawayoo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-22",
+        "name": "Clefairy",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_022_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #22",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sumiyoshi Kizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-23",
+        "name": "Clefable",
+        "hp": "100",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Clefairy",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_023_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Moon Kick",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #23",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "miki kudo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-24",
+        "name": "Phantump",
+        "hp": "70",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_024_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Spooky Shot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #24",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-25",
+        "name": "Trevenant",
+        "hp": "120",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Phantump",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_025_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wrack Down",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #25",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-26",
+        "name": "Morelull",
+        "hp": "50",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_026_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Hook",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #26",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Midori Harada",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-27",
+        "name": "Shiinotic",
+        "hp": "90",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Morelull",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_027_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Illuminate",
+            "effect": "Once during your turn, you may put a random Pokémon from your deck into your hand."
+        },
+        "weakness": "Metal",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #27",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "kawayoo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-28",
+        "name": "Meditite",
+        "hp": "60",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_028_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Trip Over",
+                "damage": "10+",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #28",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Yukiko Baba",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-29",
+        "name": "Medicham",
+        "hp": "90",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Meditite",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_029_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "High Jump Kick",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #29",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Misa Tsutsui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-30",
+        "name": "Baltoy",
+        "hp": "60",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_030_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Spinning Attack",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #30",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Uta",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-31",
+        "name": "Claydol",
+        "hp": "100",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Baltoy",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_031_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Power Beam",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Heal Block",
+            "effect": "Pokémon (both yours and your opponent's) can't be healed."
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #31",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Satoshi Shirai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-32",
+        "name": "Rockruff",
+        "hp": "60",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_032_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Rock Throw",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #32",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "match",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-33",
+        "name": "Lycanroc ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Rockruff",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_033_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Lycanfang",
+                "damage": "130",
+                "effect": "Discard a [F] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #33",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #78",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #85",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-34",
+        "name": "Passimian",
+        "hp": "100",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_034_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Let’s Throw",
+                "damage": "40+",
+                "effect": "If Passimian is on your Bench, this attack does 40 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #34",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Naoki Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-35",
+        "name": "Sandygast",
+        "hp": "80",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_035_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Sandy Shot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #35",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Yuka Morii",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-36",
+        "name": "Palossand",
+        "hp": "130",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Sandygast",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_036_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sand Tomb",
+                "damage": "90",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #36",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Hasuno",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-37",
+        "name": "Alolan Meowth",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_037_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Discard a random Pokémon Tool card from your opponent's hand."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #37",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sekio",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-38",
+        "name": "Alolan Persian",
+        "hp": "100",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Alolan Meowth",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_038_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Fake Out",
+                "damage": "50",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #38",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "ryoma uratsuka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-39",
+        "name": "Sandile",
+        "hp": "70",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_039_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #39",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Naoyo Kimura",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-40",
+        "name": "Krokorok",
+        "hp": "90",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Sandile",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_040_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Light Punch",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #40",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Akira Komayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-41",
+        "name": "Krookodile",
+        "hp": "140",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 2 - Evolves from Krokorok",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_041_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Poaching Fangs",
+                "damage": "90",
+                "effect": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #41",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Naoki Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-42",
+        "name": "Nihilego",
+        "hp": "70",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_042_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "New Wave",
+                "damage": "30",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "More Poison",
+            "effect": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #42",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #103",
+                "rarity": "Gold Crown"
+            }
+        ],
+        "artist": "nagimiso",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-43",
+        "name": "Guzzlord ex",
+        "hp": "170",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_043_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Grindcore",
+                "damage": "30",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Tyrannical Hole",
+                "damage": "120",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "4",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #86",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Yamashita",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-44",
+        "name": "Poipole",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_044_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "2-Step",
+                "damage": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #44",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-45",
+        "name": "Naganadel",
+        "hp": "100",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Poipole",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_045_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Electro House",
+                "damage": "40",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #45",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-46",
+        "name": "Alolan Diglett",
+        "hp": "60",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_046_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Happened to Headbutt",
+                "damage": "40",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #46",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Megumi Mizutani",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-47",
+        "name": "Alolan Dugtrio ex",
+        "hp": "130",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Alolan Diglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_047_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "damage": "60x",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #47",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-48",
+        "name": "Aron",
+        "hp": "70",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_048_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #48",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shigenori Negishi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-49",
+        "name": "Lairon",
+        "hp": "100",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Aron",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_049_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Lunge Out",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "3",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #49",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mizue",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-50",
+        "name": "Aggron",
+        "hp": "160",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 2 - Evolves from Lairon",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_050_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "damage": "150",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "4",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #50",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Satoshi Shirai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-51",
+        "name": "Ferroseed",
+        "hp": "60",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_051_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spike Sting",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #51",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Midori Harada",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-52",
+        "name": "Ferrothorn",
+        "hp": "110",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Ferroseed",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_052_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spinning Attack",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Steel Spikes",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        },
+        "weakness": "Fire",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #52",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-53",
+        "name": "Stakataka",
+        "hp": "110",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_053_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Brass Rock",
+                "damage": "40",
+                "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #53",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Anesaki Dynamic",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-54",
+        "name": "Lillipup",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_054_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #54",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mizue",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-55",
+        "name": "Herdier",
+        "hp": "80",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Lillipup",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_055_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #55",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Midori Harada",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-56",
+        "name": "Stoutland",
+        "hp": "140",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 2 - Evolves from Herdier",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_056_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sharp Fang",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Guard Dog Visage",
+            "effect": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1  more."
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #56",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Atsuko Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-57",
+        "name": "Stufful",
+        "hp": "70",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_057_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #57",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sekio",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-58",
+        "name": "Bewear",
+        "hp": "120",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Stufful",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_058_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Superpowered",
+                "damage": "Hug",
+                "effect": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #58",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Ryuta Fuse",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-59",
+        "name": "Oranguru",
+        "hp": "100",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_059_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hammer In",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #59",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-60",
+        "name": "Type: Null",
+        "hp": "80",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_060_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Quick Blow",
+                "damage": "20+",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #60",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "match",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-61",
+        "name": "Silvally",
+        "hp": "110",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Type: Null",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_061_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Brave Buddies",
+                "damage": "50+",
+                "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #61",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Eske Yoshinob",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-62",
+        "name": "Celesteela",
+        "hp": "120",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_062_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Moombahton",
+                "damage": "100",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "ability": {
+            "name": "Ultra Thrusters",
+            "effect": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        },
+        "weakness": "Lightning",
+        "retreat": "4",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #62",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "kawayoo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-63",
+        "name": "Beast Wall",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Item",
+        "subtype": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_063_EN_SM.webp",
+        "attacks": [],
+        "ability": "You can use this card only if your opponent hasn't gotten any points.During your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #63",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Toyste Beach",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-64",
+        "name": "Repel",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Item",
+        "subtype": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_064_EN_SM.webp",
+        "attacks": [],
+        "ability": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #64",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Yoshinobu Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-65",
+        "name": "Electrical Cord",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Tool",
+        "subtype": "Tool",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_065_EN_SM.webp",
+        "attacks": [],
+        "ability": "If the [L] Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 [L] Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #65",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Toyste Beach",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-66",
+        "name": "Beastite",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Tool",
+        "subtype": "Tool",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_066_EN_SM.webp",
+        "attacks": [],
+        "ability": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #66",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "inose yukie",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-67",
+        "name": "Gladion",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_067_EN_SM.webp",
+        "attacks": [],
+        "ability": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #67",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #81",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "hncl",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-68",
+        "name": "Looker",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_068_EN_SM.webp",
+        "attacks": [],
+        "ability": "Your opponent reveals all of the Supporter cards in their deck.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #68",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #82",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Hideki Ishikawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-69",
+        "name": "Lusamine",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_069_EN_SM.webp",
+        "attacks": [],
+        "ability": "You can use this card only if your opponent has gotten at least 1 point.Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #83",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Taira Akitsu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-70",
+        "name": "Rowlet",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_070_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Fury Attack",
+                "damage": "10x",
+                "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #3",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #70",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "OKACHEKE",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-71",
+        "name": "Pheromosa",
+        "hp": "70",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_071_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Jump Blues",
+                "damage": "20",
+                "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #7",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #71",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "matazo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-72",
+        "name": "Blacephalon",
+        "hp": "100",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_072_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Beat Punk",
+                "damage": "130",
+                "effect": "This Pokémon also does 70 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #9",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #72",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "akagi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-73",
+        "name": "Alolan Meowth",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_073_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Discard a random Pokémon Tool card from your opponent's hand."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #37",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Mina Nakai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-74",
+        "name": "Silvally",
+        "hp": "110",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Type: Null",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_074_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Brave Buddies",
+                "damage": "50+",
+                "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #61",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "hncl",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-75",
+        "name": "Celesteela",
+        "hp": "120",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_075_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Moombahton",
+                "damage": "100",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "ability": {
+            "name": "Ultra Thrusters",
+            "effect": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        },
+        "weakness": "Lightning",
+        "retreat": "4",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #62",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "REND",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-76",
+        "name": "Buzzwole ex",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_076_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Punch",
+                "damage": "30",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Big Beat",
+                "damage": "120",
+                "effect": "During your next turn, this Pokémon can't use Big Beat."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #6",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #76",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #88",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA Mochizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-77",
+        "name": "Tapu Koko ex",
+        "hp": "130",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_077_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma Hurricane",
+                "damage": "20",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Mach Bolt",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #77",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #84",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-78",
+        "name": "Lycanroc ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Rockruff",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_078_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Lycanfang",
+                "damage": "130",
+                "effect": "Discard a [F] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #33",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #78",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #85",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-79",
+        "name": "Guzzlord ex",
+        "hp": "170",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_079_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Grindcore",
+                "damage": "30",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Tyrannical Hole",
+                "damage": "120",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "4",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #86",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Yamashita",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-80",
+        "name": "Alolan Dugtrio ex",
+        "hp": "130",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Alolan Diglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_080_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "damage": "60x",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #47",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-81",
+        "name": "Gladion",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_081_EN_SM.webp",
+        "attacks": [],
+        "ability": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #67",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #81",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "hncl",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-82",
+        "name": "Looker",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_082_EN_SM.webp",
+        "attacks": [],
+        "ability": "Your opponent reveals all of the Supporter cards in their deck.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #68",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #82",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Hideki Ishikawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-83",
+        "name": "Lusamine",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_083_EN_SM.webp",
+        "attacks": [],
+        "ability": "You can use this card only if your opponent has gotten at least 1 point.Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #83",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Taira Akitsu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-84",
+        "name": "Tapu Koko ex",
+        "hp": "130",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_084_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma Hurricane",
+                "damage": "20",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Mach Bolt",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #77",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #84",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Dsuke",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-85",
+        "name": "Lycanroc ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Rockruff",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_085_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Lycanfang",
+                "damage": "130",
+                "effect": "Discard a [F] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #33",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #78",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #85",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Jiro Sasumo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-86",
+        "name": "Guzzlord ex",
+        "hp": "170",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_086_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Grindcore",
+                "damage": "30",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Tyrannical Hole",
+                "damage": "120",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "4",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #86",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Nurikabe",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-87",
+        "name": "Alolan Dugtrio ex",
+        "hp": "130",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Alolan Diglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_087_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "damage": "60x",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #47",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "KEIICHIRO ITO",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-88",
+        "name": "Buzzwole ex",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_088_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Punch",
+                "damage": "30",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Big Beat",
+                "damage": "120",
+                "effect": "During your next turn, this Pokémon can't use Big Beat."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆☆☆",
+        "fullart": "Yes",
+        "rarity": "Immersive",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #6",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Extradimensional Crisis #76",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #88",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "akagi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-89",
+        "name": "Growlithe",
+        "hp": "70",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_089_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #39",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #89",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Saya Tsuruta",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-90",
+        "name": "Arcanine",
+        "hp": "130",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Growlithe",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_090_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Heat Tackle",
+                "damage": "100",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #40",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #90",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Saya Tsuruta",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-91",
+        "name": "Froakie",
+        "hp": "60",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_091_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #87",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #91",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-92",
+        "name": "Frogadier",
+        "hp": "80",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Froakie",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_092_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Water Drip",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #88",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Extradimensional Crisis #92",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-93",
+        "name": "Greninja",
+        "hp": "120",
+        "Element": "Water",
+        "type": "Pokémon - Stage 2 - Evolves from Frogadier",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_093_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Mist Slash",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Water Shuriken",
+            "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #89",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #93",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-94",
+        "name": "Jynx",
+        "hp": "80",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_094_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "30+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #127",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #94",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "MAHOU",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-95",
+        "name": "Pidgey",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_095_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Gust",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #186",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #95",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Misa Tsutsui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-96",
+        "name": "Pidgeotto",
+        "hp": "80",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Pidgey",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_096_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Gust",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #187",
+                "rarity": "Common"
+            },
+            {
+                "version": "Extradimensional Crisis #96",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Misa Tsutsui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-97",
+        "name": "Pidgeot",
+        "hp": "130",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 2 - Evolves from Pidgeotto",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_097_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Drive Off",
+            "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #188",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Genetic Apex #245",
+                "rarity": "Full Art"
+            },
+            {
+                "version": "Extradimensional Crisis #97",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Misa Tsutsui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-98",
+        "name": "Aerodactyl",
+        "hp": "100",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Old Amber",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_098_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Primal",
+                "damage": "Wingbeat",
+                "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #210",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #98",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-99",
+        "name": "Celebi ex",
+        "hp": "130",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_099_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Powerful Bloom",
+                "damage": "50x",
+                "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Mythical Island #3",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Mythical Island #75",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Mythical Island #85",
+                "rarity": "Immersive"
+            },
+            {
+                "version": "Extradimensional Crisis #99",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-100",
+        "name": "Arcanine ex",
+        "hp": "150",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Growlithe",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_100_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Inferno Onrush",
+                "damage": "120",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #41",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Genetic Apex #254",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #100",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-101",
+        "name": "Aerodactyl ex",
+        "hp": "140",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Old Amber",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_101_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Land Crush",
+                "damage": "80",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Primeval Law",
+            "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Mythical Island #46",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Mythical Island #78",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Mythical Island #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #101",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-102",
+        "name": "Pidgeot ex",
+        "hp": "170",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 2 - Evolves from Pidgeotto",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_102_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scattering Cyclone",
+                "damage": "80+",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Mythical Island #59",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Mythical Island #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Extradimensional Crisis #102",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3A-103",
+        "name": "Nihilego",
+        "hp": "70",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_103_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "New Wave",
+                "damage": "30",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "More Poison",
+            "effect": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "Crown Rare",
+        "fullart": "Yes",
+        "rarity": "Gold Crown",
+        "ex": "No",
+        "set": "Extradimensional Crisis  (A3a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Extradimensional Crisis #42",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Extradimensional Crisis #103",
+                "rarity": "Gold Crown"
+            }
+        ],
+        "artist": "PLANETA Yamashita",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    }
+]

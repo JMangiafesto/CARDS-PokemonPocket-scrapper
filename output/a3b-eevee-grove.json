@@ -1,0 +1,4660 @@
+[
+    {
+        "id": "A3B-1",
+        "name": "Tropius",
+        "hp": "100",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_001_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Cutting Wind",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #1",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Oswaldo KATO",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-2",
+        "name": "Leafeon",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_002_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "damage": "10+",
+                "effect": "This attack does 20 more damage for each [G] Energy attached to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #2",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #70",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "chibi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-3",
+        "name": "Bounsweet",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_003_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #3",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Yuka Morii",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-4",
+        "name": "Steenee",
+        "hp": "80",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Bounsweet",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_004_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Leaf Step",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #4",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Tomokazu Komiya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-5",
+        "name": "Tsareena",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Steenee",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_005_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Kick Down",
+                "damage": "50",
+                "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #5",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Naoki Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-6",
+        "name": "Applin",
+        "hp": "40",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_006_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Ram",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #6",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kagemaru Himeno",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-7",
+        "name": "Appletun",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Applin",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_007_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Sweets Relay",
+                "damage": "40+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #7",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Akira Komayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-8",
+        "name": "Flareon",
+        "hp": "110",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_008_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Assisting Heater",
+                "damage": "40",
+                "effect": "Take a [R] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #8",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #71",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Eri Yamaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-9",
+        "name": "Flareon ex",
+        "hp": "150",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_009_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "damage": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Ability Combust",
+            "effect": "Once during your turn, you may attach a  Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #9",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-10",
+        "name": "Torkoal",
+        "hp": "100",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_010_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Flamethrower",
+                "damage": "70",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #10",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-11",
+        "name": "Litten",
+        "hp": "70",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_011_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Flare",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #11",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "0313",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-12",
+        "name": "Torracat",
+        "hp": "80",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Litten",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_012_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Claw Slash",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #12",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-13",
+        "name": "Incineroar",
+        "hp": "150",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 2 - Evolves from Torracat",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_013_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Darkest Lariat",
+                "damage": "100x",
+                "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #13",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Hitoshi Ariga",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-14",
+        "name": "Salandit",
+        "hp": "60",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_014_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Ember",
+                "damage": "30",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #14",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "tetsuya koizumi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-15",
+        "name": "Salazzle",
+        "hp": "90",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Salandit",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_015_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "0",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #15",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shibuzoh.",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-16",
+        "name": "Vaporeon",
+        "hp": "120",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_016_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hyper Whirlpool",
+                "damage": "70",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #16",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #72",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-17",
+        "name": "Glaceon",
+        "hp": "100",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_017_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Ice",
+                "damage": "Blade",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #17",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Mizue",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-18",
+        "name": "Vanillite",
+        "hp": "60",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_018_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "damage": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #18",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "MAHOU",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-19",
+        "name": "Vanillish",
+        "hp": "80",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Vanillite",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_019_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "damage": "30+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #19",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-20",
+        "name": "Vanilluxe",
+        "hp": "140",
+        "Element": "Water",
+        "type": "Pokémon - Stage 2 - Evolves from Vanillish",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_020_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Double Spin",
+                "damage": "80x",
+                "effect": "Flip 2 coins. This attack does 80 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #20",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Ayaka Yoshida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-21",
+        "name": "Alomomola",
+        "hp": "110",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_021_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Water Pulse",
+                "damage": "50",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #21",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Miki Tanaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-22",
+        "name": "Popplio",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_022_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Watering",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #22",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "match",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-23",
+        "name": "Brionne",
+        "hp": "90",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Popplio",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_023_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Water Gun",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #23",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Atsuko Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-24",
+        "name": "Primarina ex",
+        "hp": "180",
+        "Element": "Water",
+        "type": "Pokémon - Stage 2 - Evolves from Brionne",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_024_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "damage": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "damage": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #24",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #88",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-25",
+        "name": "Jolteon",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_025_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "damage": "40+",
+                "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #25",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-26",
+        "name": "Joltik",
+        "hp": "40",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_026_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Jolt",
+                "damage": "10",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #26",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-27",
+        "name": "Galvantula",
+        "hp": "80",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Joltik",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_027_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Electric Shock",
+                "damage": "70",
+                "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "0",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #27",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "otumami",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-28",
+        "name": "Espeon",
+        "hp": "100",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_028_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #28",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Ryota Murayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-29",
+        "name": "Woobat",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_029_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Gust",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #29",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "match",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-30",
+        "name": "Swoobat",
+        "hp": "100",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Woobat",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_030_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "syshot",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #30",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shigenori Negishi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-31",
+        "name": "Swirlix",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_031_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "damage": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #31",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "MAHOU",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-32",
+        "name": "Slurpuff",
+        "hp": "120",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Swirlix",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_032_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "damage": "30+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #32",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Kyoko Umemoto",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-33",
+        "name": "Sylveon",
+        "hp": "90",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_033_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "damage": "40+",
+                "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #33",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #76",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Naoyo Kimura",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-34",
+        "name": "Sylveon ex",
+        "hp": "140",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_034_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #34",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #89",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-35",
+        "name": "Mimikyu",
+        "hp": "70",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_035_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Try to",
+                "damage": "Imitate",
+                "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #35",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Eri Yamaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-36",
+        "name": "Milcery",
+        "hp": "50",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_036_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "damage": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #36",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mina Nakai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-37",
+        "name": "Alcremie",
+        "hp": "80",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Milcery",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_037_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Overload",
+                "damage": "40x",
+                "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #37",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Mizue",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-38",
+        "name": "Barboach",
+        "hp": "70",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_038_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Mud Shot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #38",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Tomokazu Komiya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-39",
+        "name": "Whiscash",
+        "hp": "130",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Barboach",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_039_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Earthquake",
+                "damage": "130",
+                "effect": "This attack also does 10 damage to each of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "3",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #39",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shinji Kanda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-40",
+        "name": "Mienfoo",
+        "hp": "60",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_040_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Kick Shot",
+                "damage": "40",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #40",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shigenori Negishi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-41",
+        "name": "Mienshao",
+        "hp": "90",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Mienfoo",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_041_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Low Kick",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #41",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shibuzoh.",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-42",
+        "name": "Carbink",
+        "hp": "80",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_042_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Hard Roll",
+                "damage": "30",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #42",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "5ban Graphics",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-43",
+        "name": "Umbreon",
+        "hp": "100",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_043_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "ark Binding",
+                "damage": "40",
+                "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #43",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #77",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Ryota Murayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-44",
+        "name": "Sableye",
+        "hp": "70",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_044_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Scratch",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #44",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Yukiko Baba",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-45",
+        "name": "Purrloin",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_045_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Playful",
+                "damage": "Knockdown",
+                "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #45",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-46",
+        "name": "Liepard",
+        "hp": "90",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Purrloin",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_046_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Slashing Claw",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #46",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "kawayoo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-47",
+        "name": "Mawile",
+        "hp": "70",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_047_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Powerful Vise",
+                "damage": "30",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #47",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "AKIRA EGAWA",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-48",
+        "name": "Togedemaru",
+        "hp": "80",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_048_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Bristling Spikes",
+                "damage": "30",
+                "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #48",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Oswaldo KATO",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-49",
+        "name": "Meltan",
+        "hp": "60",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_049_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #49",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "HYOGONOSUKE",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-50",
+        "name": "Melmetal",
+        "hp": "140",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Meltan",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_050_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Mega Punch",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "4",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #50",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "NC Empire",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-51",
+        "name": "Dratini",
+        "hp": "60",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_051_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Beat",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #51",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Naoyo Kimura",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-52",
+        "name": "Dragonair",
+        "hp": "90",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Stage 1 - Evolves from Dratini",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_052_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Lightning"
+                ],
+                "name": "Waterfall",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #52",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-53",
+        "name": "Dragonite ex",
+        "hp": "180",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Stage 2 - Evolves from Dragonair",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_053_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "damage": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #53",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #90",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-54",
+        "name": "Drampa",
+        "hp": "100",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_054_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Dragon Breath",
+                "damage": "70",
+                "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #54",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-55",
+        "name": "Eevee",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_055_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Draw a card."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #55",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #78",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Naoki Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-56",
+        "name": "Eevee ex",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_056_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #56",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #92",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-57",
+        "name": "Snorlax ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_057_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "damage": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "ability": {
+            "name": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "weakness": "Fighting",
+        "retreat": "4",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #57",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #91",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Tsuji",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-58",
+        "name": "Aipom",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_058_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Double Hit",
+                "damage": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #58",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shibuzoh.",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-59",
+        "name": "Ambipom",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Aipom",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_059_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Corkscrew Punch",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Catching Tail",
+            "effect": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #59",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Sumiyoshi Kizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-60",
+        "name": "Chatot",
+        "hp": "70",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_060_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tone-Deaf",
+                "damage": "10",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #60",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Akira Komayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-61",
+        "name": "Audino",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_061_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Do the Wave",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #61",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-62",
+        "name": "Minccino",
+        "hp": "70",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_062_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #62",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sekio",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-63",
+        "name": "Cinccino",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Minccino",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_063_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #63",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Mizue",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-64",
+        "name": "Skwovet",
+        "hp": "70",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_064_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #64",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Akira Komayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-65",
+        "name": "Greedent",
+        "hp": "120",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Skwovet",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_065_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Enhanced Fang",
+                "damage": "50+",
+                "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #65",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "kirisAki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-66",
+        "name": "Eevee Bag",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Item",
+        "subtype": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_066_EN_SM.webp",
+        "attacks": [],
+        "ability": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #66",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #107",
+                "rarity": "Gold Crown"
+            }
+        ],
+        "artist": "AYUMI ODASHIMA",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-67",
+        "name": "Leftovers",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Tool",
+        "subtype": "Tool",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_067_EN_SM.webp",
+        "attacks": [],
+        "ability": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #67",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Studio Bora Inc.",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-68",
+        "name": "Hau",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_068_EN_SM.webp",
+        "attacks": [],
+        "ability": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #68",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #85",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Yuu Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-69",
+        "name": "Penny",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_069_EN_SM.webp",
+        "attacks": [],
+        "ability": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #86",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Susumu Maeya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-70",
+        "name": "Leafeon",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_070_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "damage": "10+",
+                "effect": "This attack does 20 more damage for each [G] Energy attached to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #2",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #70",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Ryota Murayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-71",
+        "name": "Flareon",
+        "hp": "110",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_071_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Assisting Heater",
+                "damage": "40",
+                "effect": "Take a [R] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #8",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #71",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Teeziro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-72",
+        "name": "Vaporeon",
+        "hp": "120",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_072_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hyper Whirlpool",
+                "damage": "70",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #16",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #72",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "chibi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-73",
+        "name": "Glaceon",
+        "hp": "100",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_073_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Ice",
+                "damage": "Blade",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #17",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Fujimoto Gold",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-74",
+        "name": "Jolteon",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_074_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "damage": "40+",
+                "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #25",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Nisota Niso",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-75",
+        "name": "Espeon",
+        "hp": "100",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_075_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #28",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "rika",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-76",
+        "name": "Sylveon",
+        "hp": "90",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_076_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "damage": "40+",
+                "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #33",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #76",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "saino misaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-77",
+        "name": "Umbreon",
+        "hp": "100",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_077_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "ark Binding",
+                "damage": "40",
+                "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #43",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Eevee Grove #77",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "kawayoo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-78",
+        "name": "Eevee",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_078_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Draw a card."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #55",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #78",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Narumi Sato",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-79",
+        "name": "Flareon ex",
+        "hp": "150",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_079_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "damage": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Ability Combust",
+            "effect": "Once during your turn, you may attach a  Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #9",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-80",
+        "name": "Primarina ex",
+        "hp": "180",
+        "Element": "Water",
+        "type": "Pokémon - Stage 2 - Evolves from Brionne",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_080_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "damage": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "damage": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #24",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #88",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-81",
+        "name": "Sylveon ex",
+        "hp": "140",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_081_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #34",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #89",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-82",
+        "name": "Dragonite ex",
+        "hp": "180",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Stage 2 - Evolves from Dragonair",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_082_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "damage": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #53",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #90",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Mochizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-83",
+        "name": "Eevee ex",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_083_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #56",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #92",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-84",
+        "name": "Snorlax ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_084_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "damage": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "ability": {
+            "name": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "weakness": "Fighting",
+        "retreat": "4",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #57",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #91",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-85",
+        "name": "Hau",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_085_EN_SM.webp",
+        "attacks": [],
+        "ability": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #68",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #85",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Yuu Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-86",
+        "name": "Penny",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_086_EN_SM.webp",
+        "attacks": [],
+        "ability": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #86",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Susumu Maeya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-87",
+        "name": "Flareon ex",
+        "hp": "150",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_087_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "damage": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Ability Combust",
+            "effect": "Once during your turn, you may attach a  Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #9",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #87",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Kuroimori",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-88",
+        "name": "Primarina ex",
+        "hp": "180",
+        "Element": "Water",
+        "type": "Pokémon - Stage 2 - Evolves from Brionne",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_088_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "damage": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "damage": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #24",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #88",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "DOM",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-89",
+        "name": "Sylveon ex",
+        "hp": "140",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Eevee",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_089_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "weakness": "Metal",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #34",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #89",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Yuu Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-90",
+        "name": "Dragonite ex",
+        "hp": "180",
+        "Element": "Unknown Type",
+        "type": "Pokémon - Stage 2 - Evolves from Dragonair",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_090_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "damage": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #53",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #90",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Mori Yuu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-91",
+        "name": "Snorlax ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_091_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "damage": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "ability": {
+            "name": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "weakness": "Fighting",
+        "retreat": "4",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #57",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #91",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Mékayu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-92",
+        "name": "Eevee ex",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_092_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆☆",
+        "fullart": "Yes",
+        "rarity": "Immersive",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #56",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Eevee Grove #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #92",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "kurumitsu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-93",
+        "name": "Pinsir",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_093_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Guillotine Rush",
+                "damage": "50+",
+                "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #4",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #93",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-94",
+        "name": "Lapras",
+        "hp": "100",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_094_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "damage": "20+",
+                "effect": "If this Pokémon has at least 3 extra [W] Energy attached, this attack does 70 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #79",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Genetic Apex #234",
+                "rarity": "Full Art"
+            },
+            {
+                "version": "Eevee Grove #94",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Nelnal",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-95",
+        "name": "Voltorb",
+        "hp": "60",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_095_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Big Explosion",
+                "damage": "30",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Space-Time Smackdown #54",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #95",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Scav",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-96",
+        "name": "Electrode",
+        "hp": "80",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Voltorb",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_096_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Rolling Attack",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Space-Time Smackdown #55",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #96",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Scav",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-97",
+        "name": "Ralts",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_097_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Space-Time Smackdown #68",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #97",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-98",
+        "name": "Kirlia",
+        "hp": "80",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Ralts",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_098_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Space-Time Smackdown #69",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #98",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-99",
+        "name": "Gardevoir",
+        "hp": "110",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 2 - Evolves from Kirlia",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_099_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psyshot",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Ability Psy Shadow",
+            "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to the  Pokémon in the Active Spot."
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #99",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-100",
+        "name": "Ekans",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_100_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #164",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #100",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "SATOSHI NAKAI",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-101",
+        "name": "Arbok",
+        "hp": "100",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Ekans",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_101_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Corner",
+                "damage": "60",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #165",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #101",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "SATOSHI NAKAI",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-102",
+        "name": "Farfetch'd",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_102_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Leek Slap",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #198",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #102",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "MAHOU",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-103",
+        "name": "Moltres ex",
+        "hp": "140",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_103_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Inferno",
+                "damage": "Dance",
+                "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heat Blast",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #47",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Genetic Apex #255",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Genetic Apex #274",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #103",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-104",
+        "name": "Articuno ex",
+        "hp": "140",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_104_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ice Wing",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Blizzard",
+                "damage": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #84",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Genetic Apex #258",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Genetic Apex #275",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #104",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-105",
+        "name": "Zapdos ex",
+        "hp": "130",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_105_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Peck",
+                "damage": "20",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thundering Hurricane",
+                "damage": "50x",
+                "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Genetic Apex #104",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Genetic Apex #260",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Genetic Apex #276",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #105",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Saito",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-106",
+        "name": "Gallade ex",
+        "hp": "170",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 2 - Evolves from Kirlia",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_106_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Energized Blade",
+                "damage": "70+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Space-Time Smackdown #95",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Space-Time Smackdown #185",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Space-Time Smackdown #200",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Eevee Grove #106",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A3B-107",
+        "name": "Eevee Bag",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Item",
+        "subtype": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_107_EN_SM.webp",
+        "attacks": [],
+        "ability": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "Crown Rare",
+        "fullart": "Yes",
+        "rarity": "Gold Crown",
+        "ex": "No",
+        "set": "Eevee Grove  (A3b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Eevee Grove #66",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Eevee Grove #107",
+                "rarity": "Gold Crown"
+            }
+        ],
+        "artist": "AYUMI ODASHIMA",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    }
+]

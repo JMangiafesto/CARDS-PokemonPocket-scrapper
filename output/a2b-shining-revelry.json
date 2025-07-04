@@ -1,0 +1,4864 @@
+[
+    {
+        "id": "A2b-1",
+        "name": "Weedle",
+        "hp": "50",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_001_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Put 1 random Weedle from your deck onto your Bench."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #1",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #97",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Akira Komayama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-2",
+        "name": "Kakuna",
+        "hp": "80",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Weedle",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_002_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "String Shot",
+                "damage": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #2",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #98",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Yuka Morii",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-3",
+        "name": "Beedrill ex",
+        "hp": "170",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Kakuna",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_003_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "damage": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #3",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #107",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-4",
+        "name": "Pinsir",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_004_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Guillotine Rush",
+                "damage": "50+",
+                "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #4",
+                "rarity": "Common"
+            },
+            {
+                "version": "Eevee Grove #93",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Satoshi Shirai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-5",
+        "name": "Sprigatito",
+        "hp": "60",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_005_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Cry for",
+                "damage": "Help",
+                "effect": "Put 1 random [G] Pokémon from your deck into your hand."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #5",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "mashu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-6",
+        "name": "Floragato",
+        "hp": "90",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Sprigatito",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_006_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Slash",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #6",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "mashu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-7",
+        "name": "Meowscarada",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Floragato",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_007_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Fighting Claws",
+                "damage": "60+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #7",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "mashu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-8",
+        "name": "Charmander",
+        "hp": "60",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_008_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #8",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #99",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Megumi Mizutani",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-9",
+        "name": "Charmeleon",
+        "hp": "90",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Charmander",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_009_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #9",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #100",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "kodama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-10",
+        "name": "Charizard ex",
+        "hp": "180",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 2 - Evolves from Charmeleon",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_010_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "damage": "150",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "3",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #10",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #108",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-11",
+        "name": "Magmar",
+        "hp": "70",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_011_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Flare",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #11",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Miki Tanaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-12",
+        "name": "Magmortar",
+        "hp": "120",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Magmar",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_012_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Smoke Bomb",
+                "damage": "70",
+                "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "3",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #12",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Miki Tanaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-13",
+        "name": "Paldean Tauros",
+        "hp": "110",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_013_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Blaze Tackle",
+                "damage": "80",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #13",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Minahamu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-14",
+        "name": "Tentacool",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_014_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #14",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Shibuzoh.",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-15",
+        "name": "Tentacruel",
+        "hp": "100",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Tentacool",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_015_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "ave Splash",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #15",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "match",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-16",
+        "name": "Buizel",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_016_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "ater Gun",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #16",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "sui",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-17",
+        "name": "Floatzel",
+        "hp": "90",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Buizel",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_017_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "ater",
+                "damage": "Arrow",
+                "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #17",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-18",
+        "name": "Wiglett",
+        "hp": "60",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_018_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Spring",
+                "damage": "Out",
+                "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #18",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #101",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "miki kudo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-19",
+        "name": "Wugtrio ex",
+        "hp": "140",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Wiglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_019_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out",
+                "damage": "Throughout",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #109",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Tsuji",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-20",
+        "name": "Dondozo",
+        "hp": "120",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_020_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ocean Cyclone",
+                "damage": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "3",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #20",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #102",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Tomowaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-21",
+        "name": "Tatsugiri",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_021_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Retreat Directive",
+            "effect": "Your Active Dondozo has no Retreat Cost."
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #21",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Tomowaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-22",
+        "name": "Pikachu ex",
+        "hp": "120",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_022_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "damage": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #22",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #92",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-23",
+        "name": "Voltorb",
+        "hp": "70",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_023_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "ightning Ball",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #23",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Masakazu Fukuda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-24",
+        "name": "Electrode",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Voltorb",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_024_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Tumbling Attack",
+                "damage": "50+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #24",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shigenori Negishi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-25",
+        "name": "Pachirisu",
+        "hp": "70",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_025_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "damage": "10",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #25",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #103",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "imoniii",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-26",
+        "name": "Pawmi",
+        "hp": "60",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_026_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Punch",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #26",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Saboteri",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-27",
+        "name": "Pawmo",
+        "hp": "90",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 1 - Evolves from Pawmi",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_027_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Punch",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #27",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Saboteri",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-28",
+        "name": "Pawmot",
+        "hp": "140",
+        "Element": "Lightning",
+        "type": "Pokémon - Stage 2 - Evolves from Pawmo",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_028_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Electric Punch",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Counterattack",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": "0",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #28",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Saboteri",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-29",
+        "name": "Abra",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_029_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "syshot",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #29",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mousho",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-30",
+        "name": "Kadabra",
+        "hp": "80",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Abra",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_030_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "syshot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #30",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Mousho",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-31",
+        "name": "Alakazam",
+        "hp": "130",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 2 - Evolves from Kadabra",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_031_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Psychic Suppression",
+                "damage": "80",
+                "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #31",
+                "rarity": "Rare"
+            }
+        ],
+        "artist": "Mousho",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-32",
+        "name": "Mr. Mime",
+        "hp": "90",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_032_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Juggling",
+                "damage": "20x",
+                "effect": "Flip 4 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #32",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Atsuko Nishida",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-33",
+        "name": "Drifloon",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_033_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Ram",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #33",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "kodama",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-34",
+        "name": "Drifblim",
+        "hp": "90",
+        "Element": "Psychic",
+        "type": "Pokémon - Stage 1 - Evolves from Drifloon",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_034_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Gust",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "0",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #34",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Hajime Kusajima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-35",
+        "name": "Giratina ex",
+        "hp": "150",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_035_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "damage": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #35",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #96",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA Yamashita",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-36",
+        "name": "Gimmighoul",
+        "hp": "60",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_036_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #36",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "HYOGONOSUKE",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-37",
+        "name": "Machop",
+        "hp": "60",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_037_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Low Kick",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #37",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mina Nakai",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-38",
+        "name": "Machoke",
+        "hp": "100",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Machop",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_038_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Pummel",
+                "damage": "30+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #38",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-39",
+        "name": "Machamp",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 2 - Evolves from Machoke",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_039_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Power Press",
+                "damage": "70+",
+                "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #39",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Celestial Guardians #225",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Kouki Saitou",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-40",
+        "name": "Hitmonlee",
+        "hp": "80",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_040_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Kick",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #40",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Tomokazu Komiya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-41",
+        "name": "Hitmonchan",
+        "hp": "90",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_041_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Magnum Punch",
+                "damage": "90",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #41",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Tomokazu Komiya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-42",
+        "name": "Riolu",
+        "hp": "70",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_042_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #42",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #104",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "You Iribi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-43",
+        "name": "Lucario ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Riolu",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_043_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "damage": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #110",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-44",
+        "name": "Flamigo",
+        "hp": "80",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_044_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Double Kick",
+                "damage": "50x",
+                "effect": "Flip 2 coins. This attack does 50 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #44",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "REND",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-45",
+        "name": "Ekans",
+        "hp": "70",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_045_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #45",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Midori Harada",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-46",
+        "name": "Arbok",
+        "hp": "110",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Ekans",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_046_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Venomous Fang",
+                "damage": "70",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #46",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Midori Harada",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-47",
+        "name": "Paldean Wooper",
+        "hp": "50",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_047_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Poison Jab",
+                "damage": "10",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #47",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Mori Yuu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-48",
+        "name": "Paldean Clodsire ex",
+        "hp": "160",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Paldean Wooper",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_048_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "damage": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #48",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #85",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #93",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Mochizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-49",
+        "name": "Spiritomb",
+        "hp": "80",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_049_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Confuse Ray",
+                "damage": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #49",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "Shin Nagasawa",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-50",
+        "name": "Shroodle",
+        "hp": "60",
+        "Element": "Darkness",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_050_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Gnaw",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #50",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Krgc",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-51",
+        "name": "Grafaiai",
+        "hp": "90",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Shroodle",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_051_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Poison Coating",
+            "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #51",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #76",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Krgc",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-52",
+        "name": "Tinkatink",
+        "hp": "60",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_052_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Corkscrew Punch",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #52",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "miki kudo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-53",
+        "name": "Tinkatuff",
+        "hp": "90",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Tinkatink",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_053_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Tenacious Hammer",
+                "damage": "30+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #53",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "miki kudo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-54",
+        "name": "Tinkaton ex",
+        "hp": "170",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 2 - Evolves from Tinkatuff",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_054_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "damage": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #54",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #86",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #94",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Mochizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-55",
+        "name": "Varoom",
+        "hp": "70",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_055_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #55",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #105",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-56",
+        "name": "Revavroom",
+        "hp": "110",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Varoom",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_056_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spinning Drift",
+                "damage": "70",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #56",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #106",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-57",
+        "name": "Gholdengo",
+        "hp": "120",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Gimmighoul",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_057_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scintillating Surfing",
+                "damage": "50x",
+                "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #57",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #77",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "HYOGONOSUKE",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-58",
+        "name": "Rattata",
+        "hp": "50",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_058_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #58",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Eri Yamaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-59",
+        "name": "Raticate",
+        "hp": "90",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Rattata",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_059_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #59",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kyoko Umemoto",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-60",
+        "name": "Jigglypuff",
+        "hp": "60",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_060_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #60",
+                "rarity": "Common"
+            },
+            {
+                "version": "Celestial Guardians #228",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Kanako Eo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-61",
+        "name": "Wigglytuff",
+        "hp": "100",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Jigglypuff",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_061_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Comforting Song",
+            "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #61",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #78",
+                "rarity": "Full Art"
+            },
+            {
+                "version": "Celestial Guardians #229",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "miki kudo",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-62",
+        "name": "Lickitung",
+        "hp": "80",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_062_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #62",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sumiyoshi Kizuki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-63",
+        "name": "Lickilicky",
+        "hp": "130",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Lickitung",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_063_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #63",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Suwama Chiaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-64",
+        "name": "Bidoof",
+        "hp": "70",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_064_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #64",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Sekio",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-65",
+        "name": "Bibarel ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Bidoof",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_065_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "damage": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "◊◊◊◊",
+        "fullart": "No",
+        "rarity": "Rare EX",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #65",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #87",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #95",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-66",
+        "name": "Buneary",
+        "hp": "50",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_066_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #66",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Kagemaru Himeno",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-67",
+        "name": "Lopunny",
+        "hp": "100",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Buneary",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_067_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Hopping Shot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊",
+        "fullart": "No",
+        "rarity": "Common",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #67",
+                "rarity": "Common"
+            }
+        ],
+        "artist": "Minahamu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-68",
+        "name": "Cyclizar",
+        "hp": "80",
+        "Element": "Colorless",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_068_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Overacceleration",
+                "damage": "20",
+                "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #68",
+                "rarity": "Uncommon"
+            }
+        ],
+        "artist": "HAGIYA Kaoru",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-69",
+        "name": "Iono",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_069_EN_SM.webp",
+        "attacks": [],
+        "ability": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #88",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "saino misaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-70",
+        "name": "Pokémon Center Lady",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_070_EN_SM.webp",
+        "attacks": [],
+        "ability": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #70",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #89",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Susumu Maeya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-71",
+        "name": "Red",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_071_EN_SM.webp",
+        "attacks": [],
+        "ability": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #71",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #90",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Teeziro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-72",
+        "name": "Team Rocket Grunt",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_072_EN_SM.webp",
+        "attacks": [],
+        "ability": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "◊◊",
+        "fullart": "No",
+        "rarity": "Uncommon",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #72",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #91",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "kantaro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-73",
+        "name": "Meowscarada",
+        "hp": "140",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Floragato",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_073_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Fighting Claws",
+                "damage": "60+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #7",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #73",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "danciao",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-74",
+        "name": "Buizel",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_074_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "ater Gun",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #16",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #74",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Shimaris Yukichi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-75",
+        "name": "Tatsugiri",
+        "hp": "70",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_075_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Retreat Directive",
+            "effect": "Your Active Dondozo has no Retreat Cost."
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #21",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #75",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "cochi8i",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-76",
+        "name": "Grafaiai",
+        "hp": "90",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Shroodle",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_076_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Poison Coating",
+            "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #51",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #76",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Teeziro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-77",
+        "name": "Gholdengo",
+        "hp": "120",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Gimmighoul",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_077_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scintillating Surfing",
+                "damage": "50x",
+                "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #57",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #77",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Jerky",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-78",
+        "name": "Wigglytuff",
+        "hp": "100",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Jigglypuff",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_078_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Comforting Song",
+            "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #61",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #78",
+                "rarity": "Full Art"
+            },
+            {
+                "version": "Celestial Guardians #229",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "5ban Graphics",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-79",
+        "name": "Beedrill ex",
+        "hp": "170",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Kakuna",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_079_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "damage": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #3",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #107",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-80",
+        "name": "Charizard ex",
+        "hp": "180",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 2 - Evolves from Charmeleon",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_080_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "damage": "150",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #10",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #108",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-81",
+        "name": "Wugtrio ex",
+        "hp": "140",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Wiglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_081_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out",
+                "damage": "Throughout",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #109",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Tsuji",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-82",
+        "name": "Pikachu ex",
+        "hp": "120",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_082_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "damage": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #22",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #92",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-83",
+        "name": "Giratina ex",
+        "hp": "150",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_083_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "damage": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #35",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #96",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "PLANETA Yamashita",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-84",
+        "name": "Lucario ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Riolu",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_084_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "damage": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #110",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-85",
+        "name": "Paldean Clodsire ex",
+        "hp": "160",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Paldean Wooper",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_085_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "damage": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #48",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #85",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #93",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-86",
+        "name": "Tinkaton ex",
+        "hp": "170",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 2 - Evolves from Tinkatuff",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_086_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "damage": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #54",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #86",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #94",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-87",
+        "name": "Bibarel ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Bidoof",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_087_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "damage": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #65",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #87",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #95",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-88",
+        "name": "Iono",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_088_EN_SM.webp",
+        "attacks": [],
+        "ability": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #69",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #88",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "saino misaki",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-89",
+        "name": "Pokémon Center Lady",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_089_EN_SM.webp",
+        "attacks": [],
+        "ability": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #70",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #89",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Susumu Maeya",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-90",
+        "name": "Red",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_090_EN_SM.webp",
+        "attacks": [],
+        "ability": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #71",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #90",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "Teeziro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-91",
+        "name": "Team Rocket Grunt",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Supporter",
+        "subtype": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_091_EN_SM.webp",
+        "attacks": [],
+        "ability": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #72",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #91",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "kantaro",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-92",
+        "name": "Pikachu ex",
+        "hp": "120",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_092_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "damage": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #22",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #82",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #92",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "You Iribi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-93",
+        "name": "Paldean Clodsire ex",
+        "hp": "160",
+        "Element": "Darkness",
+        "type": "Pokémon - Stage 1 - Evolves from Paldean Wooper",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_093_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "damage": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #48",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #85",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #93",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "REND",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-94",
+        "name": "Tinkaton ex",
+        "hp": "170",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 2 - Evolves from Tinkatuff",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_094_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "damage": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #54",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #86",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #94",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "kurumitsu",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-95",
+        "name": "Bibarel ex",
+        "hp": "160",
+        "Element": "Colorless",
+        "type": "Pokémon - Stage 1 - Evolves from Bidoof",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_095_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "damage": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #65",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #87",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #95",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "USGMEN",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-96",
+        "name": "Giratina ex",
+        "hp": "150",
+        "Element": "Psychic",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_096_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "damage": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "weakness": "Darkness",
+        "retreat": "2",
+        "rarity_symbol": "☆☆☆",
+        "fullart": "Yes",
+        "rarity": "Immersive",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #35",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #83",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #96",
+                "rarity": "Immersive"
+            }
+        ],
+        "artist": "Shinji Kanda",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-97",
+        "name": "Weedle",
+        "hp": "50",
+        "Element": "Grass",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_097_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Put 1 random Weedle from your deck onto your Bench."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #1",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #97",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-98",
+        "name": "Kakuna",
+        "hp": "80",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 1 - Evolves from Weedle",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_098_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "String Shot",
+                "damage": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #2",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #98",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Sanosuke Sakuma",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-99",
+        "name": "Charmander",
+        "hp": "60",
+        "Element": "Fire",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_099_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #8",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #99",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-100",
+        "name": "Charmeleon",
+        "hp": "90",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 1 - Evolves from Charmander",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_100_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #9",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #100",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-101",
+        "name": "Wiglett",
+        "hp": "60",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_101_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Spring",
+                "damage": "Out",
+                "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #18",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #101",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-102",
+        "name": "Dondozo",
+        "hp": "120",
+        "Element": "Water",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_102_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ocean Cyclone",
+                "damage": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "3",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #20",
+                "rarity": "Rare"
+            },
+            {
+                "version": "Shining Revelry #102",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "GOSSAN",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-103",
+        "name": "Pachirisu",
+        "hp": "70",
+        "Element": "Lightning",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_103_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "damage": "10",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #25",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #103",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "Tomowaka",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-104",
+        "name": "Riolu",
+        "hp": "70",
+        "Element": "Fighting",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_104_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #42",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #104",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "GOSSAN",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-105",
+        "name": "Varoom",
+        "hp": "70",
+        "Element": "Metal",
+        "type": "Pokémon - Basic",
+        "subtype": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_105_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #55",
+                "rarity": "Common"
+            },
+            {
+                "version": "Shining Revelry #105",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "nagimiso",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-106",
+        "name": "Revavroom",
+        "hp": "110",
+        "Element": "Metal",
+        "type": "Pokémon - Stage 1 - Evolves from Varoom",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_106_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spinning Drift",
+                "damage": "70",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "2",
+        "rarity_symbol": "☆",
+        "fullart": "Yes",
+        "rarity": "Full Art",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #56",
+                "rarity": "Uncommon"
+            },
+            {
+                "version": "Shining Revelry #106",
+                "rarity": "Full Art"
+            }
+        ],
+        "artist": "nagimiso",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-107",
+        "name": "Beedrill ex",
+        "hp": "170",
+        "Element": "Grass",
+        "type": "Pokémon - Stage 2 - Evolves from Kakuna",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_107_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "damage": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #3",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #79",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #107",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-108",
+        "name": "Charizard ex",
+        "hp": "180",
+        "Element": "Fire",
+        "type": "Pokémon - Stage 2 - Evolves from Charmeleon",
+        "subtype": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_108_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "damage": "150",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": "3",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #10",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #80",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #108",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-109",
+        "name": "Wugtrio ex",
+        "hp": "140",
+        "Element": "Water",
+        "type": "Pokémon - Stage 1 - Evolves from Wiglett",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_109_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out",
+                "damage": "Throughout",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": "1",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #19",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #81",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #109",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA Tsuji",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-110",
+        "name": "Lucario ex",
+        "hp": "150",
+        "Element": "Fighting",
+        "type": "Pokémon - Stage 1 - Evolves from Riolu",
+        "subtype": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_110_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "damage": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Psychic",
+        "retreat": "2",
+        "rarity_symbol": "☆☆",
+        "fullart": "Yes",
+        "rarity": "Full Art EX/Support",
+        "ex": "Yes",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #43",
+                "rarity": "Rare EX"
+            },
+            {
+                "version": "Shining Revelry #84",
+                "rarity": "Full Art EX/Support"
+            },
+            {
+                "version": "Shining Revelry #110",
+                "rarity": "Full Art EX/Support"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    },
+    {
+        "id": "A2b-111",
+        "name": "Poké Ball",
+        "hp": "",
+        "Element": "Unknown Type",
+        "type": "Trainer - Item",
+        "subtype": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_111_EN_SM.webp",
+        "attacks": [],
+        "ability": "Put 1 random Basic Pokemon from your deck into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity_symbol": "Crown Rare",
+        "fullart": "Yes",
+        "rarity": "Gold Crown",
+        "ex": "No",
+        "set": "Shining Revelry  (A2b)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "version": "Shining Revelry #111",
+                "rarity": "Gold Crown"
+            }
+        ],
+        "artist": "Toyste Beach",
+        "probability": {},
+        "crafting_cost": "Unknown"
+    }
+]
