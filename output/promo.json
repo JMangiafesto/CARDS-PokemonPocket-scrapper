@@ -1,6 +1,6 @@
 [
     {
-        "id": "P-A-1",
+        "id": "PA-001",
         "name": "Potion",
         "hp": "",
         "Element": "Unknown Type",
@@ -28,7 +28,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-2",
+        "id": "PA-002",
         "name": "X Speed",
         "hp": "",
         "Element": "Unknown Type",
@@ -56,7 +56,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-3",
+        "id": "PA-003",
         "name": "Hand Scope",
         "hp": "",
         "Element": "Unknown Type",
@@ -84,7 +84,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-4",
+        "id": "PA-004",
         "name": "Pokédex",
         "hp": "",
         "Element": "Unknown Type",
@@ -112,7 +112,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-5",
+        "id": "PA-005",
         "name": "Poké Ball",
         "hp": "",
         "Element": "Unknown Type",
@@ -140,7 +140,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-6",
+        "id": "PA-006",
         "name": "Red Card",
         "hp": "",
         "Element": "Unknown Type",
@@ -168,7 +168,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-7",
+        "id": "PA-007",
         "name": "Professor's Research",
         "hp": "",
         "Element": "Unknown Type",
@@ -196,7 +196,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-8",
+        "id": "PA-008",
         "name": "Pokédex",
         "hp": "",
         "Element": "Unknown Type",
@@ -224,7 +224,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-9",
+        "id": "PA-009",
         "name": "Pikachu",
         "hp": "60",
         "Element": "Lightning",
@@ -264,7 +264,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-10",
+        "id": "PA-010",
         "name": "Mewtwo",
         "hp": "120",
         "Element": "Psychic",
@@ -307,7 +307,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-11",
+        "id": "PA-011",
         "name": "Chansey",
         "hp": "120",
         "Element": "Colorless",
@@ -349,7 +349,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-12",
+        "id": "PA-012",
         "name": "Meowth",
         "hp": "60",
         "Element": "Colorless",
@@ -393,7 +393,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-13",
+        "id": "PA-013",
         "name": "Butterfree",
         "hp": "120",
         "Element": "Grass",
@@ -435,7 +435,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-14",
+        "id": "PA-014",
         "name": "Lapras ex",
         "hp": "140",
         "Element": "Water",
@@ -477,7 +477,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-15",
+        "id": "PA-015",
         "name": "Pikachu",
         "hp": "60",
         "Element": "Lightning",
@@ -517,7 +517,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-16",
+        "id": "PA-016",
         "name": "Clefairy",
         "hp": "60",
         "Element": "Psychic",
@@ -557,7 +557,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-17",
+        "id": "PA-017",
         "name": "Mankey",
         "hp": "50",
         "Element": "Fighting",
@@ -597,7 +597,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-18",
+        "id": "PA-018",
         "name": "Venusaur",
         "hp": "160",
         "Element": "Grass",
@@ -644,7 +644,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-19",
+        "id": "PA-019",
         "name": "Greninja",
         "hp": "120",
         "Element": "Water",
@@ -689,7 +689,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-20",
+        "id": "PA-020",
         "name": "Haunter",
         "hp": "70",
         "Element": "Psychic",
@@ -729,7 +729,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-21",
+        "id": "PA-021",
         "name": "Onix",
         "hp": "110",
         "Element": "Fighting",
@@ -771,7 +771,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-22",
+        "id": "PA-022",
         "name": "Jigglypuff",
         "hp": "60",
         "Element": "Colorless",
@@ -811,7 +811,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-23",
+        "id": "PA-023",
         "name": "Bulbasaur",
         "hp": "70",
         "Element": "Grass",
@@ -860,7 +860,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-24",
+        "id": "PA-024",
         "name": "Magnemite",
         "hp": "60",
         "Element": "Lightning",
@@ -900,7 +900,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-25",
+        "id": "PA-025",
         "name": "Moltres ex",
         "hp": "140",
         "Element": "Fire",
@@ -962,7 +962,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-26",
+        "id": "PA-026",
         "name": "Pikachu",
         "hp": "60",
         "Element": "Lightning",
@@ -1002,7 +1002,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-27",
+        "id": "PA-027",
         "name": "Snivy",
         "hp": "60",
         "Element": "Grass",
@@ -1042,7 +1042,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-28",
+        "id": "PA-028",
         "name": "Volcarona",
         "hp": "120",
         "Element": "Fire",
@@ -1084,7 +1084,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-29",
+        "id": "PA-029",
         "name": "Blastoise",
         "hp": "150",
         "Element": "Water",
@@ -1130,7 +1130,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-30",
+        "id": "PA-030",
         "name": "Eevee",
         "hp": "60",
         "Element": "Colorless",
@@ -1170,7 +1170,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-31",
+        "id": "PA-031",
         "name": "Cinccino",
         "hp": "90",
         "Element": "Colorless",
@@ -1212,7 +1212,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-32",
+        "id": "PA-032",
         "name": "Charmander",
         "hp": "60",
         "Element": "Fire",
@@ -1256,7 +1256,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-33",
+        "id": "PA-033",
         "name": "Squirtle",
         "hp": "60",
         "Element": "Water",
@@ -1304,7 +1304,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-34",
+        "id": "PA-034",
         "name": "Piplup",
         "hp": "60",
         "Element": "Water",
@@ -1344,7 +1344,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-35",
+        "id": "PA-035",
         "name": "Turtwig",
         "hp": "80",
         "Element": "Grass",
@@ -1385,7 +1385,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-36",
+        "id": "PA-036",
         "name": "Electivire",
         "hp": "120",
         "Element": "Lightning",
@@ -1426,7 +1426,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-37",
+        "id": "PA-037",
         "name": "Cresselia ex",
         "hp": "140",
         "Element": "Psychic",
@@ -1468,7 +1468,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-38",
+        "id": "PA-038",
         "name": "Misdreavus",
         "hp": "60",
         "Element": "Psychic",
@@ -1508,7 +1508,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-39",
+        "id": "PA-039",
         "name": "Skarmory",
         "hp": "80",
         "Element": "Metal",
@@ -1548,7 +1548,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-40",
+        "id": "PA-040",
         "name": "Chimchar",
         "hp": "60",
         "Element": "Fire",
@@ -1588,7 +1588,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-41",
+        "id": "PA-041",
         "name": "Togepi",
         "hp": "50",
         "Element": "Psychic",
@@ -1628,7 +1628,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-42",
+        "id": "PA-042",
         "name": "Darkrai ex",
         "hp": "140",
         "Element": "Darkness",
@@ -1678,7 +1678,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-43",
+        "id": "PA-043",
         "name": "Cherrim",
         "hp": "80",
         "Element": "Grass",
@@ -1719,7 +1719,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-44",
+        "id": "PA-044",
         "name": "Raichu",
         "hp": "90",
         "Element": "Lightning",
@@ -1760,7 +1760,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-45",
+        "id": "PA-045",
         "name": "Nosepass",
         "hp": "60",
         "Element": "Fighting",
@@ -1801,7 +1801,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-46",
+        "id": "PA-046",
         "name": "Gible",
         "hp": "60",
         "Element": "Fighting",
@@ -1841,7 +1841,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-47",
+        "id": "PA-047",
         "name": "Staraptor",
         "hp": "140",
         "Element": "Colorless",
@@ -1883,7 +1883,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-48",
+        "id": "PA-048",
         "name": "Manaphy",
         "hp": "50",
         "Element": "Water",
@@ -1927,7 +1927,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-49",
+        "id": "PA-049",
         "name": "Snorlax",
         "hp": "140",
         "Element": "Colorless",
@@ -1970,7 +1970,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-50",
+        "id": "PA-050",
         "name": "Mewtwo ex",
         "hp": "150",
         "Element": "Psychic",
@@ -2034,7 +2034,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-51",
+        "id": "PA-051",
         "name": "Cyclizar",
         "hp": "80",
         "Element": "Colorless",
@@ -2074,7 +2074,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-52",
+        "id": "PA-052",
         "name": "Sprigatito",
         "hp": "60",
         "Element": "Grass",
@@ -2114,7 +2114,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-53",
+        "id": "PA-053",
         "name": "Floatzel",
         "hp": "100",
         "Element": "Water",
@@ -2154,7 +2154,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-54",
+        "id": "PA-054",
         "name": "Pawmot",
         "hp": "140",
         "Element": "Lightning",
@@ -2195,7 +2195,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-55",
+        "id": "PA-055",
         "name": "Machamp",
         "hp": "150",
         "Element": "Fighting",
@@ -2240,7 +2240,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-56",
+        "id": "PA-056",
         "name": "Ekans",
         "hp": "60",
         "Element": "Darkness",
@@ -2280,7 +2280,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-57",
+        "id": "PA-057",
         "name": "Bidoof",
         "hp": "70",
         "Element": "Colorless",
@@ -2321,7 +2321,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-58",
+        "id": "PA-058",
         "name": "Pachirisu",
         "hp": "70",
         "Element": "Lightning",
@@ -2365,7 +2365,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-59",
+        "id": "PA-059",
         "name": "Riolu",
         "hp": "70",
         "Element": "Fighting",
@@ -2410,7 +2410,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-60",
+        "id": "PA-060",
         "name": "Exeggcute",
         "hp": "50",
         "Element": "Grass",
@@ -2450,7 +2450,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-61",
+        "id": "PA-061",
         "name": "Froakie",
         "hp": "60",
         "Element": "Water",
@@ -2494,7 +2494,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-62",
+        "id": "PA-062",
         "name": "Farfetch'd",
         "hp": "60",
         "Element": "Colorless",
@@ -2538,7 +2538,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-63",
+        "id": "PA-063",
         "name": "Rayquaza",
         "hp": "100",
         "Element": "Colorless",
@@ -2581,7 +2581,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-64",
+        "id": "PA-064",
         "name": "Rayquaza ex",
         "hp": "140",
         "Element": "Colorless",
@@ -2624,7 +2624,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-65",
+        "id": "PA-065",
         "name": "Rayquaza ex",
         "hp": "140",
         "Element": "Colorless",
@@ -2667,7 +2667,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-66",
+        "id": "PA-066",
         "name": "Mimikyu",
         "hp": "70",
         "Element": "Psychic",
@@ -2708,7 +2708,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-67",
+        "id": "PA-067",
         "name": "Cosmog",
         "hp": "60",
         "Element": "Psychic",
@@ -2752,7 +2752,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-68",
+        "id": "PA-068",
         "name": "Lycanroc",
         "hp": "100",
         "Element": "Fighting",
@@ -2794,7 +2794,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-69",
+        "id": "PA-069",
         "name": "Alolan Exeggutor",
         "hp": "150",
         "Element": "Grass",
@@ -2840,7 +2840,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-70",
+        "id": "PA-070",
         "name": "Alolan Ninetales",
         "hp": "110",
         "Element": "Water",
@@ -2882,7 +2882,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-71",
+        "id": "PA-071",
         "name": "Crabrawler",
         "hp": "70",
         "Element": "Fighting",
@@ -2922,7 +2922,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-72",
+        "id": "PA-072",
         "name": "Alolan Grimer",
         "hp": "70",
         "Element": "Darkness",
@@ -2962,7 +2962,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-73",
+        "id": "PA-073",
         "name": "Toucannon",
         "hp": "140",
         "Element": "Colorless",
@@ -3003,7 +3003,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-74",
+        "id": "PA-074",
         "name": "Zeraora",
         "hp": "90",
         "Element": "Lightning",
@@ -3044,7 +3044,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-75",
+        "id": "PA-075",
         "name": "Kartana",
         "hp": "60",
         "Element": "Grass",
@@ -3084,7 +3084,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-76",
+        "id": "PA-076",
         "name": "Blacephalon",
         "hp": "100",
         "Element": "Fire",
@@ -3130,7 +3130,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-77",
+        "id": "PA-077",
         "name": "Xurkitree",
         "hp": "100",
         "Element": "Lightning",
@@ -3172,7 +3172,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-78",
+        "id": "PA-078",
         "name": "Dawn Wings Necrozma",
         "hp": "110",
         "Element": "Psychic",
@@ -3214,7 +3214,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-79",
+        "id": "PA-079",
         "name": "Dusk Mane Necrozma",
         "hp": "110",
         "Element": "Metal",
@@ -3256,7 +3256,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-80",
+        "id": "PA-080",
         "name": "Stakataka",
         "hp": "110",
         "Element": "Metal",
@@ -3297,7 +3297,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-81",
+        "id": "PA-081",
         "name": "Ultra Necrozma ex",
         "hp": "150",
         "Element": "Unknown Type",
@@ -3350,7 +3350,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-82",
+        "id": "PA-082",
         "name": "Poipole",
         "hp": "60",
         "Element": "Darkness",
@@ -3390,7 +3390,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-83",
+        "id": "PA-083",
         "name": "Stufful",
         "hp": "70",
         "Element": "Colorless",
@@ -3431,7 +3431,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-84",
+        "id": "PA-084",
         "name": "Tapu Koko ex",
         "hp": "130",
         "Element": "Lightning",
@@ -3489,7 +3489,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-85",
+        "id": "PA-085",
         "name": "Vanillite",
         "hp": "60",
         "Element": "Water",
@@ -3529,7 +3529,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-86",
+        "id": "PA-086",
         "name": "Jolteon",
         "hp": "90",
         "Element": "Lightning",
@@ -3573,7 +3573,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-87",
+        "id": "PA-087",
         "name": "Alcremie",
         "hp": "80",
         "Element": "Psychic",
@@ -3613,7 +3613,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-88",
+        "id": "PA-088",
         "name": "Dragonair",
         "hp": "100",
         "Element": "Unknown Type",
@@ -3653,7 +3653,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-89",
+        "id": "PA-089",
         "name": "Audino",
         "hp": "100",
         "Element": "Colorless",
@@ -3694,7 +3694,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-90",
+        "id": "PA-090",
         "name": "Togedemaru",
         "hp": "80",
         "Element": "Metal",
@@ -3735,7 +3735,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-91",
+        "id": "PA-091",
         "name": "Greedent",
         "hp": "120",
         "Element": "Colorless",
@@ -3777,7 +3777,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "P-A-92",
+        "id": "PA-092",
         "name": "Eevee",
         "hp": "60",
         "Element": "Colorless",
