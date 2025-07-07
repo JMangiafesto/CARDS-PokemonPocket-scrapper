@@ -8,7 +8,7 @@ import os
 BASE_URL = "https://pocket.limitlesstcg.com/cards/"
 
 # Define all available sets
-available_sets = ["A1", "P-A", "A1a", "A1b", "A2", "A2a", "A2b", "A3", "A3A", "A3B"]
+available_sets = ["A1", "P-A", "A1a", "A2", "A2a", "A2b", "A3", "A3A", "A3B"]
 
 # Modify this list to scrape only specific sets
 sets = ["A1", "P-A", "A1a", "A2", "A2a", "A2b", "A3", "A3A", "A3B"]  # All available sets
@@ -405,21 +405,44 @@ def scrape_all_sets(start_id=1, end_id=286):
         
         for i in range(start_id, end_id + 1):
             url = f"{BASE_URL}{set_name}/{i}"
-            response = requests.get(url)
-            soup = BeautifulSoup(response.content, "html.parser")
-            try:
-                card_info = extract_card_info(soup, set_name)
-                set_cards.append(card_info)
-                all_cards.append(card_info)
-                print(f"Card {set_name} - {i} processed.")
-                error_tracker = 0
-            except Exception as e:
-                print(f"Error processing card {set_name} -{i}: {e}")
-                error_tracker += 1
-                if error_tracker > 4:
-                    print(f"Finished set {set_name} on card {i}")
-                    break
-                continue
+            
+            # Retry logic for network requests
+            max_retries = 3
+            retry_count = 0
+            while retry_count < max_retries:
+                try:
+                    response = requests.get(url, timeout=10)
+                    soup = BeautifulSoup(response.content, "html.parser")
+                    card_info = extract_card_info(soup, set_name)
+                    set_cards.append(card_info)
+                    all_cards.append(card_info)
+                    print(f"Card {set_name} - {i} processed.")
+                    error_tracker = 0
+                    break  # Success, break out of retry loop
+                except requests.exceptions.Timeout:
+                    retry_count += 1
+                    print(f"Timeout for card {set_name}-{i}, retry {retry_count}/{max_retries}")
+                    if retry_count >= max_retries:
+                        print(f"Max retries reached for card {set_name}-{i}, skipping...")
+                        error_tracker += 1
+                        break
+                    time.sleep(2)  # Wait before retry
+                except requests.exceptions.ConnectionError as e:
+                    retry_count += 1
+                    print(f"Connection error for card {set_name}-{i}, retry {retry_count}/{max_retries}: {e}")
+                    if retry_count >= max_retries:
+                        print(f"Max retries reached for card {set_name}-{i}, skipping...")
+                        error_tracker += 1
+                        break
+                    time.sleep(5)  # Longer wait for connection errors
+                except Exception as e:
+                    print(f"Error processing card {set_name}-{i}: {e}")
+                    error_tracker += 1
+                    break  # Break out of retry loop for non-network errors
+                    
+            if error_tracker > 4:
+                print(f"Finished set {set_name} on card {i}")
+                break
         
         # Save individual set file
         set_filename = set_filename_mapping.get(set_name, f"{set_name}_cards.json")
