@@ -1,6 +1,6 @@
 [
     {
-        "id": "A3A-1",
+        "id": "A3A-001",
         "name": "Petilil",
         "hp": "60",
         "Element": "Grass",
@@ -40,7 +40,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-2",
+        "id": "A3A-002",
         "name": "Lilligant",
         "hp": "110",
         "Element": "Grass",
@@ -81,7 +81,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-3",
+        "id": "A3A-003",
         "name": "Rowlet",
         "hp": "60",
         "Element": "Grass",
@@ -125,7 +125,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-4",
+        "id": "A3A-004",
         "name": "Dartrix",
         "hp": "80",
         "Element": "Grass",
@@ -165,7 +165,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-5",
+        "id": "A3A-005",
         "name": "Decidueye",
         "hp": "130",
         "Element": "Grass",
@@ -206,7 +206,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-6",
+        "id": "A3A-006",
         "name": "Buzzwole ex",
         "hp": "140",
         "Element": "Grass",
@@ -265,7 +265,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-7",
+        "id": "A3A-007",
         "name": "Pheromosa",
         "hp": "70",
         "Element": "Grass",
@@ -309,7 +309,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-8",
+        "id": "A3A-008",
         "name": "Kartana",
         "hp": "60",
         "Element": "Grass",
@@ -349,7 +349,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-9",
+        "id": "A3A-009",
         "name": "Blacephalon",
         "hp": "100",
         "Element": "Fire",
@@ -395,7 +395,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-10",
+        "id": "A3A-010",
         "name": "Mantine",
         "hp": "90",
         "Element": "Water",
@@ -436,7 +436,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-11",
+        "id": "A3A-011",
         "name": "Carvanha",
         "hp": "60",
         "Element": "Water",
@@ -476,7 +476,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-12",
+        "id": "A3A-012",
         "name": "Sharpedo",
         "hp": "90",
         "Element": "Water",
@@ -517,7 +517,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-13",
+        "id": "A3A-013",
         "name": "Shinx",
         "hp": "60",
         "Element": "Lightning",
@@ -557,7 +557,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-14",
+        "id": "A3A-014",
         "name": "Luxio",
         "hp": "80",
         "Element": "Lightning",
@@ -598,7 +598,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-15",
+        "id": "A3A-015",
         "name": "Luxray",
         "hp": "130",
         "Element": "Lightning",
@@ -640,7 +640,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-16",
+        "id": "A3A-016",
         "name": "Blitzle",
         "hp": "60",
         "Element": "Lightning",
@@ -681,7 +681,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-17",
+        "id": "A3A-017",
         "name": "Zebstrika",
         "hp": "90",
         "Element": "Lightning",
@@ -722,7 +722,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-18",
+        "id": "A3A-018",
         "name": "Emolga",
         "hp": "70",
         "Element": "Lightning",
@@ -762,7 +762,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-19",
+        "id": "A3A-019",
         "name": "Tapu Koko ex",
         "hp": "130",
         "Element": "Lightning",
@@ -820,7 +820,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-20",
+        "id": "A3A-020",
         "name": "Xurkitree",
         "hp": "100",
         "Element": "Lightning",
@@ -862,7 +862,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-21",
+        "id": "A3A-021",
         "name": "Zeraora",
         "hp": "90",
         "Element": "Lightning",
@@ -903,7 +903,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-22",
+        "id": "A3A-022",
         "name": "Clefairy",
         "hp": "60",
         "Element": "Psychic",
@@ -943,7 +943,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-23",
+        "id": "A3A-023",
         "name": "Clefable",
         "hp": "100",
         "Element": "Psychic",
@@ -984,7 +984,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-24",
+        "id": "A3A-024",
         "name": "Phantump",
         "hp": "70",
         "Element": "Psychic",
@@ -1025,7 +1025,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-25",
+        "id": "A3A-025",
         "name": "Trevenant",
         "hp": "120",
         "Element": "Psychic",
@@ -1067,7 +1067,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-26",
+        "id": "A3A-026",
         "name": "Morelull",
         "hp": "50",
         "Element": "Psychic",
@@ -1107,7 +1107,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-27",
+        "id": "A3A-027",
         "name": "Shiinotic",
         "hp": "90",
         "Element": "Psychic",
@@ -1148,7 +1148,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-28",
+        "id": "A3A-028",
         "name": "Meditite",
         "hp": "60",
         "Element": "Fighting",
@@ -1188,7 +1188,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-29",
+        "id": "A3A-029",
         "name": "Medicham",
         "hp": "90",
         "Element": "Fighting",
@@ -1228,7 +1228,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-30",
+        "id": "A3A-030",
         "name": "Baltoy",
         "hp": "60",
         "Element": "Fighting",
@@ -1269,7 +1269,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-31",
+        "id": "A3A-031",
         "name": "Claydol",
         "hp": "100",
         "Element": "Fighting",
@@ -1311,7 +1311,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-32",
+        "id": "A3A-032",
         "name": "Rockruff",
         "hp": "60",
         "Element": "Fighting",
@@ -1352,7 +1352,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-33",
+        "id": "A3A-033",
         "name": "Lycanroc ex",
         "hp": "150",
         "Element": "Fighting",
@@ -1402,7 +1402,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-34",
+        "id": "A3A-034",
         "name": "Passimian",
         "hp": "100",
         "Element": "Fighting",
@@ -1443,7 +1443,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-35",
+        "id": "A3A-035",
         "name": "Sandygast",
         "hp": "80",
         "Element": "Fighting",
@@ -1484,7 +1484,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-36",
+        "id": "A3A-036",
         "name": "Palossand",
         "hp": "130",
         "Element": "Fighting",
@@ -1527,7 +1527,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-37",
+        "id": "A3A-037",
         "name": "Alolan Meowth",
         "hp": "60",
         "Element": "Darkness",
@@ -1571,7 +1571,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-38",
+        "id": "A3A-038",
         "name": "Alolan Persian",
         "hp": "100",
         "Element": "Darkness",
@@ -1612,7 +1612,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-39",
+        "id": "A3A-039",
         "name": "Sandile",
         "hp": "70",
         "Element": "Darkness",
@@ -1652,7 +1652,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-40",
+        "id": "A3A-040",
         "name": "Krokorok",
         "hp": "90",
         "Element": "Darkness",
@@ -1693,7 +1693,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-41",
+        "id": "A3A-041",
         "name": "Krookodile",
         "hp": "140",
         "Element": "Darkness",
@@ -1735,7 +1735,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-42",
+        "id": "A3A-042",
         "name": "Nihilego",
         "hp": "70",
         "Element": "Darkness",
@@ -1780,7 +1780,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-43",
+        "id": "A3A-043",
         "name": "Guzzlord ex",
         "hp": "170",
         "Element": "Darkness",
@@ -1840,7 +1840,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-44",
+        "id": "A3A-044",
         "name": "Poipole",
         "hp": "60",
         "Element": "Darkness",
@@ -1880,7 +1880,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-45",
+        "id": "A3A-045",
         "name": "Naganadel",
         "hp": "100",
         "Element": "Darkness",
@@ -1920,7 +1920,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-46",
+        "id": "A3A-046",
         "name": "Alolan Diglett",
         "hp": "60",
         "Element": "Metal",
@@ -1960,7 +1960,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-47",
+        "id": "A3A-047",
         "name": "Alolan Dugtrio ex",
         "hp": "130",
         "Element": "Metal",
@@ -2009,7 +2009,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-48",
+        "id": "A3A-048",
         "name": "Aron",
         "hp": "70",
         "Element": "Metal",
@@ -2050,7 +2050,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-49",
+        "id": "A3A-049",
         "name": "Lairon",
         "hp": "100",
         "Element": "Metal",
@@ -2092,7 +2092,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-50",
+        "id": "A3A-050",
         "name": "Aggron",
         "hp": "160",
         "Element": "Metal",
@@ -2135,7 +2135,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-51",
+        "id": "A3A-051",
         "name": "Ferroseed",
         "hp": "60",
         "Element": "Metal",
@@ -2176,7 +2176,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-52",
+        "id": "A3A-052",
         "name": "Ferrothorn",
         "hp": "110",
         "Element": "Metal",
@@ -2218,7 +2218,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-53",
+        "id": "A3A-053",
         "name": "Stakataka",
         "hp": "110",
         "Element": "Metal",
@@ -2259,7 +2259,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-54",
+        "id": "A3A-054",
         "name": "Lillipup",
         "hp": "60",
         "Element": "Colorless",
@@ -2299,7 +2299,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-55",
+        "id": "A3A-055",
         "name": "Herdier",
         "hp": "80",
         "Element": "Colorless",
@@ -2339,7 +2339,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-56",
+        "id": "A3A-056",
         "name": "Stoutland",
         "hp": "140",
         "Element": "Colorless",
@@ -2380,7 +2380,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-57",
+        "id": "A3A-057",
         "name": "Stufful",
         "hp": "70",
         "Element": "Colorless",
@@ -2421,7 +2421,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-58",
+        "id": "A3A-058",
         "name": "Bewear",
         "hp": "120",
         "Element": "Colorless",
@@ -2463,7 +2463,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-59",
+        "id": "A3A-059",
         "name": "Oranguru",
         "hp": "100",
         "Element": "Colorless",
@@ -2505,7 +2505,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-60",
+        "id": "A3A-060",
         "name": "Type: Null",
         "hp": "80",
         "Element": "Colorless",
@@ -2545,7 +2545,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-61",
+        "id": "A3A-061",
         "name": "Silvally",
         "hp": "110",
         "Element": "Colorless",
@@ -2590,7 +2590,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-62",
+        "id": "A3A-062",
         "name": "Celesteela",
         "hp": "120",
         "Element": "Colorless",
@@ -2636,7 +2636,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-63",
+        "id": "A3A-063",
         "name": "Beast Wall",
         "hp": "",
         "Element": "Unknown Type",
@@ -2664,7 +2664,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-64",
+        "id": "A3A-064",
         "name": "Repel",
         "hp": "",
         "Element": "Unknown Type",
@@ -2692,7 +2692,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-65",
+        "id": "A3A-065",
         "name": "Electrical Cord",
         "hp": "",
         "Element": "Unknown Type",
@@ -2720,7 +2720,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-66",
+        "id": "A3A-066",
         "name": "Beastite",
         "hp": "",
         "Element": "Unknown Type",
@@ -2748,7 +2748,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-67",
+        "id": "A3A-067",
         "name": "Gladion",
         "hp": "",
         "Element": "Unknown Type",
@@ -2780,7 +2780,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-68",
+        "id": "A3A-068",
         "name": "Looker",
         "hp": "",
         "Element": "Unknown Type",
@@ -2812,7 +2812,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-69",
+        "id": "A3A-069",
         "name": "Lusamine",
         "hp": "",
         "Element": "Unknown Type",
@@ -2844,7 +2844,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-70",
+        "id": "A3A-070",
         "name": "Rowlet",
         "hp": "60",
         "Element": "Grass",
@@ -2888,7 +2888,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-71",
+        "id": "A3A-071",
         "name": "Pheromosa",
         "hp": "70",
         "Element": "Grass",
@@ -2932,7 +2932,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-72",
+        "id": "A3A-072",
         "name": "Blacephalon",
         "hp": "100",
         "Element": "Fire",
@@ -2978,7 +2978,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-73",
+        "id": "A3A-073",
         "name": "Alolan Meowth",
         "hp": "60",
         "Element": "Darkness",
@@ -3022,7 +3022,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-74",
+        "id": "A3A-074",
         "name": "Silvally",
         "hp": "110",
         "Element": "Colorless",
@@ -3067,7 +3067,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-75",
+        "id": "A3A-075",
         "name": "Celesteela",
         "hp": "120",
         "Element": "Colorless",
@@ -3113,7 +3113,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-76",
+        "id": "A3A-076",
         "name": "Buzzwole ex",
         "hp": "140",
         "Element": "Grass",
@@ -3172,7 +3172,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-77",
+        "id": "A3A-077",
         "name": "Tapu Koko ex",
         "hp": "130",
         "Element": "Lightning",
@@ -3230,7 +3230,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-78",
+        "id": "A3A-078",
         "name": "Lycanroc ex",
         "hp": "150",
         "Element": "Fighting",
@@ -3280,7 +3280,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-79",
+        "id": "A3A-079",
         "name": "Guzzlord ex",
         "hp": "170",
         "Element": "Darkness",
@@ -3340,7 +3340,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-80",
+        "id": "A3A-080",
         "name": "Alolan Dugtrio ex",
         "hp": "130",
         "Element": "Metal",
@@ -3389,7 +3389,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-81",
+        "id": "A3A-081",
         "name": "Gladion",
         "hp": "",
         "Element": "Unknown Type",
@@ -3421,7 +3421,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-82",
+        "id": "A3A-082",
         "name": "Looker",
         "hp": "",
         "Element": "Unknown Type",
@@ -3453,7 +3453,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-83",
+        "id": "A3A-083",
         "name": "Lusamine",
         "hp": "",
         "Element": "Unknown Type",
@@ -3485,7 +3485,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-84",
+        "id": "A3A-084",
         "name": "Tapu Koko ex",
         "hp": "130",
         "Element": "Lightning",
@@ -3543,7 +3543,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-85",
+        "id": "A3A-085",
         "name": "Lycanroc ex",
         "hp": "150",
         "Element": "Fighting",
@@ -3593,7 +3593,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-86",
+        "id": "A3A-086",
         "name": "Guzzlord ex",
         "hp": "170",
         "Element": "Darkness",
@@ -3653,7 +3653,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-87",
+        "id": "A3A-087",
         "name": "Alolan Dugtrio ex",
         "hp": "130",
         "Element": "Metal",
@@ -3702,7 +3702,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-88",
+        "id": "A3A-088",
         "name": "Buzzwole ex",
         "hp": "140",
         "Element": "Grass",
@@ -3761,7 +3761,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-89",
+        "id": "A3A-089",
         "name": "Growlithe",
         "hp": "70",
         "Element": "Fire",
@@ -3806,7 +3806,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-90",
+        "id": "A3A-090",
         "name": "Arcanine",
         "hp": "130",
         "Element": "Fire",
@@ -3852,7 +3852,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-91",
+        "id": "A3A-091",
         "name": "Froakie",
         "hp": "60",
         "Element": "Water",
@@ -3896,7 +3896,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-92",
+        "id": "A3A-092",
         "name": "Frogadier",
         "hp": "80",
         "Element": "Water",
@@ -3940,7 +3940,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-93",
+        "id": "A3A-093",
         "name": "Greninja",
         "hp": "120",
         "Element": "Water",
@@ -3985,7 +3985,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-94",
+        "id": "A3A-094",
         "name": "Jynx",
         "hp": "80",
         "Element": "Psychic",
@@ -4030,7 +4030,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-95",
+        "id": "A3A-095",
         "name": "Pidgey",
         "hp": "60",
         "Element": "Colorless",
@@ -4074,7 +4074,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-96",
+        "id": "A3A-096",
         "name": "Pidgeotto",
         "hp": "80",
         "Element": "Colorless",
@@ -4118,7 +4118,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-97",
+        "id": "A3A-097",
         "name": "Pidgeot",
         "hp": "130",
         "Element": "Colorless",
@@ -4167,7 +4167,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-98",
+        "id": "A3A-098",
         "name": "Aerodactyl",
         "hp": "100",
         "Element": "Colorless",
@@ -4212,7 +4212,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A3A-99",
+        "id": "A3A-099",
         "name": "Celebi ex",
         "hp": "130",
         "Element": "Grass",

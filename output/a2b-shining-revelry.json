@@ -1,6 +1,6 @@
 [
     {
-        "id": "A2b-1",
+        "id": "A2b-001",
         "name": "Weedle",
         "hp": "50",
         "Element": "Grass",
@@ -44,7 +44,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-2",
+        "id": "A2b-002",
         "name": "Kakuna",
         "hp": "80",
         "Element": "Grass",
@@ -88,7 +88,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-3",
+        "id": "A2b-003",
         "name": "Beedrill ex",
         "hp": "170",
         "Element": "Grass",
@@ -137,7 +137,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-4",
+        "id": "A2b-004",
         "name": "Pinsir",
         "hp": "90",
         "Element": "Grass",
@@ -183,7 +183,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-5",
+        "id": "A2b-005",
         "name": "Sprigatito",
         "hp": "60",
         "Element": "Grass",
@@ -223,7 +223,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-6",
+        "id": "A2b-006",
         "name": "Floragato",
         "hp": "90",
         "Element": "Grass",
@@ -264,7 +264,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-7",
+        "id": "A2b-007",
         "name": "Meowscarada",
         "hp": "140",
         "Element": "Grass",
@@ -309,7 +309,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-8",
+        "id": "A2b-008",
         "name": "Charmander",
         "hp": "60",
         "Element": "Fire",
@@ -353,7 +353,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-9",
+        "id": "A2b-009",
         "name": "Charmeleon",
         "hp": "90",
         "Element": "Fire",
@@ -398,7 +398,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-10",
+        "id": "A2b-010",
         "name": "Charizard ex",
         "hp": "180",
         "Element": "Fire",
@@ -458,7 +458,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-11",
+        "id": "A2b-011",
         "name": "Magmar",
         "hp": "70",
         "Element": "Fire",
@@ -498,7 +498,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-12",
+        "id": "A2b-012",
         "name": "Magmortar",
         "hp": "120",
         "Element": "Fire",
@@ -540,7 +540,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-13",
+        "id": "A2b-013",
         "name": "Paldean Tauros",
         "hp": "110",
         "Element": "Fire",
@@ -582,7 +582,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-14",
+        "id": "A2b-014",
         "name": "Tentacool",
         "hp": "70",
         "Element": "Water",
@@ -622,7 +622,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-15",
+        "id": "A2b-015",
         "name": "Tentacruel",
         "hp": "100",
         "Element": "Water",
@@ -662,7 +662,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-16",
+        "id": "A2b-016",
         "name": "Buizel",
         "hp": "70",
         "Element": "Water",
@@ -706,7 +706,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-17",
+        "id": "A2b-017",
         "name": "Floatzel",
         "hp": "90",
         "Element": "Water",
@@ -746,7 +746,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-18",
+        "id": "A2b-018",
         "name": "Wiglett",
         "hp": "60",
         "Element": "Water",
@@ -790,7 +790,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-19",
+        "id": "A2b-019",
         "name": "Wugtrio ex",
         "hp": "140",
         "Element": "Water",
@@ -840,7 +840,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-20",
+        "id": "A2b-020",
         "name": "Dondozo",
         "hp": "120",
         "Element": "Water",
@@ -887,7 +887,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-21",
+        "id": "A2b-021",
         "name": "Tatsugiri",
         "hp": "70",
         "Element": "Water",
@@ -931,7 +931,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-22",
+        "id": "A2b-022",
         "name": "Pikachu ex",
         "hp": "120",
         "Element": "Lightning",
@@ -981,7 +981,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-23",
+        "id": "A2b-023",
         "name": "Voltorb",
         "hp": "70",
         "Element": "Lightning",
@@ -1021,7 +1021,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-24",
+        "id": "A2b-024",
         "name": "Electrode",
         "hp": "90",
         "Element": "Lightning",
@@ -1062,7 +1062,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-25",
+        "id": "A2b-025",
         "name": "Pachirisu",
         "hp": "70",
         "Element": "Lightning",
@@ -1106,7 +1106,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-26",
+        "id": "A2b-026",
         "name": "Pawmi",
         "hp": "60",
         "Element": "Lightning",
@@ -1146,7 +1146,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-27",
+        "id": "A2b-027",
         "name": "Pawmo",
         "hp": "90",
         "Element": "Lightning",
@@ -1187,7 +1187,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-28",
+        "id": "A2b-028",
         "name": "Pawmot",
         "hp": "140",
         "Element": "Lightning",
@@ -1228,7 +1228,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-29",
+        "id": "A2b-029",
         "name": "Abra",
         "hp": "60",
         "Element": "Psychic",
@@ -1268,7 +1268,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-30",
+        "id": "A2b-030",
         "name": "Kadabra",
         "hp": "80",
         "Element": "Psychic",
@@ -1308,7 +1308,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-31",
+        "id": "A2b-031",
         "name": "Alakazam",
         "hp": "130",
         "Element": "Psychic",
@@ -1349,7 +1349,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-32",
+        "id": "A2b-032",
         "name": "Mr. Mime",
         "hp": "90",
         "Element": "Psychic",
@@ -1390,7 +1390,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-33",
+        "id": "A2b-033",
         "name": "Drifloon",
         "hp": "60",
         "Element": "Psychic",
@@ -1430,7 +1430,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-34",
+        "id": "A2b-034",
         "name": "Drifblim",
         "hp": "90",
         "Element": "Psychic",
@@ -1470,7 +1470,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-35",
+        "id": "A2b-035",
         "name": "Giratina ex",
         "hp": "150",
         "Element": "Psychic",
@@ -1521,7 +1521,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-36",
+        "id": "A2b-036",
         "name": "Gimmighoul",
         "hp": "60",
         "Element": "Psychic",
@@ -1561,7 +1561,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-37",
+        "id": "A2b-037",
         "name": "Machop",
         "hp": "60",
         "Element": "Fighting",
@@ -1601,7 +1601,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-38",
+        "id": "A2b-038",
         "name": "Machoke",
         "hp": "100",
         "Element": "Fighting",
@@ -1642,7 +1642,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-39",
+        "id": "A2b-039",
         "name": "Machamp",
         "hp": "150",
         "Element": "Fighting",
@@ -1687,7 +1687,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-40",
+        "id": "A2b-040",
         "name": "Hitmonlee",
         "hp": "80",
         "Element": "Fighting",
@@ -1727,7 +1727,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-41",
+        "id": "A2b-041",
         "name": "Hitmonchan",
         "hp": "90",
         "Element": "Fighting",
@@ -1769,7 +1769,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-42",
+        "id": "A2b-042",
         "name": "Riolu",
         "hp": "70",
         "Element": "Fighting",
@@ -1814,7 +1814,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-43",
+        "id": "A2b-043",
         "name": "Lucario ex",
         "hp": "150",
         "Element": "Fighting",
@@ -1864,7 +1864,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-44",
+        "id": "A2b-044",
         "name": "Flamigo",
         "hp": "80",
         "Element": "Fighting",
@@ -1905,7 +1905,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-45",
+        "id": "A2b-045",
         "name": "Ekans",
         "hp": "70",
         "Element": "Darkness",
@@ -1946,7 +1946,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-46",
+        "id": "A2b-046",
         "name": "Arbok",
         "hp": "110",
         "Element": "Darkness",
@@ -1988,7 +1988,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-47",
+        "id": "A2b-047",
         "name": "Paldean Wooper",
         "hp": "50",
         "Element": "Darkness",
@@ -2028,7 +2028,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-48",
+        "id": "A2b-048",
         "name": "Paldean Clodsire ex",
         "hp": "160",
         "Element": "Darkness",
@@ -2077,7 +2077,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-49",
+        "id": "A2b-049",
         "name": "Spiritomb",
         "hp": "80",
         "Element": "Darkness",
@@ -2117,7 +2117,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-50",
+        "id": "A2b-050",
         "name": "Shroodle",
         "hp": "60",
         "Element": "Darkness",
@@ -2157,7 +2157,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-51",
+        "id": "A2b-051",
         "name": "Grafaiai",
         "hp": "90",
         "Element": "Darkness",
@@ -2202,7 +2202,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-52",
+        "id": "A2b-052",
         "name": "Tinkatink",
         "hp": "60",
         "Element": "Metal",
@@ -2242,7 +2242,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-53",
+        "id": "A2b-053",
         "name": "Tinkatuff",
         "hp": "90",
         "Element": "Metal",
@@ -2283,7 +2283,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-54",
+        "id": "A2b-054",
         "name": "Tinkaton ex",
         "hp": "170",
         "Element": "Metal",
@@ -2333,7 +2333,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-55",
+        "id": "A2b-055",
         "name": "Varoom",
         "hp": "70",
         "Element": "Metal",
@@ -2377,7 +2377,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-56",
+        "id": "A2b-056",
         "name": "Revavroom",
         "hp": "110",
         "Element": "Metal",
@@ -2423,7 +2423,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-57",
+        "id": "A2b-057",
         "name": "Gholdengo",
         "hp": "120",
         "Element": "Metal",
@@ -2469,7 +2469,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-58",
+        "id": "A2b-058",
         "name": "Rattata",
         "hp": "50",
         "Element": "Colorless",
@@ -2509,7 +2509,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-59",
+        "id": "A2b-059",
         "name": "Raticate",
         "hp": "90",
         "Element": "Colorless",
@@ -2550,7 +2550,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-60",
+        "id": "A2b-060",
         "name": "Jigglypuff",
         "hp": "60",
         "Element": "Colorless",
@@ -2594,7 +2594,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-61",
+        "id": "A2b-061",
         "name": "Wigglytuff",
         "hp": "100",
         "Element": "Colorless",
@@ -2643,7 +2643,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-62",
+        "id": "A2b-062",
         "name": "Lickitung",
         "hp": "80",
         "Element": "Colorless",
@@ -2684,7 +2684,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-63",
+        "id": "A2b-063",
         "name": "Lickilicky",
         "hp": "130",
         "Element": "Colorless",
@@ -2726,7 +2726,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-64",
+        "id": "A2b-064",
         "name": "Bidoof",
         "hp": "70",
         "Element": "Colorless",
@@ -2767,7 +2767,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-65",
+        "id": "A2b-065",
         "name": "Bibarel ex",
         "hp": "160",
         "Element": "Colorless",
@@ -2818,7 +2818,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-66",
+        "id": "A2b-066",
         "name": "Buneary",
         "hp": "50",
         "Element": "Colorless",
@@ -2858,7 +2858,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-67",
+        "id": "A2b-067",
         "name": "Lopunny",
         "hp": "100",
         "Element": "Colorless",
@@ -2898,7 +2898,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-68",
+        "id": "A2b-068",
         "name": "Cyclizar",
         "hp": "80",
         "Element": "Colorless",
@@ -2938,7 +2938,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-69",
+        "id": "A2b-069",
         "name": "Iono",
         "hp": "",
         "Element": "Unknown Type",
@@ -2970,7 +2970,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-70",
+        "id": "A2b-070",
         "name": "Pokémon Center Lady",
         "hp": "",
         "Element": "Unknown Type",
@@ -3002,7 +3002,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-71",
+        "id": "A2b-071",
         "name": "Red",
         "hp": "",
         "Element": "Unknown Type",
@@ -3034,7 +3034,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-72",
+        "id": "A2b-072",
         "name": "Team Rocket Grunt",
         "hp": "",
         "Element": "Unknown Type",
@@ -3066,7 +3066,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-73",
+        "id": "A2b-073",
         "name": "Meowscarada",
         "hp": "140",
         "Element": "Grass",
@@ -3111,7 +3111,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-74",
+        "id": "A2b-074",
         "name": "Buizel",
         "hp": "70",
         "Element": "Water",
@@ -3155,7 +3155,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-75",
+        "id": "A2b-075",
         "name": "Tatsugiri",
         "hp": "70",
         "Element": "Water",
@@ -3199,7 +3199,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-76",
+        "id": "A2b-076",
         "name": "Grafaiai",
         "hp": "90",
         "Element": "Darkness",
@@ -3244,7 +3244,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-77",
+        "id": "A2b-077",
         "name": "Gholdengo",
         "hp": "120",
         "Element": "Metal",
@@ -3290,7 +3290,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-78",
+        "id": "A2b-078",
         "name": "Wigglytuff",
         "hp": "100",
         "Element": "Colorless",
@@ -3339,7 +3339,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-79",
+        "id": "A2b-079",
         "name": "Beedrill ex",
         "hp": "170",
         "Element": "Grass",
@@ -3388,7 +3388,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-80",
+        "id": "A2b-080",
         "name": "Charizard ex",
         "hp": "180",
         "Element": "Fire",
@@ -3448,7 +3448,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-81",
+        "id": "A2b-081",
         "name": "Wugtrio ex",
         "hp": "140",
         "Element": "Water",
@@ -3498,7 +3498,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-82",
+        "id": "A2b-082",
         "name": "Pikachu ex",
         "hp": "120",
         "Element": "Lightning",
@@ -3548,7 +3548,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-83",
+        "id": "A2b-083",
         "name": "Giratina ex",
         "hp": "150",
         "Element": "Psychic",
@@ -3599,7 +3599,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-84",
+        "id": "A2b-084",
         "name": "Lucario ex",
         "hp": "150",
         "Element": "Fighting",
@@ -3649,7 +3649,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-85",
+        "id": "A2b-085",
         "name": "Paldean Clodsire ex",
         "hp": "160",
         "Element": "Darkness",
@@ -3698,7 +3698,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-86",
+        "id": "A2b-086",
         "name": "Tinkaton ex",
         "hp": "170",
         "Element": "Metal",
@@ -3748,7 +3748,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-87",
+        "id": "A2b-087",
         "name": "Bibarel ex",
         "hp": "160",
         "Element": "Colorless",
@@ -3799,7 +3799,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-88",
+        "id": "A2b-088",
         "name": "Iono",
         "hp": "",
         "Element": "Unknown Type",
@@ -3831,7 +3831,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-89",
+        "id": "A2b-089",
         "name": "Pokémon Center Lady",
         "hp": "",
         "Element": "Unknown Type",
@@ -3863,7 +3863,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-90",
+        "id": "A2b-090",
         "name": "Red",
         "hp": "",
         "Element": "Unknown Type",
@@ -3895,7 +3895,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-91",
+        "id": "A2b-091",
         "name": "Team Rocket Grunt",
         "hp": "",
         "Element": "Unknown Type",
@@ -3927,7 +3927,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-92",
+        "id": "A2b-092",
         "name": "Pikachu ex",
         "hp": "120",
         "Element": "Lightning",
@@ -3977,7 +3977,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-93",
+        "id": "A2b-093",
         "name": "Paldean Clodsire ex",
         "hp": "160",
         "Element": "Darkness",
@@ -4026,7 +4026,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-94",
+        "id": "A2b-094",
         "name": "Tinkaton ex",
         "hp": "170",
         "Element": "Metal",
@@ -4076,7 +4076,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-95",
+        "id": "A2b-095",
         "name": "Bibarel ex",
         "hp": "160",
         "Element": "Colorless",
@@ -4127,7 +4127,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-96",
+        "id": "A2b-096",
         "name": "Giratina ex",
         "hp": "150",
         "Element": "Psychic",
@@ -4178,7 +4178,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-97",
+        "id": "A2b-097",
         "name": "Weedle",
         "hp": "50",
         "Element": "Grass",
@@ -4222,7 +4222,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-98",
+        "id": "A2b-098",
         "name": "Kakuna",
         "hp": "80",
         "Element": "Grass",
@@ -4266,7 +4266,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2b-99",
+        "id": "A2b-099",
         "name": "Charmander",
         "hp": "60",
         "Element": "Fire",

@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Colorless Type Core",
+    "description": "Mono-Colorless deck focusing on Colorless Pokemon with type-specific support cards.",
+    "cards": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot",
+      "Rattata",
+      "Raticate"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 49
+  },
+  {
+    "name": "Grass Type Core",
+    "description": "Mono-Grass deck focusing on Grass Pokemon with type-specific support cards.",
+    "cards": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur",
+      "Venusaur ex",
+      "Caterpie"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 47
+  },
+  {
+    "name": "Water Type Core",
+    "description": "Mono-Water deck focusing on Water Pokemon with type-specific support cards.",
+    "cards": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise",
+      "Blastoise ex",
+      "Psyduck"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 47
+  },
+  {
+    "name": "Psychic Type Core",
+    "description": "Mono-Psychic deck focusing on Psychic Pokemon with type-specific support cards.",
+    "cards": [
+      "Clefairy",
+      "Clefable",
+      "Abra",
+      "Kadabra",
+      "Alakazam"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 43
+  },
+  {
+    "name": "Fighting Type Core",
+    "description": "Mono-Fighting deck focusing on Fighting Pokemon with type-specific support cards.",
+    "cards": [
+      "Sandshrew",
+      "Sandslash",
+      "Diglett",
+      "Dugtrio",
+      "Mankey"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 40
+  },
+  {
+    "name": "Lightning Type Core",
+    "description": "Mono-Lightning deck focusing on Lightning Pokemon with type-specific support cards.",
+    "cards": [
+      "Pikachu",
+      "Raichu",
+      "Pikachu ex",
+      "Magnemite",
+      "Magneton"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 31
+  },
+  {
+    "name": "Fire Type Core",
+    "description": "Mono-Fire deck focusing on Fire Pokemon with type-specific support cards.",
+    "cards": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard",
+      "Charizard ex",
+      "Vulpix"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 26
+  },
+  {
+    "name": "Darkness Type Core",
+    "description": "Mono-Darkness deck focusing on Darkness Pokemon with type-specific support cards.",
+    "cards": [
+      "Ekans",
+      "Arbok",
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 25
+  },
+  {
+    "name": "Metal Type Core",
+    "description": "Mono-Metal deck focusing on Metal Pokemon with type-specific support cards.",
+    "cards": [
+      "Mawile",
+      "Pawniard",
+      "Bisharp",
+      "Meltan",
+      "Melmetal"
+    ],
+    "synergy_type": "Type Synergy",
+    "strength": 22
+  },
+  {
+    "name": "Grass ex Powerhouse",
+    "description": "High-damage Grass deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Venusaur ex",
+      "Exeggutor ex",
+      "Venusaur ex",
+      "Exeggutor ex",
+      "Celebi ex",
+      "Celebi ex",
+      "Celebi ex",
+      "Yanmega ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Fire ex Powerhouse",
+    "description": "High-damage Fire deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Charizard ex",
+      "Arcanine ex",
+      "Moltres ex",
+      "Charizard ex",
+      "Arcanine ex",
+      "Moltres ex",
+      "Moltres ex",
+      "Charizard ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Water ex Powerhouse",
+    "description": "High-damage Water deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Blastoise ex",
+      "Starmie ex",
+      "Articuno ex",
+      "Blastoise ex",
+      "Starmie ex",
+      "Articuno ex",
+      "Articuno ex",
+      "Lapras ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Lightning ex Powerhouse",
+    "description": "High-damage Lightning deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Pikachu ex",
+      "Zapdos ex",
+      "Pikachu ex",
+      "Zapdos ex",
+      "Zapdos ex",
+      "Pikachu ex",
+      "Pikachu ex",
+      "Tapu Koko ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Psychic ex Powerhouse",
+    "description": "High-damage Psychic deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Gengar ex",
+      "Mewtwo ex",
+      "Gengar ex",
+      "Mewtwo ex",
+      "Gengar ex",
+      "Mewtwo ex",
+      "Mewtwo ex",
+      "Cresselia ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Fighting ex Powerhouse",
+    "description": "High-damage Fighting deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Machamp ex",
+      "Marowak ex",
+      "Machamp ex",
+      "Marowak ex",
+      "Machamp ex",
+      "Aerodactyl ex",
+      "Aerodactyl ex",
+      "Aerodactyl ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Colorless ex Powerhouse",
+    "description": "High-damage Colorless deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Wigglytuff ex",
+      "Wigglytuff ex",
+      "Wigglytuff ex",
+      "Rayquaza ex",
+      "Rayquaza ex",
+      "Pidgeot ex",
+      "Pidgeot ex",
+      "Lickilicky ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Darkness ex Powerhouse",
+    "description": "High-damage Darkness deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Darkrai ex",
+      "Weavile ex",
+      "Darkrai ex",
+      "Weavile ex",
+      "Darkrai ex",
+      "Weavile ex",
+      "Darkrai ex",
+      "Paldean Clodsire ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Metal ex Powerhouse",
+    "description": "High-damage Metal deck built around Pokemon ex cards with healing and energy acceleration support.",
+    "cards": [
+      "Dialga ex",
+      "Dialga ex",
+      "Dialga ex",
+      "Dialga ex",
+      "Probopass ex",
+      "Probopass ex",
+      "Probopass ex",
+      "Tinkaton ex"
+    ],
+    "synergy_type": "EX Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Energy Acceleration Engine",
+    "description": "Deck focused on quickly powering up Pokemon with energy acceleration abilities.",
+    "cards": [
+      "Magneton",
+      "Gardevoir",
+      "Cresselia ex",
+      "Darkrai ex",
+      "Zeraora",
+      "Serperior"
+    ],
+    "synergy_type": "Ability Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Heavy Hitters",
+    "description": "Mid-to-late game powerhouse deck focusing on high-damage attacks.",
+    "cards": [
+      "Venusaur ex",
+      "Charizard",
+      "Charizard ex",
+      "Arcanine",
+      "Arcanine ex",
+      "Flareon"
+    ],
+    "synergy_type": "Attack Synergy",
+    "strength": 4
+  },
+  {
+    "name": "Card Draw Control",
+    "description": "Deck that maintains card advantage through draw abilities and hand manipulation.",
+    "cards": [
+      "Gengar ex",
+      "Porygon",
+      "Porygon",
+      "Gengar ex",
+      "Gengar ex",
+      "Aerodactyl ex"
+    ],
+    "synergy_type": "Ability Synergy",
+    "strength": 3
+  },
+  {
+    "name": "Consistency Engine",
+    "description": "Trainer package focused on searching and maintaining consistent draws.",
+    "cards": [
+      "Pokédex",
+      "Poké Ball",
+      "Red Card",
+      "Pokédex",
+      "Mythical Slab",
+      "Pokémon Communication"
+    ],
+    "synergy_type": "Trainer Synergy",
+    "strength": 3
+  },
+  {
+    "name": "Control Package",
+    "description": "Disruptive trainer cards to control opponent's strategy and tempo.",
+    "cards": [
+      "Helix Fossil",
+      "Dome Fossil",
+      "Old Amber",
+      "Blaine"
+    ],
+    "synergy_type": "Trainer Synergy",
+    "strength": 3
+  },
+  {
+    "name": "Aggressive Rush",
+    "description": "Fast-paced deck with low-cost attackers for early game pressure.",
+    "cards": [
+      "Bulbasaur",
+      "Metapod",
+      "Kakuna",
+      "Beedrill",
+      "Gloom",
+      "Paras"
+    ],
+    "synergy_type": "Attack Synergy",
+    "strength": 3
+  },
+  {
+    "name": "Budget Basics",
+    "description": "Competitive deck built entirely from common and uncommon cards for new players.",
+    "cards": [
+      "Bulbasaur",
+      "Caterpie",
+      "Metapod",
+      "Weedle",
+      "Kakuna",
+      "Oddish",
+      "Paras",
+      "Venonat"
+    ],
+    "synergy_type": "Meta Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Mewtwo pack Synergy",
+    "description": "Themed deck using cards primarily from Mewtwo pack for collection efficiency.",
+    "cards": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur",
+      "Venusaur ex",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Venonat"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Pikachu pack Synergy",
+    "description": "Themed deck using cards primarily from Pikachu pack for collection efficiency.",
+    "cards": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Paras",
+      "Parasect",
+      "Growlithe",
+      "Arcanine",
+      "Arcanine ex"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Charizard pack Synergy",
+    "description": "Themed deck using cards primarily from Charizard pack for collection efficiency.",
+    "cards": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel",
+      "Exeggcute",
+      "Exeggutor"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Mew pack Synergy",
+    "description": "Themed deck using cards primarily from Mew pack for collection efficiency.",
+    "cards": [
+      "Exeggcute",
+      "Exeggutor",
+      "Celebi ex",
+      "Snivy",
+      "Servine",
+      "Serperior",
+      "Morelull",
+      "Shiinotic"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Dialga pack Synergy",
+    "description": "Themed deck using cards primarily from Dialga pack for collection efficiency.",
+    "cards": [
+      "Tangela",
+      "Tangrowth",
+      "Yanma",
+      "Yanmega ex",
+      "Combee",
+      "Vespiquen",
+      "Leafeon",
+      "Shaymin"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  },
+  {
+    "name": "Palkia pack Synergy",
+    "description": "Themed deck using cards primarily from Palkia pack for collection efficiency.",
+    "cards": [
+      "Turtwig",
+      "Grotle",
+      "Torterra",
+      "Kricketot",
+      "Kricketune",
+      "Carnivine",
+      "Magmar",
+      "Magmortar"
+    ],
+    "synergy_type": "Pack Synergy",
+    "strength": 2
+  }
+]

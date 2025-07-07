@@ -1,6 +1,6 @@
 [
     {
-        "id": "A1-1",
+        "id": "A1-001",
         "name": "Bulbasaur",
         "hp": "70",
         "Element": "Grass",
@@ -49,7 +49,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-2",
+        "id": "A1-002",
         "name": "Ivysaur",
         "hp": "90",
         "Element": "Grass",
@@ -95,7 +95,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-3",
+        "id": "A1-003",
         "name": "Venusaur",
         "hp": "160",
         "Element": "Grass",
@@ -142,7 +142,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-4",
+        "id": "A1-004",
         "name": "Venusaur ex",
         "hp": "190",
         "Element": "Grass",
@@ -203,7 +203,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-5",
+        "id": "A1-005",
         "name": "Caterpie",
         "hp": "50",
         "Element": "Grass",
@@ -243,7 +243,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-6",
+        "id": "A1-006",
         "name": "Metapod",
         "hp": "80",
         "Element": "Grass",
@@ -284,7 +284,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-7",
+        "id": "A1-007",
         "name": "Butterfree",
         "hp": "120",
         "Element": "Grass",
@@ -326,7 +326,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-8",
+        "id": "A1-008",
         "name": "Weedle",
         "hp": "50",
         "Element": "Grass",
@@ -366,7 +366,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-9",
+        "id": "A1-009",
         "name": "Kakuna",
         "hp": "80",
         "Element": "Grass",
@@ -406,7 +406,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-10",
+        "id": "A1-010",
         "name": "Beedrill",
         "hp": "120",
         "Element": "Grass",
@@ -446,7 +446,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-11",
+        "id": "A1-011",
         "name": "Oddish",
         "hp": "60",
         "Element": "Grass",
@@ -486,7 +486,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-12",
+        "id": "A1-012",
         "name": "Gloom",
         "hp": "80",
         "Element": "Grass",
@@ -531,7 +531,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-13",
+        "id": "A1-013",
         "name": "Vileplume",
         "hp": "140",
         "Element": "Grass",
@@ -573,7 +573,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-14",
+        "id": "A1-014",
         "name": "Paras",
         "hp": "70",
         "Element": "Grass",
@@ -614,7 +614,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-15",
+        "id": "A1-015",
         "name": "Parasect",
         "hp": "120",
         "Element": "Grass",
@@ -656,7 +656,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-16",
+        "id": "A1-016",
         "name": "Venonat",
         "hp": "60",
         "Element": "Grass",
@@ -696,7 +696,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-17",
+        "id": "A1-017",
         "name": "Venomoth",
         "hp": "80",
         "Element": "Grass",
@@ -736,7 +736,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-18",
+        "id": "A1-018",
         "name": "Bellsprout",
         "hp": "60",
         "Element": "Grass",
@@ -776,7 +776,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-19",
+        "id": "A1-019",
         "name": "Weepinbell",
         "hp": "90",
         "Element": "Grass",
@@ -817,7 +817,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-20",
+        "id": "A1-020",
         "name": "Victreebel",
         "hp": "140",
         "Element": "Grass",
@@ -858,7 +858,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-21",
+        "id": "A1-021",
         "name": "Exeggcute",
         "hp": "50",
         "Element": "Grass",
@@ -898,7 +898,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-22",
+        "id": "A1-022",
         "name": "Exeggutor",
         "hp": "130",
         "Element": "Grass",
@@ -938,7 +938,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-23",
+        "id": "A1-023",
         "name": "Exeggutor ex",
         "hp": "160",
         "Element": "Grass",
@@ -986,7 +986,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-24",
+        "id": "A1-024",
         "name": "Tangela",
         "hp": "80",
         "Element": "Grass",
@@ -1027,7 +1027,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-25",
+        "id": "A1-025",
         "name": "Scyther",
         "hp": "70",
         "Element": "Grass",
@@ -1067,7 +1067,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-26",
+        "id": "A1-026",
         "name": "Pinsir",
         "hp": "90",
         "Element": "Grass",
@@ -1112,7 +1112,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-27",
+        "id": "A1-027",
         "name": "Cottonee",
         "hp": "50",
         "Element": "Grass",
@@ -1152,7 +1152,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-28",
+        "id": "A1-028",
         "name": "Whimsicott",
         "hp": "80",
         "Element": "Grass",
@@ -1192,7 +1192,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-29",
+        "id": "A1-029",
         "name": "Petilil",
         "hp": "60",
         "Element": "Grass",
@@ -1232,7 +1232,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-30",
+        "id": "A1-030",
         "name": "Lilligant",
         "hp": "100",
         "Element": "Grass",
@@ -1273,7 +1273,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-31",
+        "id": "A1-031",
         "name": "Skiddo",
         "hp": "70",
         "Element": "Grass",
@@ -1313,7 +1313,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-32",
+        "id": "A1-032",
         "name": "Gogoat",
         "hp": "120",
         "Element": "Grass",
@@ -1355,7 +1355,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-33",
+        "id": "A1-033",
         "name": "Charmander",
         "hp": "60",
         "Element": "Fire",
@@ -1399,7 +1399,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-34",
+        "id": "A1-034",
         "name": "Charmeleon",
         "hp": "90",
         "Element": "Fire",
@@ -1441,7 +1441,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-35",
+        "id": "A1-035",
         "name": "Charizard",
         "hp": "150",
         "Element": "Fire",
@@ -1484,7 +1484,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-36",
+        "id": "A1-036",
         "name": "Charizard ex",
         "hp": "180",
         "Element": "Fire",
@@ -1549,7 +1549,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-37",
+        "id": "A1-037",
         "name": "Vulpix",
         "hp": "50",
         "Element": "Fire",
@@ -1589,7 +1589,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-38",
+        "id": "A1-038",
         "name": "Ninetales",
         "hp": "90",
         "Element": "Fire",
@@ -1630,7 +1630,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-39",
+        "id": "A1-039",
         "name": "Growlithe",
         "hp": "70",
         "Element": "Fire",
@@ -1675,7 +1675,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-40",
+        "id": "A1-040",
         "name": "Arcanine",
         "hp": "130",
         "Element": "Fire",
@@ -1721,7 +1721,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-41",
+        "id": "A1-041",
         "name": "Arcanine ex",
         "hp": "150",
         "Element": "Fire",
@@ -1771,7 +1771,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-42",
+        "id": "A1-042",
         "name": "Ponyta",
         "hp": "60",
         "Element": "Fire",
@@ -1811,7 +1811,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-43",
+        "id": "A1-043",
         "name": "Rapidash",
         "hp": "100",
         "Element": "Fire",
@@ -1855,7 +1855,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-44",
+        "id": "A1-044",
         "name": "Magmar",
         "hp": "80",
         "Element": "Fire",
@@ -1896,7 +1896,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-45",
+        "id": "A1-045",
         "name": "Flareon",
         "hp": "120",
         "Element": "Fire",
@@ -1938,7 +1938,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-46",
+        "id": "A1-046",
         "name": "Moltres",
         "hp": "100",
         "Element": "Fire",
@@ -1980,7 +1980,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-47",
+        "id": "A1-047",
         "name": "Moltres ex",
         "hp": "140",
         "Element": "Fire",
@@ -2042,7 +2042,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-48",
+        "id": "A1-048",
         "name": "Heatmor",
         "hp": "80",
         "Element": "Fire",
@@ -2082,7 +2082,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-49",
+        "id": "A1-049",
         "name": "Salandit",
         "hp": "60",
         "Element": "Fire",
@@ -2122,7 +2122,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-50",
+        "id": "A1-050",
         "name": "Salazzle",
         "hp": "90",
         "Element": "Fire",
@@ -2163,7 +2163,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-51",
+        "id": "A1-051",
         "name": "Sizzlipede",
         "hp": "60",
         "Element": "Fire",
@@ -2203,7 +2203,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-52",
+        "id": "A1-052",
         "name": "Centiskorch",
         "hp": "130",
         "Element": "Fire",
@@ -2246,7 +2246,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-53",
+        "id": "A1-053",
         "name": "Squirtle",
         "hp": "60",
         "Element": "Water",
@@ -2294,7 +2294,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-54",
+        "id": "A1-054",
         "name": "Wartortle",
         "hp": "80",
         "Element": "Water",
@@ -2339,7 +2339,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-55",
+        "id": "A1-055",
         "name": "Blastoise",
         "hp": "150",
         "Element": "Water",
@@ -2385,7 +2385,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-56",
+        "id": "A1-056",
         "name": "Blastoise ex",
         "hp": "180",
         "Element": "Water",
@@ -2444,7 +2444,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-57",
+        "id": "A1-057",
         "name": "Psyduck",
         "hp": "60",
         "Element": "Water",
@@ -2484,7 +2484,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-58",
+        "id": "A1-058",
         "name": "Golduck",
         "hp": "90",
         "Element": "Water",
@@ -2525,7 +2525,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-59",
+        "id": "A1-059",
         "name": "Poliwag",
         "hp": "60",
         "Element": "Water",
@@ -2565,7 +2565,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-60",
+        "id": "A1-060",
         "name": "Poliwhirl",
         "hp": "90",
         "Element": "Water",
@@ -2606,7 +2606,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-61",
+        "id": "A1-061",
         "name": "Poliwrath",
         "hp": "150",
         "Element": "Water",
@@ -2648,7 +2648,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-62",
+        "id": "A1-062",
         "name": "Tentacool",
         "hp": "60",
         "Element": "Water",
@@ -2688,7 +2688,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-63",
+        "id": "A1-063",
         "name": "Tentacruel",
         "hp": "110",
         "Element": "Water",
@@ -2729,7 +2729,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-64",
+        "id": "A1-064",
         "name": "Seel",
         "hp": "80",
         "Element": "Water",
@@ -2770,7 +2770,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-65",
+        "id": "A1-065",
         "name": "Dewgong",
         "hp": "120",
         "Element": "Water",
@@ -2812,7 +2812,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-66",
+        "id": "A1-066",
         "name": "Shellder",
         "hp": "60",
         "Element": "Water",
@@ -2852,7 +2852,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-67",
+        "id": "A1-067",
         "name": "Cloyster",
         "hp": "120",
         "Element": "Water",
@@ -2894,7 +2894,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-68",
+        "id": "A1-068",
         "name": "Krabby",
         "hp": "70",
         "Element": "Water",
@@ -2935,7 +2935,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-69",
+        "id": "A1-069",
         "name": "Kingler",
         "hp": "120",
         "Element": "Water",
@@ -2977,7 +2977,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-70",
+        "id": "A1-070",
         "name": "Horsea",
         "hp": "60",
         "Element": "Water",
@@ -3017,7 +3017,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-71",
+        "id": "A1-071",
         "name": "Seadra",
         "hp": "70",
         "Element": "Water",
@@ -3059,7 +3059,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-72",
+        "id": "A1-072",
         "name": "Goldeen",
         "hp": "60",
         "Element": "Water",
@@ -3099,7 +3099,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-73",
+        "id": "A1-073",
         "name": "Seaking",
         "hp": "100",
         "Element": "Water",
@@ -3139,7 +3139,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-74",
+        "id": "A1-074",
         "name": "Staryu",
         "hp": "50",
         "Element": "Water",
@@ -3183,7 +3183,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-75",
+        "id": "A1-075",
         "name": "Starmie",
         "hp": "90",
         "Element": "Water",
@@ -3227,7 +3227,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-76",
+        "id": "A1-076",
         "name": "Starmie ex",
         "hp": "130",
         "Element": "Water",
@@ -3276,7 +3276,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-77",
+        "id": "A1-077",
         "name": "Magikarp",
         "hp": "30",
         "Element": "Water",
@@ -3316,7 +3316,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-78",
+        "id": "A1-078",
         "name": "Gyarados",
         "hp": "150",
         "Element": "Water",
@@ -3363,7 +3363,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-79",
+        "id": "A1-079",
         "name": "Lapras",
         "hp": "100",
         "Element": "Water",
@@ -3411,7 +3411,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-80",
+        "id": "A1-080",
         "name": "Vaporeon",
         "hp": "130",
         "Element": "Water",
@@ -3453,7 +3453,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-81",
+        "id": "A1-081",
         "name": "Omanyte",
         "hp": "90",
         "Element": "Water",
@@ -3493,7 +3493,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-82",
+        "id": "A1-082",
         "name": "Omastar",
         "hp": "140",
         "Element": "Water",
@@ -3535,7 +3535,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-83",
+        "id": "A1-083",
         "name": "Articuno",
         "hp": "100",
         "Element": "Water",
@@ -3577,7 +3577,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-84",
+        "id": "A1-084",
         "name": "Articuno ex",
         "hp": "140",
         "Element": "Water",
@@ -3640,7 +3640,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-85",
+        "id": "A1-085",
         "name": "Ducklett",
         "hp": "50",
         "Element": "Water",
@@ -3681,7 +3681,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-86",
+        "id": "A1-086",
         "name": "Swanna",
         "hp": "90",
         "Element": "Water",
@@ -3723,7 +3723,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-87",
+        "id": "A1-087",
         "name": "Froakie",
         "hp": "60",
         "Element": "Water",
@@ -3767,7 +3767,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-88",
+        "id": "A1-088",
         "name": "Frogadier",
         "hp": "80",
         "Element": "Water",
@@ -3811,7 +3811,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-89",
+        "id": "A1-089",
         "name": "Greninja",
         "hp": "120",
         "Element": "Water",
@@ -3856,7 +3856,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-90",
+        "id": "A1-090",
         "name": "Pyukumuku",
         "hp": "70",
         "Element": "Water",
@@ -3896,7 +3896,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-91",
+        "id": "A1-091",
         "name": "Bruxish",
         "hp": "90",
         "Element": "Water",
@@ -3937,7 +3937,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-92",
+        "id": "A1-092",
         "name": "Snom",
         "hp": "50",
         "Element": "Water",
@@ -3977,7 +3977,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-93",
+        "id": "A1-093",
         "name": "Frosmoth",
         "hp": "90",
         "Element": "Water",
@@ -4018,7 +4018,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-94",
+        "id": "A1-094",
         "name": "Pikachu",
         "hp": "60",
         "Element": "Lightning",
@@ -4058,7 +4058,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-95",
+        "id": "A1-095",
         "name": "Raichu",
         "hp": "100",
         "Element": "Lightning",
@@ -4100,7 +4100,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-96",
+        "id": "A1-096",
         "name": "Pikachu ex",
         "hp": "120",
         "Element": "Lightning",
@@ -4153,7 +4153,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-97",
+        "id": "A1-097",
         "name": "Magnemite",
         "hp": "60",
         "Element": "Lightning",
@@ -4193,7 +4193,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-98",
+        "id": "A1-098",
         "name": "Magneton",
         "hp": "80",
         "Element": "Lightning",
@@ -4236,7 +4236,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A1-99",
+        "id": "A1-099",
         "name": "Voltorb",
         "hp": "60",
         "Element": "Lightning",

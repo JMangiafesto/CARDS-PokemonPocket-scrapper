@@ -1,0 +1,6802 @@
+[
+  {
+    "id1": "A1-001",
+    "id2": "A1-227",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "A1-001",
+    "id2": "PA-023",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "A1-001",
+    "id2": "A3-210",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "A1-227",
+    "id2": "PA-023",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "A1-227",
+    "id2": "A3-210",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "PA-023",
+    "id2": "A3-210",
+    "pokemon_name": "Bulbasaur"
+  },
+  {
+    "id1": "A1-002",
+    "id2": "A3-211",
+    "pokemon_name": "Ivysaur"
+  },
+  {
+    "id1": "A1-003",
+    "id2": "A1-004",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-003",
+    "id2": "A1-251",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-003",
+    "id2": "PA-018",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-003",
+    "id2": "A3-212",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-003",
+    "id2": "A3-230",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-004",
+    "id2": "A1-251",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-004",
+    "id2": "PA-018",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-004",
+    "id2": "A3-212",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-004",
+    "id2": "A3-230",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-251",
+    "id2": "PA-018",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-251",
+    "id2": "A3-212",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-251",
+    "id2": "A3-230",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "PA-018",
+    "id2": "A3-212",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "PA-018",
+    "id2": "A3-230",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A3-212",
+    "id2": "A3-230",
+    "pokemon_name": "Venusaur"
+  },
+  {
+    "id1": "A1-007",
+    "id2": "PA-013",
+    "pokemon_name": "Butterfree"
+  },
+  {
+    "id1": "A1-008",
+    "id2": "A2b-001",
+    "pokemon_name": "Weedle"
+  },
+  {
+    "id1": "A1-008",
+    "id2": "A2b-097",
+    "pokemon_name": "Weedle"
+  },
+  {
+    "id1": "A2b-001",
+    "id2": "A2b-097",
+    "pokemon_name": "Weedle"
+  },
+  {
+    "id1": "A1-009",
+    "id2": "A2b-002",
+    "pokemon_name": "Kakuna"
+  },
+  {
+    "id1": "A1-009",
+    "id2": "A2b-098",
+    "pokemon_name": "Kakuna"
+  },
+  {
+    "id1": "A2b-002",
+    "id2": "A2b-098",
+    "pokemon_name": "Kakuna"
+  },
+  {
+    "id1": "A1-010",
+    "id2": "A2b-003",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A1-010",
+    "id2": "A2b-079",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A1-010",
+    "id2": "A2b-107",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A2b-003",
+    "id2": "A2b-079",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A2b-003",
+    "id2": "A2b-107",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A2b-079",
+    "id2": "A2b-107",
+    "pokemon_name": "Beedrill"
+  },
+  {
+    "id1": "A1-011",
+    "id2": "A2-001",
+    "pokemon_name": "Oddish"
+  },
+  {
+    "id1": "A1-012",
+    "id2": "A1-228",
+    "pokemon_name": "Gloom"
+  },
+  {
+    "id1": "A1-012",
+    "id2": "A2-002",
+    "pokemon_name": "Gloom"
+  },
+  {
+    "id1": "A1-228",
+    "id2": "A2-002",
+    "pokemon_name": "Gloom"
+  },
+  {
+    "id1": "A1-021",
+    "id2": "PA-060",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1-021",
+    "id2": "A1a-001",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1-021",
+    "id2": "A3-001",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1-021",
+    "id2": "A3-213",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "PA-060",
+    "id2": "A1a-001",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "PA-060",
+    "id2": "A3-001",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "PA-060",
+    "id2": "A3-213",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1a-001",
+    "id2": "A3-001",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1a-001",
+    "id2": "A3-213",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A3-001",
+    "id2": "A3-213",
+    "pokemon_name": "Exeggcute"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A1-023",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A1-252",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A1a-002",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A1a-069",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A3-214",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-022",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-023",
+    "id2": "A1-252",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-023",
+    "id2": "A1a-002",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-023",
+    "id2": "A1a-069",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-023",
+    "id2": "A3-214",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-023",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-252",
+    "id2": "A1a-002",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-252",
+    "id2": "A1a-069",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-252",
+    "id2": "A3-214",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-252",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1a-002",
+    "id2": "A1a-069",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1a-002",
+    "id2": "A3-214",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1a-002",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1a-069",
+    "id2": "A3-214",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1a-069",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A3-214",
+    "id2": "A3-231",
+    "pokemon_name": "Exeggutor"
+  },
+  {
+    "id1": "A1-024",
+    "id2": "A2-004",
+    "pokemon_name": "Tangela"
+  },
+  {
+    "id1": "A1-026",
+    "id2": "A1-229",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A1-026",
+    "id2": "A2b-004",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A1-026",
+    "id2": "A3B-093",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A1-229",
+    "id2": "A2b-004",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A1-229",
+    "id2": "A3B-093",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A2b-004",
+    "id2": "A3B-093",
+    "pokemon_name": "Pinsir"
+  },
+  {
+    "id1": "A1-029",
+    "id2": "A3A-001",
+    "pokemon_name": "Petilil"
+  },
+  {
+    "id1": "A1-030",
+    "id2": "A3A-002",
+    "pokemon_name": "Lilligant"
+  },
+  {
+    "id1": "A1-033",
+    "id2": "A1-230",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-033",
+    "id2": "PA-032",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-033",
+    "id2": "A2b-008",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-033",
+    "id2": "A2b-099",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-230",
+    "id2": "PA-032",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-230",
+    "id2": "A2b-008",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-230",
+    "id2": "A2b-099",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "PA-032",
+    "id2": "A2b-008",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "PA-032",
+    "id2": "A2b-099",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A2b-008",
+    "id2": "A2b-099",
+    "pokemon_name": "Charmander"
+  },
+  {
+    "id1": "A1-034",
+    "id2": "A2b-009",
+    "pokemon_name": "Charmeleon"
+  },
+  {
+    "id1": "A1-034",
+    "id2": "A2b-100",
+    "pokemon_name": "Charmeleon"
+  },
+  {
+    "id1": "A2b-009",
+    "id2": "A2b-100",
+    "pokemon_name": "Charmeleon"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A1-036",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A1-253",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A1-280",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A1-284",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A2b-010",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-035",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A1-253",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A1-280",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A1-284",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A2b-010",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-036",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-253",
+    "id2": "A1-280",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-253",
+    "id2": "A1-284",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-253",
+    "id2": "A2b-010",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-253",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-253",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-280",
+    "id2": "A1-284",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-280",
+    "id2": "A2b-010",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-280",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-280",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-284",
+    "id2": "A2b-010",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-284",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-284",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A2b-010",
+    "id2": "A2b-080",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A2b-010",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A2b-080",
+    "id2": "A2b-108",
+    "pokemon_name": "Charizard"
+  },
+  {
+    "id1": "A1-039",
+    "id2": "A3-025",
+    "pokemon_name": "Growlithe"
+  },
+  {
+    "id1": "A1-039",
+    "id2": "A3A-089",
+    "pokemon_name": "Growlithe"
+  },
+  {
+    "id1": "A3-025",
+    "id2": "A3A-089",
+    "pokemon_name": "Growlithe"
+  },
+  {
+    "id1": "A1-040",
+    "id2": "A1-041",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-040",
+    "id2": "A1-254",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-040",
+    "id2": "A3-026",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-040",
+    "id2": "A3A-090",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-040",
+    "id2": "A3A-100",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-041",
+    "id2": "A1-254",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-041",
+    "id2": "A3-026",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-041",
+    "id2": "A3A-090",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-041",
+    "id2": "A3A-100",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-254",
+    "id2": "A3-026",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-254",
+    "id2": "A3A-090",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-254",
+    "id2": "A3A-100",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A3-026",
+    "id2": "A3A-090",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A3-026",
+    "id2": "A3A-100",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A3A-090",
+    "id2": "A3A-100",
+    "pokemon_name": "Arcanine"
+  },
+  {
+    "id1": "A1-042",
+    "id2": "A1a-010",
+    "pokemon_name": "Ponyta"
+  },
+  {
+    "id1": "A1-043",
+    "id2": "A1-231",
+    "pokemon_name": "Rapidash"
+  },
+  {
+    "id1": "A1-043",
+    "id2": "A1a-011",
+    "pokemon_name": "Rapidash"
+  },
+  {
+    "id1": "A1-231",
+    "id2": "A1a-011",
+    "pokemon_name": "Rapidash"
+  },
+  {
+    "id1": "A1-044",
+    "id2": "A1a-012",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A1-044",
+    "id2": "A2-023",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A1-044",
+    "id2": "A2b-011",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A1a-012",
+    "id2": "A2-023",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A1a-012",
+    "id2": "A2b-011",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A2-023",
+    "id2": "A2b-011",
+    "pokemon_name": "Magmar"
+  },
+  {
+    "id1": "A1-045",
+    "id2": "A3B-008",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A1-045",
+    "id2": "A3B-009",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A1-045",
+    "id2": "A3B-071",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A1-045",
+    "id2": "A3B-079",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A1-045",
+    "id2": "A3B-087",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-008",
+    "id2": "A3B-009",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-008",
+    "id2": "A3B-071",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-008",
+    "id2": "A3B-079",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-008",
+    "id2": "A3B-087",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-009",
+    "id2": "A3B-071",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-009",
+    "id2": "A3B-079",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-009",
+    "id2": "A3B-087",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-071",
+    "id2": "A3B-079",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-071",
+    "id2": "A3B-087",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A3B-079",
+    "id2": "A3B-087",
+    "pokemon_name": "Flareon"
+  },
+  {
+    "id1": "A1-046",
+    "id2": "A1-047",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-046",
+    "id2": "A1-255",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-046",
+    "id2": "A1-274",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-046",
+    "id2": "PA-025",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-046",
+    "id2": "A3B-103",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-047",
+    "id2": "A1-255",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-047",
+    "id2": "A1-274",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-047",
+    "id2": "PA-025",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-047",
+    "id2": "A3B-103",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-255",
+    "id2": "A1-274",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-255",
+    "id2": "PA-025",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-255",
+    "id2": "A3B-103",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-274",
+    "id2": "PA-025",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-274",
+    "id2": "A3B-103",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "PA-025",
+    "id2": "A3B-103",
+    "pokemon_name": "Moltres"
+  },
+  {
+    "id1": "A1-049",
+    "id2": "A1a-015",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1-049",
+    "id2": "A1a-071",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1-049",
+    "id2": "A3-035",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1-049",
+    "id2": "A3B-014",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1a-015",
+    "id2": "A1a-071",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1a-015",
+    "id2": "A3-035",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1a-015",
+    "id2": "A3B-014",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1a-071",
+    "id2": "A3-035",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1a-071",
+    "id2": "A3B-014",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A3-035",
+    "id2": "A3B-014",
+    "pokemon_name": "Salandit"
+  },
+  {
+    "id1": "A1-050",
+    "id2": "A1a-016",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A1-050",
+    "id2": "A3-036",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A1-050",
+    "id2": "A3B-015",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A1a-016",
+    "id2": "A3-036",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A1a-016",
+    "id2": "A3B-015",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A3-036",
+    "id2": "A3B-015",
+    "pokemon_name": "Salazzle"
+  },
+  {
+    "id1": "A1-053",
+    "id2": "A1-232",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "A1-053",
+    "id2": "PA-033",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "A1-053",
+    "id2": "A3-215",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "A1-232",
+    "id2": "PA-033",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "A1-232",
+    "id2": "A3-215",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "PA-033",
+    "id2": "A3-215",
+    "pokemon_name": "Squirtle"
+  },
+  {
+    "id1": "A1-054",
+    "id2": "A3-216",
+    "pokemon_name": "Wartortle"
+  },
+  {
+    "id1": "A1-055",
+    "id2": "A1-056",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-055",
+    "id2": "A1-256",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-055",
+    "id2": "PA-029",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-055",
+    "id2": "A3-217",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-055",
+    "id2": "A3-232",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-056",
+    "id2": "A1-256",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-056",
+    "id2": "PA-029",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-056",
+    "id2": "A3-217",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-056",
+    "id2": "A3-232",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-256",
+    "id2": "PA-029",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-256",
+    "id2": "A3-217",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-256",
+    "id2": "A3-232",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "PA-029",
+    "id2": "A3-217",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "PA-029",
+    "id2": "A3-232",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A3-217",
+    "id2": "A3-232",
+    "pokemon_name": "Blastoise"
+  },
+  {
+    "id1": "A1-062",
+    "id2": "A2b-014",
+    "pokemon_name": "Tentacool"
+  },
+  {
+    "id1": "A1-063",
+    "id2": "A2b-015",
+    "pokemon_name": "Tentacruel"
+  },
+  {
+    "id1": "A1-066",
+    "id2": "A3-042",
+    "pokemon_name": "Shellder"
+  },
+  {
+    "id1": "A1-067",
+    "id2": "A3-043",
+    "pokemon_name": "Cloyster"
+  },
+  {
+    "id1": "A1-074",
+    "id2": "A3-218",
+    "pokemon_name": "Staryu"
+  },
+  {
+    "id1": "A1-075",
+    "id2": "A1-076",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-075",
+    "id2": "A1-257",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-075",
+    "id2": "A3-219",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-075",
+    "id2": "A3-233",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-076",
+    "id2": "A1-257",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-076",
+    "id2": "A3-219",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-076",
+    "id2": "A3-233",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-257",
+    "id2": "A3-219",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-257",
+    "id2": "A3-233",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A3-219",
+    "id2": "A3-233",
+    "pokemon_name": "Starmie"
+  },
+  {
+    "id1": "A1-077",
+    "id2": "A1a-017",
+    "pokemon_name": "Magikarp"
+  },
+  {
+    "id1": "A1-078",
+    "id2": "A1-233",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1-078",
+    "id2": "A1a-018",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1-078",
+    "id2": "A1a-076",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1-233",
+    "id2": "A1a-018",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1-233",
+    "id2": "A1a-076",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1a-018",
+    "id2": "A1a-076",
+    "pokemon_name": "Gyarados"
+  },
+  {
+    "id1": "A1-079",
+    "id2": "A1-234",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-079",
+    "id2": "PA-014",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-079",
+    "id2": "A3-044",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-079",
+    "id2": "A3B-094",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-234",
+    "id2": "PA-014",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-234",
+    "id2": "A3-044",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-234",
+    "id2": "A3B-094",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "PA-014",
+    "id2": "A3-044",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "PA-014",
+    "id2": "A3B-094",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A3-044",
+    "id2": "A3B-094",
+    "pokemon_name": "Lapras"
+  },
+  {
+    "id1": "A1-080",
+    "id2": "A1a-019",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1-080",
+    "id2": "A1a-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1-080",
+    "id2": "A3B-016",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1-080",
+    "id2": "A3B-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1a-019",
+    "id2": "A1a-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1a-019",
+    "id2": "A3B-016",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1a-019",
+    "id2": "A3B-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1a-072",
+    "id2": "A3B-016",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1a-072",
+    "id2": "A3B-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A3B-016",
+    "id2": "A3B-072",
+    "pokemon_name": "Vaporeon"
+  },
+  {
+    "id1": "A1-083",
+    "id2": "A1-084",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-083",
+    "id2": "A1-258",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-083",
+    "id2": "A1-275",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-083",
+    "id2": "A3B-104",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-084",
+    "id2": "A1-258",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-084",
+    "id2": "A1-275",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-084",
+    "id2": "A3B-104",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-258",
+    "id2": "A1-275",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-258",
+    "id2": "A3B-104",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-275",
+    "id2": "A3B-104",
+    "pokemon_name": "Articuno"
+  },
+  {
+    "id1": "A1-087",
+    "id2": "PA-061",
+    "pokemon_name": "Froakie"
+  },
+  {
+    "id1": "A1-087",
+    "id2": "A3A-091",
+    "pokemon_name": "Froakie"
+  },
+  {
+    "id1": "PA-061",
+    "id2": "A3A-091",
+    "pokemon_name": "Froakie"
+  },
+  {
+    "id1": "A1-088",
+    "id2": "A3A-092",
+    "pokemon_name": "Frogadier"
+  },
+  {
+    "id1": "A1-089",
+    "id2": "PA-019",
+    "pokemon_name": "Greninja"
+  },
+  {
+    "id1": "A1-089",
+    "id2": "A3A-093",
+    "pokemon_name": "Greninja"
+  },
+  {
+    "id1": "PA-019",
+    "id2": "A3A-093",
+    "pokemon_name": "Greninja"
+  },
+  {
+    "id1": "A1-090",
+    "id2": "A3-054",
+    "pokemon_name": "Pyukumuku"
+  },
+  {
+    "id1": "A1-090",
+    "id2": "A3-163",
+    "pokemon_name": "Pyukumuku"
+  },
+  {
+    "id1": "A3-054",
+    "id2": "A3-163",
+    "pokemon_name": "Pyukumuku"
+  },
+  {
+    "id1": "A1-091",
+    "id2": "A3-055",
+    "pokemon_name": "Bruxish"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A1-096",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A1-259",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A1-281",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A1-285",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "PA-009",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-094",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A1-259",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A1-281",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A1-285",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "PA-009",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-096",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A1-281",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A1-285",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "PA-009",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-259",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A1-285",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "PA-009",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-281",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "PA-009",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-285",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "PA-015",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-009",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "PA-026",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-015",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A1a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "PA-026",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1a-025",
+    "id2": "A2a-025",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1a-025",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1a-025",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1a-025",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1a-025",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2a-025",
+    "id2": "A2b-022",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2a-025",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2a-025",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2a-025",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-022",
+    "id2": "A2b-082",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-022",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-022",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-082",
+    "id2": "A2b-092",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-082",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A2b-092",
+    "id2": "A3-057",
+    "pokemon_name": "Pikachu"
+  },
+  {
+    "id1": "A1-095",
+    "id2": "PA-044",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "A1-095",
+    "id2": "A1a-026",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "A1-095",
+    "id2": "A2a-026",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "PA-044",
+    "id2": "A1a-026",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "PA-044",
+    "id2": "A2a-026",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "A1a-026",
+    "id2": "A2a-026",
+    "pokemon_name": "Raichu"
+  },
+  {
+    "id1": "A1-097",
+    "id2": "PA-024",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A1-097",
+    "id2": "A2-051",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A1-097",
+    "id2": "A2a-053",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A1-097",
+    "id2": "A2a-080",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "PA-024",
+    "id2": "A2-051",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "PA-024",
+    "id2": "A2a-053",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "PA-024",
+    "id2": "A2a-080",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A2-051",
+    "id2": "A2a-053",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A2-051",
+    "id2": "A2a-080",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A2a-053",
+    "id2": "A2a-080",
+    "pokemon_name": "Magnemite"
+  },
+  {
+    "id1": "A1-098",
+    "id2": "A2-052",
+    "pokemon_name": "Magneton"
+  },
+  {
+    "id1": "A1-098",
+    "id2": "A2a-054",
+    "pokemon_name": "Magneton"
+  },
+  {
+    "id1": "A2-052",
+    "id2": "A2a-054",
+    "pokemon_name": "Magneton"
+  },
+  {
+    "id1": "A1-099",
+    "id2": "A2-054",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A1-099",
+    "id2": "A2b-023",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A1-099",
+    "id2": "A3B-095",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A2-054",
+    "id2": "A2b-023",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A2-054",
+    "id2": "A3B-095",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A2b-023",
+    "id2": "A3B-095",
+    "pokemon_name": "Voltorb"
+  },
+  {
+    "id1": "A1-100",
+    "id2": "A1-235",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-100",
+    "id2": "A2-055",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-100",
+    "id2": "A2b-024",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-100",
+    "id2": "A3B-096",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-235",
+    "id2": "A2-055",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-235",
+    "id2": "A2b-024",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-235",
+    "id2": "A3B-096",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A2-055",
+    "id2": "A2b-024",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A2-055",
+    "id2": "A3B-096",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A2b-024",
+    "id2": "A3B-096",
+    "pokemon_name": "Electrode"
+  },
+  {
+    "id1": "A1-101",
+    "id2": "A1a-027",
+    "pokemon_name": "Electabuzz"
+  },
+  {
+    "id1": "A1-101",
+    "id2": "A2-056",
+    "pokemon_name": "Electabuzz"
+  },
+  {
+    "id1": "A1a-027",
+    "id2": "A2-056",
+    "pokemon_name": "Electabuzz"
+  },
+  {
+    "id1": "A1-102",
+    "id2": "PA-086",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "A1-102",
+    "id2": "A3B-025",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "A1-102",
+    "id2": "A3B-074",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "PA-086",
+    "id2": "A3B-025",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "PA-086",
+    "id2": "A3B-074",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "A3B-025",
+    "id2": "A3B-074",
+    "pokemon_name": "Jolteon"
+  },
+  {
+    "id1": "A1-103",
+    "id2": "A1-104",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-103",
+    "id2": "A1-260",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-103",
+    "id2": "A1-276",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-103",
+    "id2": "A3B-105",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-104",
+    "id2": "A1-260",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-104",
+    "id2": "A1-276",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-104",
+    "id2": "A3B-105",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-260",
+    "id2": "A1-276",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-260",
+    "id2": "A3B-105",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-276",
+    "id2": "A3B-105",
+    "pokemon_name": "Zapdos"
+  },
+  {
+    "id1": "A1-105",
+    "id2": "A3A-016",
+    "pokemon_name": "Blitzle"
+  },
+  {
+    "id1": "A1-106",
+    "id2": "A3A-017",
+    "pokemon_name": "Zebstrika"
+  },
+  {
+    "id1": "A1-110",
+    "id2": "A3-062",
+    "pokemon_name": "Helioptile"
+  },
+  {
+    "id1": "A1-111",
+    "id2": "A3-063",
+    "pokemon_name": "Heliolisk"
+  },
+  {
+    "id1": "A1-113",
+    "id2": "PA-016",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "A1-113",
+    "id2": "A2a-029",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "A1-113",
+    "id2": "A3A-022",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "PA-016",
+    "id2": "A2a-029",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "PA-016",
+    "id2": "A3A-022",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "A2a-029",
+    "id2": "A3A-022",
+    "pokemon_name": "Clefairy"
+  },
+  {
+    "id1": "A1-114",
+    "id2": "A2a-030",
+    "pokemon_name": "Clefable"
+  },
+  {
+    "id1": "A1-114",
+    "id2": "A3A-023",
+    "pokemon_name": "Clefable"
+  },
+  {
+    "id1": "A2a-030",
+    "id2": "A3A-023",
+    "pokemon_name": "Clefable"
+  },
+  {
+    "id1": "A1-115",
+    "id2": "A2b-029",
+    "pokemon_name": "Abra"
+  },
+  {
+    "id1": "A1-116",
+    "id2": "A2b-030",
+    "pokemon_name": "Kadabra"
+  },
+  {
+    "id1": "A1-117",
+    "id2": "A1-236",
+    "pokemon_name": "Alakazam"
+  },
+  {
+    "id1": "A1-117",
+    "id2": "A2b-031",
+    "pokemon_name": "Alakazam"
+  },
+  {
+    "id1": "A1-236",
+    "id2": "A2b-031",
+    "pokemon_name": "Alakazam"
+  },
+  {
+    "id1": "A1-118",
+    "id2": "A1-237",
+    "pokemon_name": "Slowpoke"
+  },
+  {
+    "id1": "A1-120",
+    "id2": "A2a-031",
+    "pokemon_name": "Gastly"
+  },
+  {
+    "id1": "A1-120",
+    "id2": "A3-220",
+    "pokemon_name": "Gastly"
+  },
+  {
+    "id1": "A2a-031",
+    "id2": "A3-220",
+    "pokemon_name": "Gastly"
+  },
+  {
+    "id1": "A1-121",
+    "id2": "PA-020",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "A1-121",
+    "id2": "A2a-032",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "A1-121",
+    "id2": "A3-221",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "PA-020",
+    "id2": "A2a-032",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "PA-020",
+    "id2": "A3-221",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "A2a-032",
+    "id2": "A3-221",
+    "pokemon_name": "Haunter"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A1-123",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A1-261",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A1-277",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A2a-033",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A3-222",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-122",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-123",
+    "id2": "A1-261",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-123",
+    "id2": "A1-277",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-123",
+    "id2": "A2a-033",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-123",
+    "id2": "A3-222",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-123",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-261",
+    "id2": "A1-277",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-261",
+    "id2": "A2a-033",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-261",
+    "id2": "A3-222",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-261",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-277",
+    "id2": "A2a-033",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-277",
+    "id2": "A3-222",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-277",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A2a-033",
+    "id2": "A3-222",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A2a-033",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A3-222",
+    "id2": "A3-234",
+    "pokemon_name": "Gengar"
+  },
+  {
+    "id1": "A1-126",
+    "id2": "A2b-032",
+    "pokemon_name": "Mr. Mime"
+  },
+  {
+    "id1": "A1-126",
+    "id2": "A3-069",
+    "pokemon_name": "Mr. Mime"
+  },
+  {
+    "id1": "A2b-032",
+    "id2": "A3-069",
+    "pokemon_name": "Mr. Mime"
+  },
+  {
+    "id1": "A1-127",
+    "id2": "A3A-094",
+    "pokemon_name": "Jynx"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "A1-129",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "A1-262",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "A1-282",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "A1-286",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "PA-010",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-128",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-129",
+    "id2": "A1-262",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-129",
+    "id2": "A1-282",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-129",
+    "id2": "A1-286",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-129",
+    "id2": "PA-010",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-129",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-262",
+    "id2": "A1-282",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-262",
+    "id2": "A1-286",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-262",
+    "id2": "PA-010",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-262",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-282",
+    "id2": "A1-286",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-282",
+    "id2": "PA-010",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-282",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-286",
+    "id2": "PA-010",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-286",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "PA-010",
+    "id2": "PA-050",
+    "pokemon_name": "Mewtwo"
+  },
+  {
+    "id1": "A1-130",
+    "id2": "A2-068",
+    "pokemon_name": "Ralts"
+  },
+  {
+    "id1": "A1-130",
+    "id2": "A3B-097",
+    "pokemon_name": "Ralts"
+  },
+  {
+    "id1": "A2-068",
+    "id2": "A3B-097",
+    "pokemon_name": "Ralts"
+  },
+  {
+    "id1": "A1-131",
+    "id2": "A2-069",
+    "pokemon_name": "Kirlia"
+  },
+  {
+    "id1": "A1-131",
+    "id2": "A3B-098",
+    "pokemon_name": "Kirlia"
+  },
+  {
+    "id1": "A2-069",
+    "id2": "A3B-098",
+    "pokemon_name": "Kirlia"
+  },
+  {
+    "id1": "A1-132",
+    "id2": "A3B-099",
+    "pokemon_name": "Gardevoir"
+  },
+  {
+    "id1": "A1-133",
+    "id2": "A3B-029",
+    "pokemon_name": "Woobat"
+  },
+  {
+    "id1": "A1-134",
+    "id2": "A3B-030",
+    "pokemon_name": "Swoobat"
+  },
+  {
+    "id1": "A1-139",
+    "id2": "A1-238",
+    "pokemon_name": "Diglett"
+  },
+  {
+    "id1": "A1-141",
+    "id2": "PA-017",
+    "pokemon_name": "Mankey"
+  },
+  {
+    "id1": "A1-141",
+    "id2": "A1a-041",
+    "pokemon_name": "Mankey"
+  },
+  {
+    "id1": "PA-017",
+    "id2": "A1a-041",
+    "pokemon_name": "Mankey"
+  },
+  {
+    "id1": "A1-142",
+    "id2": "A1a-042",
+    "pokemon_name": "Primeape"
+  },
+  {
+    "id1": "A1-143",
+    "id2": "A2b-037",
+    "pokemon_name": "Machop"
+  },
+  {
+    "id1": "A1-143",
+    "id2": "A3-223",
+    "pokemon_name": "Machop"
+  },
+  {
+    "id1": "A2b-037",
+    "id2": "A3-223",
+    "pokemon_name": "Machop"
+  },
+  {
+    "id1": "A1-144",
+    "id2": "A2b-038",
+    "pokemon_name": "Machoke"
+  },
+  {
+    "id1": "A1-144",
+    "id2": "A3-224",
+    "pokemon_name": "Machoke"
+  },
+  {
+    "id1": "A2b-038",
+    "id2": "A3-224",
+    "pokemon_name": "Machoke"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A1-146",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A1-263",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A1-278",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "PA-055",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A2b-039",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-145",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "A1-263",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "A1-278",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "PA-055",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "A2b-039",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-146",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-263",
+    "id2": "A1-278",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-263",
+    "id2": "PA-055",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-263",
+    "id2": "A2b-039",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-263",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-263",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-278",
+    "id2": "PA-055",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-278",
+    "id2": "A2b-039",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-278",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-278",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "PA-055",
+    "id2": "A2b-039",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "PA-055",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "PA-055",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A2b-039",
+    "id2": "A3-225",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A2b-039",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A3-225",
+    "id2": "A3-235",
+    "pokemon_name": "Machamp"
+  },
+  {
+    "id1": "A1-147",
+    "id2": "A1a-043",
+    "pokemon_name": "Geodude"
+  },
+  {
+    "id1": "A1-148",
+    "id2": "A1a-044",
+    "pokemon_name": "Graveler"
+  },
+  {
+    "id1": "A1-149",
+    "id2": "A1a-045",
+    "pokemon_name": "Golem"
+  },
+  {
+    "id1": "A1-150",
+    "id2": "PA-021",
+    "pokemon_name": "Onix"
+  },
+  {
+    "id1": "A1-151",
+    "id2": "A1-239",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A1-151",
+    "id2": "A3-089",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A1-151",
+    "id2": "A3-226",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A1-239",
+    "id2": "A3-089",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A1-239",
+    "id2": "A3-226",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A3-089",
+    "id2": "A3-226",
+    "pokemon_name": "Cubone"
+  },
+  {
+    "id1": "A1-152",
+    "id2": "A1-153",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-152",
+    "id2": "A1-264",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-152",
+    "id2": "A3-227",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-152",
+    "id2": "A3-236",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-153",
+    "id2": "A1-264",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-153",
+    "id2": "A3-227",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-153",
+    "id2": "A3-236",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-264",
+    "id2": "A3-227",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-264",
+    "id2": "A3-236",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A3-227",
+    "id2": "A3-236",
+    "pokemon_name": "Marowak"
+  },
+  {
+    "id1": "A1-154",
+    "id2": "A2b-040",
+    "pokemon_name": "Hitmonlee"
+  },
+  {
+    "id1": "A1-155",
+    "id2": "A2b-041",
+    "pokemon_name": "Hitmonchan"
+  },
+  {
+    "id1": "A1-156",
+    "id2": "A2-080",
+    "pokemon_name": "Rhyhorn"
+  },
+  {
+    "id1": "A1-157",
+    "id2": "A2-081",
+    "pokemon_name": "Rhydon"
+  },
+  {
+    "id1": "A1-160",
+    "id2": "A3B-040",
+    "pokemon_name": "Mienfoo"
+  },
+  {
+    "id1": "A1-161",
+    "id2": "A3B-041",
+    "pokemon_name": "Mienshao"
+  },
+  {
+    "id1": "A1-164",
+    "id2": "PA-056",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "A1-164",
+    "id2": "A2b-045",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "A1-164",
+    "id2": "A3B-100",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "PA-056",
+    "id2": "A2b-045",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "PA-056",
+    "id2": "A3B-100",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "A2b-045",
+    "id2": "A3B-100",
+    "pokemon_name": "Ekans"
+  },
+  {
+    "id1": "A1-165",
+    "id2": "A2b-046",
+    "pokemon_name": "Arbok"
+  },
+  {
+    "id1": "A1-165",
+    "id2": "A3B-101",
+    "pokemon_name": "Arbok"
+  },
+  {
+    "id1": "A2b-046",
+    "id2": "A3B-101",
+    "pokemon_name": "Arbok"
+  },
+  {
+    "id1": "A1-168",
+    "id2": "A1-240",
+    "pokemon_name": "Nidoqueen"
+  },
+  {
+    "id1": "A1-171",
+    "id2": "A1-241",
+    "pokemon_name": "Nidoking"
+  },
+  {
+    "id1": "A1-172",
+    "id2": "A2a-048",
+    "pokemon_name": "Zubat"
+  },
+  {
+    "id1": "A1-173",
+    "id2": "A1-242",
+    "pokemon_name": "Golbat"
+  },
+  {
+    "id1": "A1-173",
+    "id2": "A2a-049",
+    "pokemon_name": "Golbat"
+  },
+  {
+    "id1": "A1-242",
+    "id2": "A2a-049",
+    "pokemon_name": "Golbat"
+  },
+  {
+    "id1": "A1-176",
+    "id2": "A1a-049",
+    "pokemon_name": "Koffing"
+  },
+  {
+    "id1": "A1-177",
+    "id2": "A1-243",
+    "pokemon_name": "Weezing"
+  },
+  {
+    "id1": "A1-177",
+    "id2": "A1a-050",
+    "pokemon_name": "Weezing"
+  },
+  {
+    "id1": "A1-243",
+    "id2": "A1a-050",
+    "pokemon_name": "Weezing"
+  },
+  {
+    "id1": "A1-178",
+    "id2": "A2a-056",
+    "pokemon_name": "Mawile"
+  },
+  {
+    "id1": "A1-178",
+    "id2": "A3B-047",
+    "pokemon_name": "Mawile"
+  },
+  {
+    "id1": "A2a-056",
+    "id2": "A3B-047",
+    "pokemon_name": "Mawile"
+  },
+  {
+    "id1": "A1-181",
+    "id2": "A3B-049",
+    "pokemon_name": "Meltan"
+  },
+  {
+    "id1": "A1-182",
+    "id2": "A3B-050",
+    "pokemon_name": "Melmetal"
+  },
+  {
+    "id1": "A1-183",
+    "id2": "A3B-051",
+    "pokemon_name": "Dratini"
+  },
+  {
+    "id1": "A1-184",
+    "id2": "PA-088",
+    "pokemon_name": "Dragonair"
+  },
+  {
+    "id1": "A1-184",
+    "id2": "A3B-052",
+    "pokemon_name": "Dragonair"
+  },
+  {
+    "id1": "PA-088",
+    "id2": "A3B-052",
+    "pokemon_name": "Dragonair"
+  },
+  {
+    "id1": "A1-185",
+    "id2": "A1-244",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-185",
+    "id2": "A3B-053",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-185",
+    "id2": "A3B-082",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-185",
+    "id2": "A3B-090",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-244",
+    "id2": "A3B-053",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-244",
+    "id2": "A3B-082",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-244",
+    "id2": "A3B-090",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A3B-053",
+    "id2": "A3B-082",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A3B-053",
+    "id2": "A3B-090",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A3B-082",
+    "id2": "A3B-090",
+    "pokemon_name": "Dragonite"
+  },
+  {
+    "id1": "A1-186",
+    "id2": "A1a-057",
+    "pokemon_name": "Pidgey"
+  },
+  {
+    "id1": "A1-186",
+    "id2": "A3A-095",
+    "pokemon_name": "Pidgey"
+  },
+  {
+    "id1": "A1a-057",
+    "id2": "A3A-095",
+    "pokemon_name": "Pidgey"
+  },
+  {
+    "id1": "A1-187",
+    "id2": "A1a-058",
+    "pokemon_name": "Pidgeotto"
+  },
+  {
+    "id1": "A1-187",
+    "id2": "A3A-096",
+    "pokemon_name": "Pidgeotto"
+  },
+  {
+    "id1": "A1a-058",
+    "id2": "A3A-096",
+    "pokemon_name": "Pidgeotto"
+  },
+  {
+    "id1": "A1-188",
+    "id2": "A1-245",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-188",
+    "id2": "A1a-059",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-188",
+    "id2": "A1a-079",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-188",
+    "id2": "A3A-097",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-188",
+    "id2": "A3A-102",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-245",
+    "id2": "A1a-059",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-245",
+    "id2": "A1a-079",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-245",
+    "id2": "A3A-097",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-245",
+    "id2": "A3A-102",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1a-059",
+    "id2": "A1a-079",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1a-059",
+    "id2": "A3A-097",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1a-059",
+    "id2": "A3A-102",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1a-079",
+    "id2": "A3A-097",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1a-079",
+    "id2": "A3A-102",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A3A-097",
+    "id2": "A3A-102",
+    "pokemon_name": "Pidgeot"
+  },
+  {
+    "id1": "A1-189",
+    "id2": "A2b-058",
+    "pokemon_name": "Rattata"
+  },
+  {
+    "id1": "A1-190",
+    "id2": "A2b-059",
+    "pokemon_name": "Raticate"
+  },
+  {
+    "id1": "A1-193",
+    "id2": "PA-022",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "A1-193",
+    "id2": "A2b-060",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "A1-193",
+    "id2": "A3-228",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "PA-022",
+    "id2": "A2b-060",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "PA-022",
+    "id2": "A3-228",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "A2b-060",
+    "id2": "A3-228",
+    "pokemon_name": "Jigglypuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A1-195",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A1-265",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A1-279",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A2b-061",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A2b-078",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-194",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A1-265",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A1-279",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A2b-061",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A2b-078",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-195",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-265",
+    "id2": "A1-279",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-265",
+    "id2": "A2b-061",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-265",
+    "id2": "A2b-078",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-265",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-265",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-279",
+    "id2": "A2b-061",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-279",
+    "id2": "A2b-078",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-279",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-279",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A2b-061",
+    "id2": "A2b-078",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A2b-061",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A2b-061",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A2b-078",
+    "id2": "A3-229",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A2b-078",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A3-229",
+    "id2": "A3-237",
+    "pokemon_name": "Wigglytuff"
+  },
+  {
+    "id1": "A1-196",
+    "id2": "A1-246",
+    "pokemon_name": "Meowth"
+  },
+  {
+    "id1": "A1-196",
+    "id2": "PA-012",
+    "pokemon_name": "Meowth"
+  },
+  {
+    "id1": "A1-246",
+    "id2": "PA-012",
+    "pokemon_name": "Meowth"
+  },
+  {
+    "id1": "A1-198",
+    "id2": "PA-062",
+    "pokemon_name": "Farfetch'd"
+  },
+  {
+    "id1": "A1-198",
+    "id2": "A3B-102",
+    "pokemon_name": "Farfetch'd"
+  },
+  {
+    "id1": "PA-062",
+    "id2": "A3B-102",
+    "pokemon_name": "Farfetch'd"
+  },
+  {
+    "id1": "A1-201",
+    "id2": "A2-124",
+    "pokemon_name": "Lickitung"
+  },
+  {
+    "id1": "A1-201",
+    "id2": "A2b-062",
+    "pokemon_name": "Lickitung"
+  },
+  {
+    "id1": "A2-124",
+    "id2": "A2b-062",
+    "pokemon_name": "Lickitung"
+  },
+  {
+    "id1": "A1-202",
+    "id2": "PA-011",
+    "pokemon_name": "Chansey"
+  },
+  {
+    "id1": "A1-204",
+    "id2": "A1a-060",
+    "pokemon_name": "Tauros"
+  },
+  {
+    "id1": "A1-204",
+    "id2": "A3-128",
+    "pokemon_name": "Tauros"
+  },
+  {
+    "id1": "A1a-060",
+    "id2": "A3-128",
+    "pokemon_name": "Tauros"
+  },
+  {
+    "id1": "A1-205",
+    "id2": "A1-247",
+    "pokemon_name": "Ditto"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A1-207",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A1-208",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A1-248",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "PA-030",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "PA-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-206",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A1-208",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A1-248",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "PA-030",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "PA-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-207",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A1-248",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "PA-030",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "PA-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-208",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "PA-030",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "PA-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-248",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "PA-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-030",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A1a-061",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "PA-092",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A2-126",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1a-061",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A2a-062",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2-126",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2a-062",
+    "id2": "A3B-055",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2a-062",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2a-062",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2a-062",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A2a-062",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-055",
+    "id2": "A3B-056",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-055",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-055",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-055",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-056",
+    "id2": "A3B-078",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-056",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-056",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-078",
+    "id2": "A3B-083",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-078",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A3B-083",
+    "id2": "A3B-092",
+    "pokemon_name": "Eevee"
+  },
+  {
+    "id1": "A1-209",
+    "id2": "A1-249",
+    "pokemon_name": "Porygon"
+  },
+  {
+    "id1": "A1-209",
+    "id2": "A2-127",
+    "pokemon_name": "Porygon"
+  },
+  {
+    "id1": "A1-249",
+    "id2": "A2-127",
+    "pokemon_name": "Porygon"
+  },
+  {
+    "id1": "A1-210",
+    "id2": "A1a-046",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1-210",
+    "id2": "A1a-078",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1-210",
+    "id2": "A1a-084",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1-210",
+    "id2": "A3A-098",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1-210",
+    "id2": "A3A-101",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-046",
+    "id2": "A1a-078",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-046",
+    "id2": "A1a-084",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-046",
+    "id2": "A3A-098",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-046",
+    "id2": "A3A-101",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-078",
+    "id2": "A1a-084",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-078",
+    "id2": "A3A-098",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-078",
+    "id2": "A3A-101",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-084",
+    "id2": "A3A-098",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1a-084",
+    "id2": "A3A-101",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A3A-098",
+    "id2": "A3A-101",
+    "pokemon_name": "Aerodactyl"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "A1-250",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "PA-049",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "A2a-063",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "A3B-057",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "A3B-084",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-211",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-250",
+    "id2": "PA-049",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-250",
+    "id2": "A2a-063",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-250",
+    "id2": "A3B-057",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-250",
+    "id2": "A3B-084",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-250",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "PA-049",
+    "id2": "A2a-063",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "PA-049",
+    "id2": "A3B-057",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "PA-049",
+    "id2": "A3B-084",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "PA-049",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A2a-063",
+    "id2": "A3B-057",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A2a-063",
+    "id2": "A3B-084",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A2a-063",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A3B-057",
+    "id2": "A3B-084",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A3B-057",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A3B-084",
+    "id2": "A3B-091",
+    "pokemon_name": "Snorlax"
+  },
+  {
+    "id1": "A1-212",
+    "id2": "A3B-062",
+    "pokemon_name": "Minccino"
+  },
+  {
+    "id1": "A1-213",
+    "id2": "PA-031",
+    "pokemon_name": "Cinccino"
+  },
+  {
+    "id1": "A1-213",
+    "id2": "A3B-063",
+    "pokemon_name": "Cinccino"
+  },
+  {
+    "id1": "PA-031",
+    "id2": "A3B-063",
+    "pokemon_name": "Cinccino"
+  },
+  {
+    "id1": "A1-283",
+    "id2": "A1a-031",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1-283",
+    "id2": "A1a-032",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1-283",
+    "id2": "A1a-077",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1-283",
+    "id2": "A1a-083",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1-283",
+    "id2": "A1a-086",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-031",
+    "id2": "A1a-032",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-031",
+    "id2": "A1a-077",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-031",
+    "id2": "A1a-083",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-031",
+    "id2": "A1a-086",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-032",
+    "id2": "A1a-077",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-032",
+    "id2": "A1a-083",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-032",
+    "id2": "A1a-086",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-077",
+    "id2": "A1a-083",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-077",
+    "id2": "A1a-086",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "A1a-083",
+    "id2": "A1a-086",
+    "pokemon_name": "Mew"
+  },
+  {
+    "id1": "PA-027",
+    "id2": "A1a-004",
+    "pokemon_name": "Snivy"
+  },
+  {
+    "id1": "PA-028",
+    "id2": "A1a-014",
+    "pokemon_name": "Volcarona"
+  },
+  {
+    "id1": "PA-034",
+    "id2": "A2-035",
+    "pokemon_name": "Piplup"
+  },
+  {
+    "id1": "PA-035",
+    "id2": "A2-010",
+    "pokemon_name": "Turtwig"
+  },
+  {
+    "id1": "PA-036",
+    "id2": "A2-057",
+    "pokemon_name": "Electivire"
+  },
+  {
+    "id1": "PA-037",
+    "id2": "A2-079",
+    "pokemon_name": "Cresselia"
+  },
+  {
+    "id1": "PA-037",
+    "id2": "A2-168",
+    "pokemon_name": "Cresselia"
+  },
+  {
+    "id1": "A2-079",
+    "id2": "A2-168",
+    "pokemon_name": "Cresselia"
+  },
+  {
+    "id1": "PA-038",
+    "id2": "A2-066",
+    "pokemon_name": "Misdreavus"
+  },
+  {
+    "id1": "PA-039",
+    "id2": "A2-111",
+    "pokemon_name": "Skarmory"
+  },
+  {
+    "id1": "PA-040",
+    "id2": "A2-027",
+    "pokemon_name": "Chimchar"
+  },
+  {
+    "id1": "PA-041",
+    "id2": "A2-063",
+    "pokemon_name": "Togepi"
+  },
+  {
+    "id1": "PA-042",
+    "id2": "A2-109",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "PA-042",
+    "id2": "A2-110",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "PA-042",
+    "id2": "A2-187",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "PA-042",
+    "id2": "A2-202",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-109",
+    "id2": "A2-110",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-109",
+    "id2": "A2-187",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-109",
+    "id2": "A2-202",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-110",
+    "id2": "A2-187",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-110",
+    "id2": "A2-202",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "A2-187",
+    "id2": "A2-202",
+    "pokemon_name": "Darkrai"
+  },
+  {
+    "id1": "PA-043",
+    "id2": "A2a-007",
+    "pokemon_name": "Cherrim"
+  },
+  {
+    "id1": "PA-043",
+    "id2": "A2a-008",
+    "pokemon_name": "Cherrim"
+  },
+  {
+    "id1": "A2a-007",
+    "id2": "A2a-008",
+    "pokemon_name": "Cherrim"
+  },
+  {
+    "id1": "PA-045",
+    "id2": "A2-086",
+    "pokemon_name": "Nosepass"
+  },
+  {
+    "id1": "PA-045",
+    "id2": "A2a-042",
+    "pokemon_name": "Nosepass"
+  },
+  {
+    "id1": "A2-086",
+    "id2": "A2a-042",
+    "pokemon_name": "Nosepass"
+  },
+  {
+    "id1": "PA-046",
+    "id2": "A2-121",
+    "pokemon_name": "Gible"
+  },
+  {
+    "id1": "PA-046",
+    "id2": "A2a-045",
+    "pokemon_name": "Gible"
+  },
+  {
+    "id1": "A2-121",
+    "id2": "A2a-045",
+    "pokemon_name": "Gible"
+  },
+  {
+    "id1": "PA-047",
+    "id2": "A2-134",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "PA-047",
+    "id2": "A2-176",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "PA-047",
+    "id2": "A2a-068",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "A2-134",
+    "id2": "A2-176",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "A2-134",
+    "id2": "A2a-068",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "A2-176",
+    "id2": "A2a-068",
+    "pokemon_name": "Staraptor"
+  },
+  {
+    "id1": "PA-048",
+    "id2": "A2-050",
+    "pokemon_name": "Manaphy"
+  },
+  {
+    "id1": "PA-048",
+    "id2": "A2-162",
+    "pokemon_name": "Manaphy"
+  },
+  {
+    "id1": "A2-050",
+    "id2": "A2-162",
+    "pokemon_name": "Manaphy"
+  },
+  {
+    "id1": "PA-051",
+    "id2": "A2b-068",
+    "pokemon_name": "Cyclizar"
+  },
+  {
+    "id1": "PA-052",
+    "id2": "A2b-005",
+    "pokemon_name": "Sprigatito"
+  },
+  {
+    "id1": "PA-053",
+    "id2": "A2-039",
+    "pokemon_name": "Floatzel"
+  },
+  {
+    "id1": "PA-053",
+    "id2": "A2b-017",
+    "pokemon_name": "Floatzel"
+  },
+  {
+    "id1": "A2-039",
+    "id2": "A2b-017",
+    "pokemon_name": "Floatzel"
+  },
+  {
+    "id1": "PA-054",
+    "id2": "A2b-028",
+    "pokemon_name": "Pawmot"
+  },
+  {
+    "id1": "PA-057",
+    "id2": "A2-135",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "PA-057",
+    "id2": "A2-177",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "PA-057",
+    "id2": "A2b-064",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "A2-135",
+    "id2": "A2-177",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "A2-135",
+    "id2": "A2b-064",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "A2-177",
+    "id2": "A2b-064",
+    "pokemon_name": "Bidoof"
+  },
+  {
+    "id1": "PA-058",
+    "id2": "A2-061",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "PA-058",
+    "id2": "A2-183",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "PA-058",
+    "id2": "A2-198",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "PA-058",
+    "id2": "A2b-025",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "PA-058",
+    "id2": "A2b-103",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-061",
+    "id2": "A2-183",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-061",
+    "id2": "A2-198",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-061",
+    "id2": "A2b-025",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-061",
+    "id2": "A2b-103",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-183",
+    "id2": "A2-198",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-183",
+    "id2": "A2b-025",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-183",
+    "id2": "A2b-103",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-198",
+    "id2": "A2b-025",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2-198",
+    "id2": "A2b-103",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "A2b-025",
+    "id2": "A2b-103",
+    "pokemon_name": "Pachirisu"
+  },
+  {
+    "id1": "PA-059",
+    "id2": "A2-091",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "PA-059",
+    "id2": "A2b-042",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "PA-059",
+    "id2": "A2b-104",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "A2-091",
+    "id2": "A2b-042",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "A2-091",
+    "id2": "A2b-104",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "A2b-042",
+    "id2": "A2b-104",
+    "pokemon_name": "Riolu"
+  },
+  {
+    "id1": "PA-063",
+    "id2": "PA-064",
+    "pokemon_name": "Rayquaza"
+  },
+  {
+    "id1": "PA-063",
+    "id2": "PA-065",
+    "pokemon_name": "Rayquaza"
+  },
+  {
+    "id1": "PA-064",
+    "id2": "PA-065",
+    "pokemon_name": "Rayquaza"
+  },
+  {
+    "id1": "PA-066",
+    "id2": "A3-083",
+    "pokemon_name": "Mimikyu"
+  },
+  {
+    "id1": "PA-066",
+    "id2": "A3B-035",
+    "pokemon_name": "Mimikyu"
+  },
+  {
+    "id1": "A3-083",
+    "id2": "A3B-035",
+    "pokemon_name": "Mimikyu"
+  },
+  {
+    "id1": "PA-067",
+    "id2": "A3-085",
+    "pokemon_name": "Cosmog"
+  },
+  {
+    "id1": "PA-067",
+    "id2": "A3-171",
+    "pokemon_name": "Cosmog"
+  },
+  {
+    "id1": "A3-085",
+    "id2": "A3-171",
+    "pokemon_name": "Cosmog"
+  },
+  {
+    "id1": "PA-068",
+    "id2": "A3-100",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "PA-068",
+    "id2": "A3-101",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "PA-068",
+    "id2": "A3A-033",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "PA-068",
+    "id2": "A3A-078",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "PA-068",
+    "id2": "A3A-085",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-100",
+    "id2": "A3-101",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-100",
+    "id2": "A3A-033",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-100",
+    "id2": "A3A-078",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-100",
+    "id2": "A3A-085",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-101",
+    "id2": "A3A-033",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-101",
+    "id2": "A3A-078",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3-101",
+    "id2": "A3A-085",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3A-033",
+    "id2": "A3A-078",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3A-033",
+    "id2": "A3A-085",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "A3A-078",
+    "id2": "A3A-085",
+    "pokemon_name": "Lycanroc"
+  },
+  {
+    "id1": "PA-069",
+    "id2": "A3-002",
+    "pokemon_name": "Alolan Exeggutor"
+  },
+  {
+    "id1": "PA-069",
+    "id2": "A3-156",
+    "pokemon_name": "Alolan Exeggutor"
+  },
+  {
+    "id1": "A3-002",
+    "id2": "A3-156",
+    "pokemon_name": "Alolan Exeggutor"
+  },
+  {
+    "id1": "PA-070",
+    "id2": "A3-041",
+    "pokemon_name": "Alolan Ninetales"
+  },
+  {
+    "id1": "PA-071",
+    "id2": "A3-097",
+    "pokemon_name": "Crabrawler"
+  },
+  {
+    "id1": "PA-072",
+    "id2": "A3-110",
+    "pokemon_name": "Alolan Grimer"
+  },
+  {
+    "id1": "PA-073",
+    "id2": "A3-135",
+    "pokemon_name": "Toucannon"
+  },
+  {
+    "id1": "PA-074",
+    "id2": "A3A-021",
+    "pokemon_name": "Zeraora"
+  },
+  {
+    "id1": "PA-075",
+    "id2": "A3A-008",
+    "pokemon_name": "Kartana"
+  },
+  {
+    "id1": "PA-076",
+    "id2": "A3A-009",
+    "pokemon_name": "Blacephalon"
+  },
+  {
+    "id1": "PA-076",
+    "id2": "A3A-072",
+    "pokemon_name": "Blacephalon"
+  },
+  {
+    "id1": "A3A-009",
+    "id2": "A3A-072",
+    "pokemon_name": "Blacephalon"
+  },
+  {
+    "id1": "PA-077",
+    "id2": "A3A-020",
+    "pokemon_name": "Xurkitree"
+  },
+  {
+    "id1": "PA-080",
+    "id2": "A3A-053",
+    "pokemon_name": "Stakataka"
+  },
+  {
+    "id1": "PA-082",
+    "id2": "A3A-044",
+    "pokemon_name": "Poipole"
+  },
+  {
+    "id1": "PA-083",
+    "id2": "A3-138",
+    "pokemon_name": "Stufful"
+  },
+  {
+    "id1": "PA-083",
+    "id2": "A3A-057",
+    "pokemon_name": "Stufful"
+  },
+  {
+    "id1": "A3-138",
+    "id2": "A3A-057",
+    "pokemon_name": "Stufful"
+  },
+  {
+    "id1": "PA-084",
+    "id2": "A3-068",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "PA-084",
+    "id2": "A3-166",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "PA-084",
+    "id2": "A3A-019",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "PA-084",
+    "id2": "A3A-077",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "PA-084",
+    "id2": "A3A-084",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-068",
+    "id2": "A3-166",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-068",
+    "id2": "A3A-019",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-068",
+    "id2": "A3A-077",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-068",
+    "id2": "A3A-084",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-166",
+    "id2": "A3A-019",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-166",
+    "id2": "A3A-077",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3-166",
+    "id2": "A3A-084",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3A-019",
+    "id2": "A3A-077",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3A-019",
+    "id2": "A3A-084",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "A3A-077",
+    "id2": "A3A-084",
+    "pokemon_name": "Tapu Koko"
+  },
+  {
+    "id1": "PA-085",
+    "id2": "A3B-018",
+    "pokemon_name": "Vanillite"
+  },
+  {
+    "id1": "PA-087",
+    "id2": "A3B-037",
+    "pokemon_name": "Alcremie"
+  },
+  {
+    "id1": "PA-089",
+    "id2": "A3B-061",
+    "pokemon_name": "Audino"
+  },
+  {
+    "id1": "PA-090",
+    "id2": "A3-067",
+    "pokemon_name": "Togedemaru"
+  },
+  {
+    "id1": "PA-090",
+    "id2": "A3B-048",
+    "pokemon_name": "Togedemaru"
+  },
+  {
+    "id1": "A3-067",
+    "id2": "A3B-048",
+    "pokemon_name": "Togedemaru"
+  },
+  {
+    "id1": "PA-091",
+    "id2": "A3B-065",
+    "pokemon_name": "Greedent"
+  },
+  {
+    "id1": "A1a-003",
+    "id2": "A1a-075",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-003",
+    "id2": "A1a-085",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-003",
+    "id2": "A3A-099",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-075",
+    "id2": "A1a-085",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-075",
+    "id2": "A3A-099",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-085",
+    "id2": "A3A-099",
+    "pokemon_name": "Celebi"
+  },
+  {
+    "id1": "A1a-006",
+    "id2": "A1a-070",
+    "pokemon_name": "Serperior"
+  },
+  {
+    "id1": "A1a-007",
+    "id2": "A3-016",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A1a-007",
+    "id2": "A3-157",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A1a-007",
+    "id2": "A3A-026",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A3-016",
+    "id2": "A3-157",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A3-016",
+    "id2": "A3A-026",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A3-157",
+    "id2": "A3A-026",
+    "pokemon_name": "Morelull"
+  },
+  {
+    "id1": "A1a-008",
+    "id2": "A3-017",
+    "pokemon_name": "Shiinotic"
+  },
+  {
+    "id1": "A1a-008",
+    "id2": "A3A-027",
+    "pokemon_name": "Shiinotic"
+  },
+  {
+    "id1": "A3-017",
+    "id2": "A3A-027",
+    "pokemon_name": "Shiinotic"
+  },
+  {
+    "id1": "A1a-009",
+    "id2": "A3-023",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A1a-009",
+    "id2": "A3-181",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A1a-009",
+    "id2": "A3-199",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A3-023",
+    "id2": "A3-181",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A3-023",
+    "id2": "A3-199",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A3-181",
+    "id2": "A3-199",
+    "pokemon_name": "Dhelmise"
+  },
+  {
+    "id1": "A1a-020",
+    "id2": "A2-042",
+    "pokemon_name": "Finneon"
+  },
+  {
+    "id1": "A1a-021",
+    "id2": "A2-043",
+    "pokemon_name": "Lumineon"
+  },
+  {
+    "id1": "A1a-028",
+    "id2": "A3B-026",
+    "pokemon_name": "Joltik"
+  },
+  {
+    "id1": "A1a-029",
+    "id2": "A3B-027",
+    "pokemon_name": "Galvantula"
+  },
+  {
+    "id1": "A1a-030",
+    "id2": "A1a-073",
+    "pokemon_name": "Dedenne"
+  },
+  {
+    "id1": "A1a-039",
+    "id2": "A3B-031",
+    "pokemon_name": "Swirlix"
+  },
+  {
+    "id1": "A1a-040",
+    "id2": "A3B-032",
+    "pokemon_name": "Slurpuff"
+  },
+  {
+    "id1": "A1a-047",
+    "id2": "A1a-074",
+    "pokemon_name": "Marshadow"
+  },
+  {
+    "id1": "A1a-051",
+    "id2": "A3B-045",
+    "pokemon_name": "Purrloin"
+  },
+  {
+    "id1": "A1a-052",
+    "id2": "A3B-046",
+    "pokemon_name": "Liepard"
+  },
+  {
+    "id1": "A1a-062",
+    "id2": "A2-141",
+    "pokemon_name": "Chatot"
+  },
+  {
+    "id1": "A1a-062",
+    "id2": "A3B-060",
+    "pokemon_name": "Chatot"
+  },
+  {
+    "id1": "A2-141",
+    "id2": "A3B-060",
+    "pokemon_name": "Chatot"
+  },
+  {
+    "id1": "A2-005",
+    "id2": "A2-156",
+    "pokemon_name": "Tangrowth"
+  },
+  {
+    "id1": "A2-007",
+    "id2": "A2-180",
+    "pokemon_name": "Yanmega"
+  },
+  {
+    "id1": "A2-007",
+    "id2": "A2-196",
+    "pokemon_name": "Yanmega"
+  },
+  {
+    "id1": "A2-180",
+    "id2": "A2-196",
+    "pokemon_name": "Yanmega"
+  },
+  {
+    "id1": "A2-015",
+    "id2": "A2a-002",
+    "pokemon_name": "Burmy"
+  },
+  {
+    "id1": "A2-016",
+    "id2": "A2-090",
+    "pokemon_name": "Wormadam"
+  },
+  {
+    "id1": "A2-016",
+    "id2": "A2-115",
+    "pokemon_name": "Wormadam"
+  },
+  {
+    "id1": "A2-090",
+    "id2": "A2-115",
+    "pokemon_name": "Wormadam"
+  },
+  {
+    "id1": "A2-017",
+    "id2": "A2-157",
+    "pokemon_name": "Combee"
+  },
+  {
+    "id1": "A2-017",
+    "id2": "A2a-004",
+    "pokemon_name": "Combee"
+  },
+  {
+    "id1": "A2-157",
+    "id2": "A2a-004",
+    "pokemon_name": "Combee"
+  },
+  {
+    "id1": "A2-018",
+    "id2": "A2a-005",
+    "pokemon_name": "Vespiquen"
+  },
+  {
+    "id1": "A2-019",
+    "id2": "A2-158",
+    "pokemon_name": "Carnivine"
+  },
+  {
+    "id1": "A2-019",
+    "id2": "A2a-009",
+    "pokemon_name": "Carnivine"
+  },
+  {
+    "id1": "A2-158",
+    "id2": "A2a-009",
+    "pokemon_name": "Carnivine"
+  },
+  {
+    "id1": "A2-020",
+    "id2": "A2a-010",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2-020",
+    "id2": "A2a-082",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2-020",
+    "id2": "A2a-091",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2-020",
+    "id2": "A3B-002",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2-020",
+    "id2": "A3B-070",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-010",
+    "id2": "A2a-082",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-010",
+    "id2": "A2a-091",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-010",
+    "id2": "A3B-002",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-010",
+    "id2": "A3B-070",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-082",
+    "id2": "A2a-091",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-082",
+    "id2": "A3B-002",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-082",
+    "id2": "A3B-070",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-091",
+    "id2": "A3B-002",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2a-091",
+    "id2": "A3B-070",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A3B-002",
+    "id2": "A3B-070",
+    "pokemon_name": "Leafeon"
+  },
+  {
+    "id1": "A2-022",
+    "id2": "A2-159",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2-022",
+    "id2": "A2a-069",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2-022",
+    "id2": "A2a-081",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2-159",
+    "id2": "A2a-069",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2-159",
+    "id2": "A2a-081",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2a-069",
+    "id2": "A2a-081",
+    "pokemon_name": "Shaymin"
+  },
+  {
+    "id1": "A2-024",
+    "id2": "A2b-012",
+    "pokemon_name": "Magmortar"
+  },
+  {
+    "id1": "A2-029",
+    "id2": "A2-181",
+    "pokemon_name": "Infernape"
+  },
+  {
+    "id1": "A2-029",
+    "id2": "A2-197",
+    "pokemon_name": "Infernape"
+  },
+  {
+    "id1": "A2-181",
+    "id2": "A2-197",
+    "pokemon_name": "Infernape"
+  },
+  {
+    "id1": "A2-033",
+    "id2": "A2-160",
+    "pokemon_name": "Mamoswine"
+  },
+  {
+    "id1": "A2-038",
+    "id2": "A2b-016",
+    "pokemon_name": "Buizel"
+  },
+  {
+    "id1": "A2-038",
+    "id2": "A2b-074",
+    "pokemon_name": "Buizel"
+  },
+  {
+    "id1": "A2b-016",
+    "id2": "A2b-074",
+    "pokemon_name": "Buizel"
+  },
+  {
+    "id1": "A2-041",
+    "id2": "A2-161",
+    "pokemon_name": "Gastrodon"
+  },
+  {
+    "id1": "A2-044",
+    "id2": "A2a-020",
+    "pokemon_name": "Snover"
+  },
+  {
+    "id1": "A2-045",
+    "id2": "A2a-021",
+    "pokemon_name": "Abomasnow"
+  },
+  {
+    "id1": "A2-046",
+    "id2": "A2a-022",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2-046",
+    "id2": "A2a-083",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2-046",
+    "id2": "A2a-092",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2-046",
+    "id2": "A3B-017",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2-046",
+    "id2": "A3B-073",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-022",
+    "id2": "A2a-083",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-022",
+    "id2": "A2a-092",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-022",
+    "id2": "A3B-017",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-022",
+    "id2": "A3B-073",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-083",
+    "id2": "A2a-092",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-083",
+    "id2": "A3B-017",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-083",
+    "id2": "A3B-073",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-092",
+    "id2": "A3B-017",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2a-092",
+    "id2": "A3B-073",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A3B-017",
+    "id2": "A3B-073",
+    "pokemon_name": "Glaceon"
+  },
+  {
+    "id1": "A2-049",
+    "id2": "A2-182",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-049",
+    "id2": "A2-204",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-049",
+    "id2": "A2-206",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-182",
+    "id2": "A2-204",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-182",
+    "id2": "A2-206",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-204",
+    "id2": "A2-206",
+    "pokemon_name": "Palkia"
+  },
+  {
+    "id1": "A2-053",
+    "id2": "A2a-055",
+    "pokemon_name": "Magnezone"
+  },
+  {
+    "id1": "A2-058",
+    "id2": "A2-163",
+    "pokemon_name": "Shinx"
+  },
+  {
+    "id1": "A2-058",
+    "id2": "A3A-013",
+    "pokemon_name": "Shinx"
+  },
+  {
+    "id1": "A2-163",
+    "id2": "A3A-013",
+    "pokemon_name": "Shinx"
+  },
+  {
+    "id1": "A2-059",
+    "id2": "A3A-014",
+    "pokemon_name": "Luxio"
+  },
+  {
+    "id1": "A2-060",
+    "id2": "A3A-015",
+    "pokemon_name": "Luxray"
+  },
+  {
+    "id1": "A2-062",
+    "id2": "A2-164",
+    "pokemon_name": "Rotom"
+  },
+  {
+    "id1": "A2-062",
+    "id2": "A2a-035",
+    "pokemon_name": "Rotom"
+  },
+  {
+    "id1": "A2-164",
+    "id2": "A2a-035",
+    "pokemon_name": "Rotom"
+  },
+  {
+    "id1": "A2-067",
+    "id2": "A2-184",
+    "pokemon_name": "Mismagius"
+  },
+  {
+    "id1": "A2-067",
+    "id2": "A2-199",
+    "pokemon_name": "Mismagius"
+  },
+  {
+    "id1": "A2-184",
+    "id2": "A2-199",
+    "pokemon_name": "Mismagius"
+  },
+  {
+    "id1": "A2-073",
+    "id2": "A2-165",
+    "pokemon_name": "Drifloon"
+  },
+  {
+    "id1": "A2-073",
+    "id2": "A2b-033",
+    "pokemon_name": "Drifloon"
+  },
+  {
+    "id1": "A2-165",
+    "id2": "A2b-033",
+    "pokemon_name": "Drifloon"
+  },
+  {
+    "id1": "A2-074",
+    "id2": "A2b-034",
+    "pokemon_name": "Drifblim"
+  },
+  {
+    "id1": "A2-076",
+    "id2": "A2-166",
+    "pokemon_name": "Mesprit"
+  },
+  {
+    "id1": "A2-078",
+    "id2": "A2-167",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-078",
+    "id2": "A2a-061",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-078",
+    "id2": "A2b-035",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-078",
+    "id2": "A2b-083",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-078",
+    "id2": "A2b-096",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-167",
+    "id2": "A2a-061",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-167",
+    "id2": "A2b-035",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-167",
+    "id2": "A2b-083",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-167",
+    "id2": "A2b-096",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2a-061",
+    "id2": "A2b-035",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2a-061",
+    "id2": "A2b-083",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2a-061",
+    "id2": "A2b-096",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2b-035",
+    "id2": "A2b-083",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2b-035",
+    "id2": "A2b-096",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2b-083",
+    "id2": "A2b-096",
+    "pokemon_name": "Giratina"
+  },
+  {
+    "id1": "A2-082",
+    "id2": "A2-169",
+    "pokemon_name": "Rhyperior"
+  },
+  {
+    "id1": "A2-092",
+    "id2": "A2-170",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-092",
+    "id2": "A2b-043",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-092",
+    "id2": "A2b-084",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-092",
+    "id2": "A2b-110",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-170",
+    "id2": "A2b-043",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-170",
+    "id2": "A2b-084",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-170",
+    "id2": "A2b-110",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2b-043",
+    "id2": "A2b-084",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2b-043",
+    "id2": "A2b-110",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2b-084",
+    "id2": "A2b-110",
+    "pokemon_name": "Lucario"
+  },
+  {
+    "id1": "A2-093",
+    "id2": "A2-171",
+    "pokemon_name": "Hippopotas"
+  },
+  {
+    "id1": "A2-095",
+    "id2": "A2-185",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-095",
+    "id2": "A2-200",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-095",
+    "id2": "A3B-106",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-185",
+    "id2": "A2-200",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-185",
+    "id2": "A3B-106",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-200",
+    "id2": "A3B-106",
+    "pokemon_name": "Gallade"
+  },
+  {
+    "id1": "A2-099",
+    "id2": "A2-186",
+    "pokemon_name": "Weavile"
+  },
+  {
+    "id1": "A2-099",
+    "id2": "A2-201",
+    "pokemon_name": "Weavile"
+  },
+  {
+    "id1": "A2-186",
+    "id2": "A2-201",
+    "pokemon_name": "Weavile"
+  },
+  {
+    "id1": "A2-104",
+    "id2": "A2-172",
+    "pokemon_name": "Spiritomb"
+  },
+  {
+    "id1": "A2-104",
+    "id2": "A2b-049",
+    "pokemon_name": "Spiritomb"
+  },
+  {
+    "id1": "A2-172",
+    "id2": "A2b-049",
+    "pokemon_name": "Spiritomb"
+  },
+  {
+    "id1": "A2-107",
+    "id2": "A2-173",
+    "pokemon_name": "Croagunk"
+  },
+  {
+    "id1": "A2-107",
+    "id2": "A2a-051",
+    "pokemon_name": "Croagunk"
+  },
+  {
+    "id1": "A2-173",
+    "id2": "A2a-051",
+    "pokemon_name": "Croagunk"
+  },
+  {
+    "id1": "A2-108",
+    "id2": "A2a-052",
+    "pokemon_name": "Toxicroak"
+  },
+  {
+    "id1": "A2-116",
+    "id2": "A2a-058",
+    "pokemon_name": "Bronzor"
+  },
+  {
+    "id1": "A2-117",
+    "id2": "A2a-059",
+    "pokemon_name": "Bronzong"
+  },
+  {
+    "id1": "A2-118",
+    "id2": "A2a-057",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2-118",
+    "id2": "A2a-085",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2-118",
+    "id2": "A2a-094",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2a-057",
+    "id2": "A2a-085",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2a-057",
+    "id2": "A2a-094",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2a-085",
+    "id2": "A2a-094",
+    "pokemon_name": "Probopass"
+  },
+  {
+    "id1": "A2-119",
+    "id2": "A2-188",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-119",
+    "id2": "A2-205",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-119",
+    "id2": "A2-207",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-188",
+    "id2": "A2-205",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-188",
+    "id2": "A2-207",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-205",
+    "id2": "A2-207",
+    "pokemon_name": "Dialga"
+  },
+  {
+    "id1": "A2-120",
+    "id2": "A2-174",
+    "pokemon_name": "Heatran"
+  },
+  {
+    "id1": "A2-120",
+    "id2": "A2a-013",
+    "pokemon_name": "Heatran"
+  },
+  {
+    "id1": "A2-174",
+    "id2": "A2a-013",
+    "pokemon_name": "Heatran"
+  },
+  {
+    "id1": "A2-122",
+    "id2": "A2a-046",
+    "pokemon_name": "Gabite"
+  },
+  {
+    "id1": "A2-123",
+    "id2": "A2-175",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-123",
+    "id2": "A2a-047",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-123",
+    "id2": "A2a-084",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-123",
+    "id2": "A2a-093",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-175",
+    "id2": "A2a-047",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-175",
+    "id2": "A2a-084",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-175",
+    "id2": "A2a-093",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2a-047",
+    "id2": "A2a-084",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2a-047",
+    "id2": "A2a-093",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2a-084",
+    "id2": "A2a-093",
+    "pokemon_name": "Garchomp"
+  },
+  {
+    "id1": "A2-125",
+    "id2": "A2-189",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-125",
+    "id2": "A2-203",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-125",
+    "id2": "A2b-063",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-189",
+    "id2": "A2-203",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-189",
+    "id2": "A2b-063",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-203",
+    "id2": "A2b-063",
+    "pokemon_name": "Lickilicky"
+  },
+  {
+    "id1": "A2-130",
+    "id2": "A3B-058",
+    "pokemon_name": "Aipom"
+  },
+  {
+    "id1": "A2-131",
+    "id2": "A3B-059",
+    "pokemon_name": "Ambipom"
+  },
+  {
+    "id1": "A2-132",
+    "id2": "A2a-066",
+    "pokemon_name": "Starly"
+  },
+  {
+    "id1": "A2-133",
+    "id2": "A2a-067",
+    "pokemon_name": "Staravia"
+  },
+  {
+    "id1": "A2-136",
+    "id2": "A2b-065",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2-136",
+    "id2": "A2b-087",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2-136",
+    "id2": "A2b-095",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2b-065",
+    "id2": "A2b-087",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2b-065",
+    "id2": "A2b-095",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2b-087",
+    "id2": "A2b-095",
+    "pokemon_name": "Bibarel"
+  },
+  {
+    "id1": "A2-137",
+    "id2": "A2b-066",
+    "pokemon_name": "Buneary"
+  },
+  {
+    "id1": "A2-138",
+    "id2": "A2b-067",
+    "pokemon_name": "Lopunny"
+  },
+  {
+    "id1": "A2-139",
+    "id2": "A2-178",
+    "pokemon_name": "Glameow"
+  },
+  {
+    "id1": "A2-143",
+    "id2": "A2-179",
+    "pokemon_name": "Regigigas"
+  },
+  {
+    "id1": "A2a-012",
+    "id2": "A2a-076",
+    "pokemon_name": "Houndoom"
+  },
+  {
+    "id1": "A2a-014",
+    "id2": "A2a-077",
+    "pokemon_name": "Marill"
+  },
+  {
+    "id1": "A2a-016",
+    "id2": "A3B-038",
+    "pokemon_name": "Barboach"
+  },
+  {
+    "id1": "A2a-017",
+    "id2": "A3B-039",
+    "pokemon_name": "Whiscash"
+  },
+  {
+    "id1": "A2a-034",
+    "id2": "A2a-078",
+    "pokemon_name": "Unown"
+  },
+  {
+    "id1": "A2a-036",
+    "id2": "A2a-079",
+    "pokemon_name": "Sudowoodo"
+  },
+  {
+    "id1": "A2a-043",
+    "id2": "A3A-028",
+    "pokemon_name": "Meditite"
+  },
+  {
+    "id1": "A2a-044",
+    "id2": "A3A-029",
+    "pokemon_name": "Medicham"
+  },
+  {
+    "id1": "A2a-070",
+    "id2": "A2a-071",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-070",
+    "id2": "A2a-086",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-070",
+    "id2": "A2a-095",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-070",
+    "id2": "A2a-096",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-071",
+    "id2": "A2a-086",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-071",
+    "id2": "A2a-095",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-071",
+    "id2": "A2a-096",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-086",
+    "id2": "A2a-095",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-086",
+    "id2": "A2a-096",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2a-095",
+    "id2": "A2a-096",
+    "pokemon_name": "Arceus"
+  },
+  {
+    "id1": "A2b-007",
+    "id2": "A2b-073",
+    "pokemon_name": "Meowscarada"
+  },
+  {
+    "id1": "A2b-018",
+    "id2": "A2b-101",
+    "pokemon_name": "Wiglett"
+  },
+  {
+    "id1": "A2b-019",
+    "id2": "A2b-081",
+    "pokemon_name": "Wugtrio"
+  },
+  {
+    "id1": "A2b-019",
+    "id2": "A2b-109",
+    "pokemon_name": "Wugtrio"
+  },
+  {
+    "id1": "A2b-081",
+    "id2": "A2b-109",
+    "pokemon_name": "Wugtrio"
+  },
+  {
+    "id1": "A2b-020",
+    "id2": "A2b-102",
+    "pokemon_name": "Dondozo"
+  },
+  {
+    "id1": "A2b-021",
+    "id2": "A2b-075",
+    "pokemon_name": "Tatsugiri"
+  },
+  {
+    "id1": "A2b-048",
+    "id2": "A2b-085",
+    "pokemon_name": "Paldean Clodsire"
+  },
+  {
+    "id1": "A2b-048",
+    "id2": "A2b-093",
+    "pokemon_name": "Paldean Clodsire"
+  },
+  {
+    "id1": "A2b-085",
+    "id2": "A2b-093",
+    "pokemon_name": "Paldean Clodsire"
+  },
+  {
+    "id1": "A2b-051",
+    "id2": "A2b-076",
+    "pokemon_name": "Grafaiai"
+  },
+  {
+    "id1": "A2b-054",
+    "id2": "A2b-086",
+    "pokemon_name": "Tinkaton"
+  },
+  {
+    "id1": "A2b-054",
+    "id2": "A2b-094",
+    "pokemon_name": "Tinkaton"
+  },
+  {
+    "id1": "A2b-086",
+    "id2": "A2b-094",
+    "pokemon_name": "Tinkaton"
+  },
+  {
+    "id1": "A2b-055",
+    "id2": "A2b-105",
+    "pokemon_name": "Varoom"
+  },
+  {
+    "id1": "A2b-056",
+    "id2": "A2b-106",
+    "pokemon_name": "Revavroom"
+  },
+  {
+    "id1": "A2b-057",
+    "id2": "A2b-077",
+    "pokemon_name": "Gholdengo"
+  },
+  {
+    "id1": "A3-007",
+    "id2": "A3A-024",
+    "pokemon_name": "Phantump"
+  },
+  {
+    "id1": "A3-008",
+    "id2": "A3A-025",
+    "pokemon_name": "Trevenant"
+  },
+  {
+    "id1": "A3-009",
+    "id2": "A3-010",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3-009",
+    "id2": "A3A-003",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3-009",
+    "id2": "A3A-070",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3-010",
+    "id2": "A3A-003",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3-010",
+    "id2": "A3A-070",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3A-003",
+    "id2": "A3A-070",
+    "pokemon_name": "Rowlet"
+  },
+  {
+    "id1": "A3-011",
+    "id2": "A3A-004",
+    "pokemon_name": "Dartrix"
+  },
+  {
+    "id1": "A3-012",
+    "id2": "A3-180",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-012",
+    "id2": "A3-198",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-012",
+    "id2": "A3A-005",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-180",
+    "id2": "A3-198",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-180",
+    "id2": "A3A-005",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-198",
+    "id2": "A3A-005",
+    "pokemon_name": "Decidueye"
+  },
+  {
+    "id1": "A3-018",
+    "id2": "A3B-003",
+    "pokemon_name": "Bounsweet"
+  },
+  {
+    "id1": "A3-019",
+    "id2": "A3B-004",
+    "pokemon_name": "Steenee"
+  },
+  {
+    "id1": "A3-020",
+    "id2": "A3-158",
+    "pokemon_name": "Tsareena"
+  },
+  {
+    "id1": "A3-020",
+    "id2": "A3B-005",
+    "pokemon_name": "Tsareena"
+  },
+  {
+    "id1": "A3-158",
+    "id2": "A3B-005",
+    "pokemon_name": "Tsareena"
+  },
+  {
+    "id1": "A3-024",
+    "id2": "A3-159",
+    "pokemon_name": "Tapu Bulu"
+  },
+  {
+    "id1": "A3-027",
+    "id2": "A3-160",
+    "pokemon_name": "Alolan Marowak"
+  },
+  {
+    "id1": "A3-030",
+    "id2": "A3-031",
+    "pokemon_name": "Litten"
+  },
+  {
+    "id1": "A3-030",
+    "id2": "A3B-011",
+    "pokemon_name": "Litten"
+  },
+  {
+    "id1": "A3-031",
+    "id2": "A3B-011",
+    "pokemon_name": "Litten"
+  },
+  {
+    "id1": "A3-032",
+    "id2": "A3B-012",
+    "pokemon_name": "Torracat"
+  },
+  {
+    "id1": "A3-033",
+    "id2": "A3-182",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-033",
+    "id2": "A3-200",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-033",
+    "id2": "A3B-013",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-182",
+    "id2": "A3-200",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-182",
+    "id2": "A3B-013",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-200",
+    "id2": "A3B-013",
+    "pokemon_name": "Incineroar"
+  },
+  {
+    "id1": "A3-034",
+    "id2": "A3-066",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-034",
+    "id2": "A3-076",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-034",
+    "id2": "A3-077",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-034",
+    "id2": "A3-165",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-066",
+    "id2": "A3-076",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-066",
+    "id2": "A3-077",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-066",
+    "id2": "A3-165",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-076",
+    "id2": "A3-077",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-076",
+    "id2": "A3-165",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-077",
+    "id2": "A3-165",
+    "pokemon_name": "Oricorio"
+  },
+  {
+    "id1": "A3-037",
+    "id2": "A3-161",
+    "pokemon_name": "Turtonator"
+  },
+  {
+    "id1": "A3-040",
+    "id2": "A3-162",
+    "pokemon_name": "Alolan Vulpix"
+  },
+  {
+    "id1": "A3-045",
+    "id2": "A3-046",
+    "pokemon_name": "Popplio"
+  },
+  {
+    "id1": "A3-045",
+    "id2": "A3B-022",
+    "pokemon_name": "Popplio"
+  },
+  {
+    "id1": "A3-046",
+    "id2": "A3B-022",
+    "pokemon_name": "Popplio"
+  },
+  {
+    "id1": "A3-047",
+    "id2": "A3B-023",
+    "pokemon_name": "Brionne"
+  },
+  {
+    "id1": "A3-048",
+    "id2": "A3B-024",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3-048",
+    "id2": "A3B-080",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3-048",
+    "id2": "A3B-088",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3B-024",
+    "id2": "A3B-080",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3B-024",
+    "id2": "A3B-088",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3B-080",
+    "id2": "A3B-088",
+    "pokemon_name": "Primarina"
+  },
+  {
+    "id1": "A3-049",
+    "id2": "A3-183",
+    "pokemon_name": "Crabominable"
+  },
+  {
+    "id1": "A3-049",
+    "id2": "A3-201",
+    "pokemon_name": "Crabominable"
+  },
+  {
+    "id1": "A3-183",
+    "id2": "A3-201",
+    "pokemon_name": "Crabominable"
+  },
+  {
+    "id1": "A3-050",
+    "id2": "A3-051",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-050",
+    "id2": "A3-184",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-050",
+    "id2": "A3-202",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-051",
+    "id2": "A3-184",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-051",
+    "id2": "A3-202",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-184",
+    "id2": "A3-202",
+    "pokemon_name": "Wishiwashi"
+  },
+  {
+    "id1": "A3-056",
+    "id2": "A3-164",
+    "pokemon_name": "Tapu Fini"
+  },
+  {
+    "id1": "A3-058",
+    "id2": "A3-185",
+    "pokemon_name": "Alolan Raichu"
+  },
+  {
+    "id1": "A3-058",
+    "id2": "A3-203",
+    "pokemon_name": "Alolan Raichu"
+  },
+  {
+    "id1": "A3-185",
+    "id2": "A3-203",
+    "pokemon_name": "Alolan Raichu"
+  },
+  {
+    "id1": "A3-070",
+    "id2": "A3B-044",
+    "pokemon_name": "Sableye"
+  },
+  {
+    "id1": "A3-078",
+    "id2": "A3-167",
+    "pokemon_name": "Cutiefly"
+  },
+  {
+    "id1": "A3-080",
+    "id2": "A3-168",
+    "pokemon_name": "Comfey"
+  },
+  {
+    "id1": "A3-081",
+    "id2": "A3-169",
+    "pokemon_name": "Sandygast"
+  },
+  {
+    "id1": "A3-081",
+    "id2": "A3A-035",
+    "pokemon_name": "Sandygast"
+  },
+  {
+    "id1": "A3-169",
+    "id2": "A3A-035",
+    "pokemon_name": "Sandygast"
+  },
+  {
+    "id1": "A3-082",
+    "id2": "A3A-036",
+    "pokemon_name": "Palossand"
+  },
+  {
+    "id1": "A3-084",
+    "id2": "A3-170",
+    "pokemon_name": "Tapu Lele"
+  },
+  {
+    "id1": "A3-087",
+    "id2": "A3-186",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-087",
+    "id2": "A3-204",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-087",
+    "id2": "A3-238",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-186",
+    "id2": "A3-204",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-186",
+    "id2": "A3-238",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-204",
+    "id2": "A3-238",
+    "pokemon_name": "Lunala"
+  },
+  {
+    "id1": "A3-098",
+    "id2": "A3-099",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-098",
+    "id2": "A3-172",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-098",
+    "id2": "A3A-032",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-099",
+    "id2": "A3-172",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-099",
+    "id2": "A3A-032",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-172",
+    "id2": "A3A-032",
+    "pokemon_name": "Rockruff"
+  },
+  {
+    "id1": "A3-103",
+    "id2": "A3-173",
+    "pokemon_name": "Mudsdale"
+  },
+  {
+    "id1": "A3-104",
+    "id2": "A3-187",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-104",
+    "id2": "A3-205",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-104",
+    "id2": "A3A-034",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-187",
+    "id2": "A3-205",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-187",
+    "id2": "A3A-034",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-205",
+    "id2": "A3A-034",
+    "pokemon_name": "Passimian"
+  },
+  {
+    "id1": "A3-105",
+    "id2": "A3-174",
+    "pokemon_name": "Minior"
+  },
+  {
+    "id1": "A3-108",
+    "id2": "A3A-037",
+    "pokemon_name": "Alolan Meowth"
+  },
+  {
+    "id1": "A3-108",
+    "id2": "A3A-073",
+    "pokemon_name": "Alolan Meowth"
+  },
+  {
+    "id1": "A3A-037",
+    "id2": "A3A-073",
+    "pokemon_name": "Alolan Meowth"
+  },
+  {
+    "id1": "A3-109",
+    "id2": "A3A-038",
+    "pokemon_name": "Alolan Persian"
+  },
+  {
+    "id1": "A3-111",
+    "id2": "A3-188",
+    "pokemon_name": "Alolan Muk"
+  },
+  {
+    "id1": "A3-111",
+    "id2": "A3-206",
+    "pokemon_name": "Alolan Muk"
+  },
+  {
+    "id1": "A3-188",
+    "id2": "A3-206",
+    "pokemon_name": "Alolan Muk"
+  },
+  {
+    "id1": "A3-117",
+    "id2": "A3A-046",
+    "pokemon_name": "Alolan Diglett"
+  },
+  {
+    "id1": "A3-118",
+    "id2": "A3A-047",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3-118",
+    "id2": "A3A-080",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3-118",
+    "id2": "A3A-087",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3A-047",
+    "id2": "A3A-080",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3A-047",
+    "id2": "A3A-087",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3A-080",
+    "id2": "A3A-087",
+    "pokemon_name": "Alolan Dugtrio"
+  },
+  {
+    "id1": "A3-122",
+    "id2": "A3-189",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-122",
+    "id2": "A3-207",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-122",
+    "id2": "A3-239",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-189",
+    "id2": "A3-207",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-189",
+    "id2": "A3-239",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-207",
+    "id2": "A3-239",
+    "pokemon_name": "Solgaleo"
+  },
+  {
+    "id1": "A3-123",
+    "id2": "A3-175",
+    "pokemon_name": "Magearna"
+  },
+  {
+    "id1": "A3-124",
+    "id2": "A3-176",
+    "pokemon_name": "Drampa"
+  },
+  {
+    "id1": "A3-124",
+    "id2": "A3B-054",
+    "pokemon_name": "Drampa"
+  },
+  {
+    "id1": "A3-176",
+    "id2": "A3B-054",
+    "pokemon_name": "Drampa"
+  },
+  {
+    "id1": "A3-133",
+    "id2": "A3-177",
+    "pokemon_name": "Pikipek"
+  },
+  {
+    "id1": "A3-139",
+    "id2": "A3-178",
+    "pokemon_name": "Bewear"
+  },
+  {
+    "id1": "A3-139",
+    "id2": "A3A-058",
+    "pokemon_name": "Bewear"
+  },
+  {
+    "id1": "A3-178",
+    "id2": "A3A-058",
+    "pokemon_name": "Bewear"
+  },
+  {
+    "id1": "A3-140",
+    "id2": "A3A-059",
+    "pokemon_name": "Oranguru"
+  },
+  {
+    "id1": "A3-141",
+    "id2": "A3-179",
+    "pokemon_name": "Komala"
+  },
+  {
+    "id1": "A3A-006",
+    "id2": "A3A-076",
+    "pokemon_name": "Buzzwole"
+  },
+  {
+    "id1": "A3A-006",
+    "id2": "A3A-088",
+    "pokemon_name": "Buzzwole"
+  },
+  {
+    "id1": "A3A-076",
+    "id2": "A3A-088",
+    "pokemon_name": "Buzzwole"
+  },
+  {
+    "id1": "A3A-007",
+    "id2": "A3A-071",
+    "pokemon_name": "Pheromosa"
+  },
+  {
+    "id1": "A3A-042",
+    "id2": "A3A-103",
+    "pokemon_name": "Nihilego"
+  },
+  {
+    "id1": "A3A-043",
+    "id2": "A3A-079",
+    "pokemon_name": "Guzzlord"
+  },
+  {
+    "id1": "A3A-043",
+    "id2": "A3A-086",
+    "pokemon_name": "Guzzlord"
+  },
+  {
+    "id1": "A3A-079",
+    "id2": "A3A-086",
+    "pokemon_name": "Guzzlord"
+  },
+  {
+    "id1": "A3A-061",
+    "id2": "A3A-074",
+    "pokemon_name": "Silvally"
+  },
+  {
+    "id1": "A3A-062",
+    "id2": "A3A-075",
+    "pokemon_name": "Celesteela"
+  },
+  {
+    "id1": "A3B-028",
+    "id2": "A3B-075",
+    "pokemon_name": "Espeon"
+  },
+  {
+    "id1": "A3B-033",
+    "id2": "A3B-034",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-033",
+    "id2": "A3B-076",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-033",
+    "id2": "A3B-081",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-033",
+    "id2": "A3B-089",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-034",
+    "id2": "A3B-076",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-034",
+    "id2": "A3B-081",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-034",
+    "id2": "A3B-089",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-076",
+    "id2": "A3B-081",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-076",
+    "id2": "A3B-089",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-081",
+    "id2": "A3B-089",
+    "pokemon_name": "Sylveon"
+  },
+  {
+    "id1": "A3B-043",
+    "id2": "A3B-077",
+    "pokemon_name": "Umbreon"
+  }
+]

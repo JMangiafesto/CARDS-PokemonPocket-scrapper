@@ -1,6 +1,6 @@
 [
     {
-        "id": "A2-1",
+        "id": "A2-001",
         "name": "Oddish",
         "hp": "60",
         "Element": "Grass",
@@ -40,7 +40,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-2",
+        "id": "A2-002",
         "name": "Gloom",
         "hp": "80",
         "Element": "Grass",
@@ -80,7 +80,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-3",
+        "id": "A2-003",
         "name": "Bellossom",
         "hp": "130",
         "Element": "Grass",
@@ -121,7 +121,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-4",
+        "id": "A2-004",
         "name": "Tangela",
         "hp": "70",
         "Element": "Grass",
@@ -162,7 +162,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-5",
+        "id": "A2-005",
         "name": "Tangrowth",
         "hp": "130",
         "Element": "Grass",
@@ -209,7 +209,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-6",
+        "id": "A2-006",
         "name": "Yanma",
         "hp": "50",
         "Element": "Grass",
@@ -249,7 +249,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-7",
+        "id": "A2-007",
         "name": "Yanmega ex",
         "hp": "140",
         "Element": "Grass",
@@ -299,7 +299,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-8",
+        "id": "A2-008",
         "name": "Roselia",
         "hp": "70",
         "Element": "Grass",
@@ -339,7 +339,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-9",
+        "id": "A2-009",
         "name": "Roserade",
         "hp": "100",
         "Element": "Grass",
@@ -380,7 +380,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-10",
+        "id": "A2-010",
         "name": "Turtwig",
         "hp": "80",
         "Element": "Grass",
@@ -421,7 +421,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-11",
+        "id": "A2-011",
         "name": "Grotle",
         "hp": "100",
         "Element": "Grass",
@@ -463,7 +463,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-12",
+        "id": "A2-012",
         "name": "Torterra",
         "hp": "160",
         "Element": "Grass",
@@ -506,7 +506,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-13",
+        "id": "A2-013",
         "name": "Kricketot",
         "hp": "60",
         "Element": "Grass",
@@ -546,7 +546,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-14",
+        "id": "A2-014",
         "name": "Kricketune",
         "hp": "90",
         "Element": "Grass",
@@ -587,7 +587,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-15",
+        "id": "A2-015",
         "name": "Burmy",
         "hp": "60",
         "Element": "Grass",
@@ -627,7 +627,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-16",
+        "id": "A2-016",
         "name": "Wormadam",
         "hp": "120",
         "Element": "Grass",
@@ -669,7 +669,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-17",
+        "id": "A2-017",
         "name": "Combee",
         "hp": "50",
         "Element": "Grass",
@@ -713,7 +713,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-18",
+        "id": "A2-018",
         "name": "Vespiquen",
         "hp": "100",
         "Element": "Grass",
@@ -754,7 +754,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-19",
+        "id": "A2-019",
         "name": "Carnivine",
         "hp": "90",
         "Element": "Grass",
@@ -800,7 +800,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-20",
+        "id": "A2-020",
         "name": "Leafeon",
         "hp": "90",
         "Element": "Grass",
@@ -841,7 +841,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-21",
+        "id": "A2-021",
         "name": "Mow Rotom",
         "hp": "80",
         "Element": "Grass",
@@ -882,7 +882,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-22",
+        "id": "A2-022",
         "name": "Shaymin",
         "hp": "60",
         "Element": "Grass",
@@ -927,7 +927,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-23",
+        "id": "A2-023",
         "name": "Magmar",
         "hp": "80",
         "Element": "Fire",
@@ -967,7 +967,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-24",
+        "id": "A2-024",
         "name": "Magmortar",
         "hp": "130",
         "Element": "Fire",
@@ -1010,7 +1010,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-25",
+        "id": "A2-025",
         "name": "Slugma",
         "hp": "70",
         "Element": "Fire",
@@ -1050,7 +1050,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-26",
+        "id": "A2-026",
         "name": "Magcargo",
         "hp": "120",
         "Element": "Fire",
@@ -1091,7 +1091,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-27",
+        "id": "A2-027",
         "name": "Chimchar",
         "hp": "60",
         "Element": "Fire",
@@ -1131,7 +1131,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-28",
+        "id": "A2-028",
         "name": "Monferno",
         "hp": "80",
         "Element": "Fire",
@@ -1171,7 +1171,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-29",
+        "id": "A2-029",
         "name": "Infernape ex",
         "hp": "170",
         "Element": "Fire",
@@ -1220,7 +1220,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-30",
+        "id": "A2-030",
         "name": "Heat Rotom",
         "hp": "80",
         "Element": "Fire",
@@ -1261,7 +1261,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-31",
+        "id": "A2-031",
         "name": "Swinub",
         "hp": "60",
         "Element": "Water",
@@ -1302,7 +1302,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-32",
+        "id": "A2-032",
         "name": "Piloswine",
         "hp": "110",
         "Element": "Water",
@@ -1344,7 +1344,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-33",
+        "id": "A2-033",
         "name": "Mamoswine",
         "hp": "160",
         "Element": "Water",
@@ -1391,7 +1391,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-34",
+        "id": "A2-034",
         "name": "Regice",
         "hp": "110",
         "Element": "Water",
@@ -1432,7 +1432,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-35",
+        "id": "A2-035",
         "name": "Piplup",
         "hp": "60",
         "Element": "Water",
@@ -1472,7 +1472,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-36",
+        "id": "A2-036",
         "name": "Prinplup",
         "hp": "90",
         "Element": "Water",
@@ -1513,7 +1513,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-37",
+        "id": "A2-037",
         "name": "Empoleon",
         "hp": "150",
         "Element": "Water",
@@ -1555,7 +1555,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-38",
+        "id": "A2-038",
         "name": "Buizel",
         "hp": "60",
         "Element": "Water",
@@ -1595,7 +1595,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-39",
+        "id": "A2-039",
         "name": "Floatzel",
         "hp": "90",
         "Element": "Water",
@@ -1635,7 +1635,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-40",
+        "id": "A2-040",
         "name": "Shellos",
         "hp": "70",
         "Element": "Water",
@@ -1676,7 +1676,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-41",
+        "id": "A2-041",
         "name": "Gastrodon",
         "hp": "120",
         "Element": "Water",
@@ -1722,7 +1722,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-42",
+        "id": "A2-042",
         "name": "Finneon",
         "hp": "50",
         "Element": "Water",
@@ -1762,7 +1762,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-43",
+        "id": "A2-043",
         "name": "Lumineon",
         "hp": "90",
         "Element": "Water",
@@ -1802,7 +1802,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-44",
+        "id": "A2-044",
         "name": "Snover",
         "hp": "70",
         "Element": "Water",
@@ -1842,7 +1842,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-45",
+        "id": "A2-045",
         "name": "Abomasnow",
         "hp": "140",
         "Element": "Water",
@@ -1885,7 +1885,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-46",
+        "id": "A2-046",
         "name": "Glaceon",
         "hp": "90",
         "Element": "Water",
@@ -1926,7 +1926,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-47",
+        "id": "A2-047",
         "name": "Wash Rotom",
         "hp": "80",
         "Element": "Water",
@@ -1966,7 +1966,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-48",
+        "id": "A2-048",
         "name": "Frost Rotom",
         "hp": "80",
         "Element": "Water",
@@ -2007,7 +2007,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-49",
+        "id": "A2-049",
         "name": "Palkia ex",
         "hp": "150",
         "Element": "Water",
@@ -2070,7 +2070,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-50",
+        "id": "A2-050",
         "name": "Manaphy",
         "hp": "50",
         "Element": "Water",
@@ -2114,7 +2114,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-51",
+        "id": "A2-051",
         "name": "Magnemite",
         "hp": "60",
         "Element": "Lightning",
@@ -2154,7 +2154,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-52",
+        "id": "A2-052",
         "name": "Magneton",
         "hp": "80",
         "Element": "Lightning",
@@ -2195,7 +2195,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-53",
+        "id": "A2-053",
         "name": "Magnezone",
         "hp": "140",
         "Element": "Lightning",
@@ -2237,7 +2237,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-54",
+        "id": "A2-054",
         "name": "Voltorb",
         "hp": "60",
         "Element": "Lightning",
@@ -2281,7 +2281,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-55",
+        "id": "A2-055",
         "name": "Electrode",
         "hp": "80",
         "Element": "Lightning",
@@ -2325,7 +2325,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-56",
+        "id": "A2-056",
         "name": "Electabuzz",
         "hp": "80",
         "Element": "Lightning",
@@ -2365,7 +2365,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-57",
+        "id": "A2-057",
         "name": "Electivire",
         "hp": "120",
         "Element": "Lightning",
@@ -2406,7 +2406,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-58",
+        "id": "A2-058",
         "name": "Shinx",
         "hp": "60",
         "Element": "Lightning",
@@ -2450,7 +2450,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-59",
+        "id": "A2-059",
         "name": "Luxio",
         "hp": "90",
         "Element": "Lightning",
@@ -2491,7 +2491,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-60",
+        "id": "A2-060",
         "name": "Luxray",
         "hp": "130",
         "Element": "Lightning",
@@ -2533,7 +2533,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-61",
+        "id": "A2-061",
         "name": "Pachirisu ex",
         "hp": "120",
         "Element": "Lightning",
@@ -2582,7 +2582,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-62",
+        "id": "A2-062",
         "name": "Rotom",
         "hp": "70",
         "Element": "Lightning",
@@ -2626,7 +2626,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-63",
+        "id": "A2-063",
         "name": "Togepi",
         "hp": "50",
         "Element": "Psychic",
@@ -2666,7 +2666,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-64",
+        "id": "A2-064",
         "name": "Togetic",
         "hp": "80",
         "Element": "Psychic",
@@ -2706,7 +2706,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-65",
+        "id": "A2-065",
         "name": "Togekiss",
         "hp": "140",
         "Element": "Psychic",
@@ -2747,7 +2747,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-66",
+        "id": "A2-066",
         "name": "Misdreavus",
         "hp": "60",
         "Element": "Psychic",
@@ -2787,7 +2787,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-67",
+        "id": "A2-067",
         "name": "Mismagius ex",
         "hp": "140",
         "Element": "Psychic",
@@ -2836,7 +2836,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-68",
+        "id": "A2-068",
         "name": "Ralts",
         "hp": "60",
         "Element": "Psychic",
@@ -2880,7 +2880,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-69",
+        "id": "A2-069",
         "name": "Kirlia",
         "hp": "80",
         "Element": "Psychic",
@@ -2924,7 +2924,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-70",
+        "id": "A2-070",
         "name": "Duskull",
         "hp": "60",
         "Element": "Psychic",
@@ -2964,7 +2964,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-71",
+        "id": "A2-071",
         "name": "Dusclops",
         "hp": "90",
         "Element": "Psychic",
@@ -3006,7 +3006,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-72",
+        "id": "A2-072",
         "name": "Dusknoir",
         "hp": "130",
         "Element": "Psychic",
@@ -3048,7 +3048,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-73",
+        "id": "A2-073",
         "name": "Drifloon",
         "hp": "50",
         "Element": "Psychic",
@@ -3092,7 +3092,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-74",
+        "id": "A2-074",
         "name": "Drifblim",
         "hp": "100",
         "Element": "Psychic",
@@ -3133,7 +3133,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-75",
+        "id": "A2-075",
         "name": "Uxie",
         "hp": "70",
         "Element": "Psychic",
@@ -3173,7 +3173,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-76",
+        "id": "A2-076",
         "name": "Mesprit",
         "hp": "70",
         "Element": "Psychic",
@@ -3219,7 +3219,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-77",
+        "id": "A2-077",
         "name": "Azelf",
         "hp": "70",
         "Element": "Psychic",
@@ -3259,7 +3259,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-78",
+        "id": "A2-078",
         "name": "Giratina",
         "hp": "120",
         "Element": "Psychic",
@@ -3305,7 +3305,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-79",
+        "id": "A2-079",
         "name": "Cresselia",
         "hp": "110",
         "Element": "Psychic",
@@ -3350,7 +3350,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-80",
+        "id": "A2-080",
         "name": "Rhyhorn",
         "hp": "80",
         "Element": "Fighting",
@@ -3391,7 +3391,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-81",
+        "id": "A2-081",
         "name": "Rhydon",
         "hp": "110",
         "Element": "Fighting",
@@ -3433,7 +3433,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-82",
+        "id": "A2-082",
         "name": "Rhyperior",
         "hp": "160",
         "Element": "Fighting",
@@ -3480,7 +3480,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-83",
+        "id": "A2-083",
         "name": "Gligar",
         "hp": "60",
         "Element": "Fighting",
@@ -3520,7 +3520,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-84",
+        "id": "A2-084",
         "name": "Gliscor",
         "hp": "100",
         "Element": "Fighting",
@@ -3560,7 +3560,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-85",
+        "id": "A2-085",
         "name": "Hitmontop",
         "hp": "80",
         "Element": "Fighting",
@@ -3601,7 +3601,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-86",
+        "id": "A2-086",
         "name": "Nosepass",
         "hp": "70",
         "Element": "Fighting",
@@ -3642,7 +3642,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-87",
+        "id": "A2-087",
         "name": "Regirock",
         "hp": "120",
         "Element": "Fighting",
@@ -3685,7 +3685,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-88",
+        "id": "A2-088",
         "name": "Cranidos",
         "hp": "90",
         "Element": "Fighting",
@@ -3725,7 +3725,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-89",
+        "id": "A2-089",
         "name": "Rampardos",
         "hp": "150",
         "Element": "Fighting",
@@ -3765,7 +3765,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-90",
+        "id": "A2-090",
         "name": "Wormadam",
         "hp": "120",
         "Element": "Fighting",
@@ -3807,7 +3807,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-91",
+        "id": "A2-091",
         "name": "Riolu",
         "hp": "60",
         "Element": "Fighting",
@@ -3847,7 +3847,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-92",
+        "id": "A2-092",
         "name": "Lucario",
         "hp": "100",
         "Element": "Fighting",
@@ -3892,7 +3892,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-93",
+        "id": "A2-093",
         "name": "Hippopotas",
         "hp": "80",
         "Element": "Fighting",
@@ -3938,7 +3938,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-94",
+        "id": "A2-094",
         "name": "Hippowdon",
         "hp": "140",
         "Element": "Fighting",
@@ -3981,7 +3981,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-95",
+        "id": "A2-095",
         "name": "Gallade ex",
         "hp": "170",
         "Element": "Fighting",
@@ -4034,7 +4034,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-96",
+        "id": "A2-096",
         "name": "Murkrow",
         "hp": "60",
         "Element": "Darkness",
@@ -4074,7 +4074,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-97",
+        "id": "A2-097",
         "name": "Honchkrow",
         "hp": "100",
         "Element": "Darkness",
@@ -4115,7 +4115,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-98",
+        "id": "A2-098",
         "name": "Sneasel",
         "hp": "60",
         "Element": "Darkness",
@@ -4155,7 +4155,7 @@
         "crafting_cost": "Unknown"
     },
     {
-        "id": "A2-99",
+        "id": "A2-099",
         "name": "Weavile ex",
         "hp": "140",
         "Element": "Darkness",

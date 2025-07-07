@@ -1,0 +1,7316 @@
+[
+  {
+    "parent_id": "A1-001",
+    "child_id": "A1-002",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A1-001",
+    "child_id": "A3-211",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A1-227",
+    "child_id": "A1-002",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A1-227",
+    "child_id": "A3-211",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "PA-023",
+    "child_id": "A1-002",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "PA-023",
+    "child_id": "A3-211",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A3-210",
+    "child_id": "A1-002",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A3-210",
+    "child_id": "A3-211",
+    "parent_name": "Bulbasaur",
+    "child_name": "Ivysaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "A1-003",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "A1-004",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "A1-251",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "PA-018",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "A3-212",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-002",
+    "child_id": "A3-230",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "A1-003",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "A1-004",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "A1-251",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "PA-018",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "A3-212",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A3-211",
+    "child_id": "A3-230",
+    "parent_name": "Ivysaur",
+    "child_name": "Venusaur"
+  },
+  {
+    "parent_id": "A1-033",
+    "child_id": "A1-034",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-033",
+    "child_id": "A2b-009",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-033",
+    "child_id": "A2b-100",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-230",
+    "child_id": "A1-034",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-230",
+    "child_id": "A2b-009",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-230",
+    "child_id": "A2b-100",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "PA-032",
+    "child_id": "A1-034",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "PA-032",
+    "child_id": "A2b-009",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "PA-032",
+    "child_id": "A2b-100",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-008",
+    "child_id": "A1-034",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-008",
+    "child_id": "A2b-009",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-008",
+    "child_id": "A2b-100",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-099",
+    "child_id": "A1-034",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-099",
+    "child_id": "A2b-009",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A2b-099",
+    "child_id": "A2b-100",
+    "parent_name": "Charmander",
+    "child_name": "Charmeleon"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A1-035",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A1-036",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A1-253",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A1-280",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A1-284",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A2b-010",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A2b-080",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-034",
+    "child_id": "A2b-108",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A1-035",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A1-036",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A1-253",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A1-280",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A1-284",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A2b-010",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A2b-080",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-009",
+    "child_id": "A2b-108",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A1-035",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A1-036",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A1-253",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A1-280",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A1-284",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A2b-010",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A2b-080",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A2b-100",
+    "child_id": "A2b-108",
+    "parent_name": "Charmeleon",
+    "child_name": "Charizard"
+  },
+  {
+    "parent_id": "A1-053",
+    "child_id": "A1-054",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A1-053",
+    "child_id": "A3-216",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A1-232",
+    "child_id": "A1-054",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A1-232",
+    "child_id": "A3-216",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "PA-033",
+    "child_id": "A1-054",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "PA-033",
+    "child_id": "A3-216",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A3-215",
+    "child_id": "A1-054",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A3-215",
+    "child_id": "A3-216",
+    "parent_name": "Squirtle",
+    "child_name": "Wartortle"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "A1-055",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "A1-056",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "A1-256",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "PA-029",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "A3-217",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-054",
+    "child_id": "A3-232",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "A1-055",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "A1-056",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "A1-256",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "PA-029",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "A3-217",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A3-216",
+    "child_id": "A3-232",
+    "parent_name": "Wartortle",
+    "child_name": "Blastoise"
+  },
+  {
+    "parent_id": "A1-005",
+    "child_id": "A1-006",
+    "parent_name": "Caterpie",
+    "child_name": "Metapod"
+  },
+  {
+    "parent_id": "A1-006",
+    "child_id": "A1-007",
+    "parent_name": "Metapod",
+    "child_name": "Butterfree"
+  },
+  {
+    "parent_id": "A1-006",
+    "child_id": "PA-013",
+    "parent_name": "Metapod",
+    "child_name": "Butterfree"
+  },
+  {
+    "parent_id": "A1-008",
+    "child_id": "A1-009",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A1-008",
+    "child_id": "A2b-002",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A1-008",
+    "child_id": "A2b-098",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-001",
+    "child_id": "A1-009",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-001",
+    "child_id": "A2b-002",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-001",
+    "child_id": "A2b-098",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-097",
+    "child_id": "A1-009",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-097",
+    "child_id": "A2b-002",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A2b-097",
+    "child_id": "A2b-098",
+    "parent_name": "Weedle",
+    "child_name": "Kakuna"
+  },
+  {
+    "parent_id": "A1-009",
+    "child_id": "A1-010",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A1-009",
+    "child_id": "A2b-003",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A1-009",
+    "child_id": "A2b-079",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A1-009",
+    "child_id": "A2b-107",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-002",
+    "child_id": "A1-010",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-002",
+    "child_id": "A2b-003",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-002",
+    "child_id": "A2b-079",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-002",
+    "child_id": "A2b-107",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-098",
+    "child_id": "A1-010",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-098",
+    "child_id": "A2b-003",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-098",
+    "child_id": "A2b-079",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A2b-098",
+    "child_id": "A2b-107",
+    "parent_name": "Kakuna",
+    "child_name": "Beedrill"
+  },
+  {
+    "parent_id": "A1-186",
+    "child_id": "A1-187",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1-186",
+    "child_id": "A1a-058",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1-186",
+    "child_id": "A3A-096",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1a-057",
+    "child_id": "A1-187",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1a-057",
+    "child_id": "A1a-058",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1a-057",
+    "child_id": "A3A-096",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A3A-095",
+    "child_id": "A1-187",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A3A-095",
+    "child_id": "A1a-058",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A3A-095",
+    "child_id": "A3A-096",
+    "parent_name": "Pidgey",
+    "child_name": "Pidgeotto"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A1-188",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A1-245",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A1a-059",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A1a-079",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A3A-097",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-187",
+    "child_id": "A3A-102",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A1-188",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A1-245",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A1a-059",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A1a-079",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A3A-097",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1a-058",
+    "child_id": "A3A-102",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A1-188",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A1-245",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A1a-059",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A1a-079",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A3A-097",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A3A-096",
+    "child_id": "A3A-102",
+    "parent_name": "Pidgeotto",
+    "child_name": "Pidgeot"
+  },
+  {
+    "parent_id": "A1-189",
+    "child_id": "A1-190",
+    "parent_name": "Rattata",
+    "child_name": "Raticate"
+  },
+  {
+    "parent_id": "A1-189",
+    "child_id": "A2b-059",
+    "parent_name": "Rattata",
+    "child_name": "Raticate"
+  },
+  {
+    "parent_id": "A2b-058",
+    "child_id": "A1-190",
+    "parent_name": "Rattata",
+    "child_name": "Raticate"
+  },
+  {
+    "parent_id": "A2b-058",
+    "child_id": "A2b-059",
+    "parent_name": "Rattata",
+    "child_name": "Raticate"
+  },
+  {
+    "parent_id": "A1-191",
+    "child_id": "A1-192",
+    "parent_name": "Spearow",
+    "child_name": "Fearow"
+  },
+  {
+    "parent_id": "A1-164",
+    "child_id": "A1-165",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A1-164",
+    "child_id": "A2b-046",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A1-164",
+    "child_id": "A3B-101",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "PA-056",
+    "child_id": "A1-165",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "PA-056",
+    "child_id": "A2b-046",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "PA-056",
+    "child_id": "A3B-101",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A2b-045",
+    "child_id": "A1-165",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A2b-045",
+    "child_id": "A2b-046",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A2b-045",
+    "child_id": "A3B-101",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A3B-100",
+    "child_id": "A1-165",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A3B-100",
+    "child_id": "A2b-046",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A3B-100",
+    "child_id": "A3B-101",
+    "parent_name": "Ekans",
+    "child_name": "Arbok"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A1-095",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "PA-044",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A1a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A2a-026",
+    "parent_name": "Pikachu",
+    "child_name": "Raichu"
+  },
+  {
+    "parent_id": "A1-137",
+    "child_id": "A1-138",
+    "parent_name": "Sandshrew",
+    "child_name": "Sandslash"
+  },
+  {
+    "parent_id": "A1-166",
+    "child_id": "A1-167",
+    "parent_name": "Nidoran♀",
+    "child_name": "Nidorina"
+  },
+  {
+    "parent_id": "A1-167",
+    "child_id": "A1-168",
+    "parent_name": "Nidorina",
+    "child_name": "Nidoqueen"
+  },
+  {
+    "parent_id": "A1-167",
+    "child_id": "A1-240",
+    "parent_name": "Nidorina",
+    "child_name": "Nidoqueen"
+  },
+  {
+    "parent_id": "A1-169",
+    "child_id": "A1-170",
+    "parent_name": "Nidoran♂",
+    "child_name": "Nidorino"
+  },
+  {
+    "parent_id": "A1-170",
+    "child_id": "A1-171",
+    "parent_name": "Nidorino",
+    "child_name": "Nidoking"
+  },
+  {
+    "parent_id": "A1-170",
+    "child_id": "A1-241",
+    "parent_name": "Nidorino",
+    "child_name": "Nidoking"
+  },
+  {
+    "parent_id": "A1-113",
+    "child_id": "A1-114",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A1-113",
+    "child_id": "A2a-030",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A1-113",
+    "child_id": "A3A-023",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "PA-016",
+    "child_id": "A1-114",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "PA-016",
+    "child_id": "A2a-030",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "PA-016",
+    "child_id": "A3A-023",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A2a-029",
+    "child_id": "A1-114",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A2a-029",
+    "child_id": "A2a-030",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A2a-029",
+    "child_id": "A3A-023",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A3A-022",
+    "child_id": "A1-114",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A3A-022",
+    "child_id": "A2a-030",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A3A-022",
+    "child_id": "A3A-023",
+    "parent_name": "Clefairy",
+    "child_name": "Clefable"
+  },
+  {
+    "parent_id": "A1-037",
+    "child_id": "A1-038",
+    "parent_name": "Vulpix",
+    "child_name": "Ninetales"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A1-194",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A1-195",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A1-265",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A1-279",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A2b-061",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A2b-078",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A3-229",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-193",
+    "child_id": "A3-237",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A1-194",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A1-195",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A1-265",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A1-279",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A2b-061",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A2b-078",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A3-229",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "PA-022",
+    "child_id": "A3-237",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A1-194",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A1-195",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A1-265",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A1-279",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A2b-061",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A2b-078",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A3-229",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A2b-060",
+    "child_id": "A3-237",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A1-194",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A1-195",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A1-265",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A1-279",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A2b-061",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A2b-078",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A3-229",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A3-228",
+    "child_id": "A3-237",
+    "parent_name": "Jigglypuff",
+    "child_name": "Wigglytuff"
+  },
+  {
+    "parent_id": "A1-172",
+    "child_id": "A1-173",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A1-172",
+    "child_id": "A1-242",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A1-172",
+    "child_id": "A2a-049",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A2a-048",
+    "child_id": "A1-173",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A2a-048",
+    "child_id": "A1-242",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A2a-048",
+    "child_id": "A2a-049",
+    "parent_name": "Zubat",
+    "child_name": "Golbat"
+  },
+  {
+    "parent_id": "A1-173",
+    "child_id": "A2a-050",
+    "parent_name": "Golbat",
+    "child_name": "Crobat"
+  },
+  {
+    "parent_id": "A1-242",
+    "child_id": "A2a-050",
+    "parent_name": "Golbat",
+    "child_name": "Crobat"
+  },
+  {
+    "parent_id": "A2a-049",
+    "child_id": "A2a-050",
+    "parent_name": "Golbat",
+    "child_name": "Crobat"
+  },
+  {
+    "parent_id": "A1-011",
+    "child_id": "A1-012",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A1-011",
+    "child_id": "A1-228",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A1-011",
+    "child_id": "A2-002",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A2-001",
+    "child_id": "A1-012",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A2-001",
+    "child_id": "A1-228",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A2-001",
+    "child_id": "A2-002",
+    "parent_name": "Oddish",
+    "child_name": "Gloom"
+  },
+  {
+    "parent_id": "A1-012",
+    "child_id": "A1-013",
+    "parent_name": "Gloom",
+    "child_name": "Vileplume"
+  },
+  {
+    "parent_id": "A1-228",
+    "child_id": "A1-013",
+    "parent_name": "Gloom",
+    "child_name": "Vileplume"
+  },
+  {
+    "parent_id": "A2-002",
+    "child_id": "A1-013",
+    "parent_name": "Gloom",
+    "child_name": "Vileplume"
+  },
+  {
+    "parent_id": "A1-012",
+    "child_id": "A2-003",
+    "parent_name": "Gloom",
+    "child_name": "Bellossom"
+  },
+  {
+    "parent_id": "A1-228",
+    "child_id": "A2-003",
+    "parent_name": "Gloom",
+    "child_name": "Bellossom"
+  },
+  {
+    "parent_id": "A2-002",
+    "child_id": "A2-003",
+    "parent_name": "Gloom",
+    "child_name": "Bellossom"
+  },
+  {
+    "parent_id": "A1-014",
+    "child_id": "A1-015",
+    "parent_name": "Paras",
+    "child_name": "Parasect"
+  },
+  {
+    "parent_id": "A1-016",
+    "child_id": "A1-017",
+    "parent_name": "Venonat",
+    "child_name": "Venomoth"
+  },
+  {
+    "parent_id": "A1-139",
+    "child_id": "A1-140",
+    "parent_name": "Diglett",
+    "child_name": "Dugtrio"
+  },
+  {
+    "parent_id": "A1-238",
+    "child_id": "A1-140",
+    "parent_name": "Diglett",
+    "child_name": "Dugtrio"
+  },
+  {
+    "parent_id": "A1-196",
+    "child_id": "A1-197",
+    "parent_name": "Meowth",
+    "child_name": "Persian"
+  },
+  {
+    "parent_id": "A1-246",
+    "child_id": "A1-197",
+    "parent_name": "Meowth",
+    "child_name": "Persian"
+  },
+  {
+    "parent_id": "PA-012",
+    "child_id": "A1-197",
+    "parent_name": "Meowth",
+    "child_name": "Persian"
+  },
+  {
+    "parent_id": "A1-057",
+    "child_id": "A1-058",
+    "parent_name": "Psyduck",
+    "child_name": "Golduck"
+  },
+  {
+    "parent_id": "A1-141",
+    "child_id": "A1-142",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "A1-141",
+    "child_id": "A1a-042",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "PA-017",
+    "child_id": "A1-142",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "PA-017",
+    "child_id": "A1a-042",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "A1a-041",
+    "child_id": "A1-142",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "A1a-041",
+    "child_id": "A1a-042",
+    "parent_name": "Mankey",
+    "child_name": "Primeape"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A1-040",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A1-041",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A1-254",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A3-026",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A3A-090",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-039",
+    "child_id": "A3A-100",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A1-040",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A1-041",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A1-254",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A3-026",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A3A-090",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3-025",
+    "child_id": "A3A-100",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A1-040",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A1-041",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A1-254",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A3-026",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A3A-090",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A3A-089",
+    "child_id": "A3A-100",
+    "parent_name": "Growlithe",
+    "child_name": "Arcanine"
+  },
+  {
+    "parent_id": "A1-059",
+    "child_id": "A1-060",
+    "parent_name": "Poliwag",
+    "child_name": "Poliwhirl"
+  },
+  {
+    "parent_id": "A1-060",
+    "child_id": "A1-061",
+    "parent_name": "Poliwhirl",
+    "child_name": "Poliwrath"
+  },
+  {
+    "parent_id": "A1-115",
+    "child_id": "A1-116",
+    "parent_name": "Abra",
+    "child_name": "Kadabra"
+  },
+  {
+    "parent_id": "A1-115",
+    "child_id": "A2b-030",
+    "parent_name": "Abra",
+    "child_name": "Kadabra"
+  },
+  {
+    "parent_id": "A2b-029",
+    "child_id": "A1-116",
+    "parent_name": "Abra",
+    "child_name": "Kadabra"
+  },
+  {
+    "parent_id": "A2b-029",
+    "child_id": "A2b-030",
+    "parent_name": "Abra",
+    "child_name": "Kadabra"
+  },
+  {
+    "parent_id": "A1-116",
+    "child_id": "A1-117",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A1-116",
+    "child_id": "A1-236",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A1-116",
+    "child_id": "A2b-031",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A2b-030",
+    "child_id": "A1-117",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A2b-030",
+    "child_id": "A1-236",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A2b-030",
+    "child_id": "A2b-031",
+    "parent_name": "Kadabra",
+    "child_name": "Alakazam"
+  },
+  {
+    "parent_id": "A1-143",
+    "child_id": "A1-144",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A1-143",
+    "child_id": "A2b-038",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A1-143",
+    "child_id": "A3-224",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A2b-037",
+    "child_id": "A1-144",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A2b-037",
+    "child_id": "A2b-038",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A2b-037",
+    "child_id": "A3-224",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A3-223",
+    "child_id": "A1-144",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A3-223",
+    "child_id": "A2b-038",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A3-223",
+    "child_id": "A3-224",
+    "parent_name": "Machop",
+    "child_name": "Machoke"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A1-145",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A1-146",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A1-263",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A1-278",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "PA-055",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A2b-039",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A3-225",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-144",
+    "child_id": "A3-235",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A1-145",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A1-146",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A1-263",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A1-278",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "PA-055",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A2b-039",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A3-225",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A2b-038",
+    "child_id": "A3-235",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A1-145",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A1-146",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A1-263",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A1-278",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "PA-055",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A2b-039",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A3-225",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A3-224",
+    "child_id": "A3-235",
+    "parent_name": "Machoke",
+    "child_name": "Machamp"
+  },
+  {
+    "parent_id": "A1-147",
+    "child_id": "A1-148",
+    "parent_name": "Geodude",
+    "child_name": "Graveler"
+  },
+  {
+    "parent_id": "A1-147",
+    "child_id": "A1a-044",
+    "parent_name": "Geodude",
+    "child_name": "Graveler"
+  },
+  {
+    "parent_id": "A1a-043",
+    "child_id": "A1-148",
+    "parent_name": "Geodude",
+    "child_name": "Graveler"
+  },
+  {
+    "parent_id": "A1a-043",
+    "child_id": "A1a-044",
+    "parent_name": "Geodude",
+    "child_name": "Graveler"
+  },
+  {
+    "parent_id": "A1-148",
+    "child_id": "A1-149",
+    "parent_name": "Graveler",
+    "child_name": "Golem"
+  },
+  {
+    "parent_id": "A1-148",
+    "child_id": "A1a-045",
+    "parent_name": "Graveler",
+    "child_name": "Golem"
+  },
+  {
+    "parent_id": "A1a-044",
+    "child_id": "A1-149",
+    "parent_name": "Graveler",
+    "child_name": "Golem"
+  },
+  {
+    "parent_id": "A1a-044",
+    "child_id": "A1a-045",
+    "parent_name": "Graveler",
+    "child_name": "Golem"
+  },
+  {
+    "parent_id": "A1-042",
+    "child_id": "A1-043",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1-042",
+    "child_id": "A1-231",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1-042",
+    "child_id": "A1a-011",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1a-010",
+    "child_id": "A1-043",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1a-010",
+    "child_id": "A1-231",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1a-010",
+    "child_id": "A1a-011",
+    "parent_name": "Ponyta",
+    "child_name": "Rapidash"
+  },
+  {
+    "parent_id": "A1-097",
+    "child_id": "A1-098",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A1-097",
+    "child_id": "A2-052",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A1-097",
+    "child_id": "A2a-054",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "PA-024",
+    "child_id": "A1-098",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "PA-024",
+    "child_id": "A2-052",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "PA-024",
+    "child_id": "A2a-054",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2-051",
+    "child_id": "A1-098",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2-051",
+    "child_id": "A2-052",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2-051",
+    "child_id": "A2a-054",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-053",
+    "child_id": "A1-098",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-053",
+    "child_id": "A2-052",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-053",
+    "child_id": "A2a-054",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-080",
+    "child_id": "A1-098",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-080",
+    "child_id": "A2-052",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A2a-080",
+    "child_id": "A2a-054",
+    "parent_name": "Magnemite",
+    "child_name": "Magneton"
+  },
+  {
+    "parent_id": "A1-098",
+    "child_id": "A2-053",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A1-098",
+    "child_id": "A2a-055",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A2-052",
+    "child_id": "A2-053",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A2-052",
+    "child_id": "A2a-055",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A2a-054",
+    "child_id": "A2-053",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A2a-054",
+    "child_id": "A2a-055",
+    "parent_name": "Magneton",
+    "child_name": "Magnezone"
+  },
+  {
+    "parent_id": "A1-064",
+    "child_id": "A1-065",
+    "parent_name": "Seel",
+    "child_name": "Dewgong"
+  },
+  {
+    "parent_id": "A1-174",
+    "child_id": "A1-175",
+    "parent_name": "Grimer",
+    "child_name": "Muk"
+  },
+  {
+    "parent_id": "A1-066",
+    "child_id": "A1-067",
+    "parent_name": "Shellder",
+    "child_name": "Cloyster"
+  },
+  {
+    "parent_id": "A1-066",
+    "child_id": "A3-043",
+    "parent_name": "Shellder",
+    "child_name": "Cloyster"
+  },
+  {
+    "parent_id": "A3-042",
+    "child_id": "A1-067",
+    "parent_name": "Shellder",
+    "child_name": "Cloyster"
+  },
+  {
+    "parent_id": "A3-042",
+    "child_id": "A3-043",
+    "parent_name": "Shellder",
+    "child_name": "Cloyster"
+  },
+  {
+    "parent_id": "A1-120",
+    "child_id": "A1-121",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A1-120",
+    "child_id": "PA-020",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A1-120",
+    "child_id": "A2a-032",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A1-120",
+    "child_id": "A3-221",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A2a-031",
+    "child_id": "A1-121",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A2a-031",
+    "child_id": "PA-020",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A2a-031",
+    "child_id": "A2a-032",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A2a-031",
+    "child_id": "A3-221",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A3-220",
+    "child_id": "A1-121",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A3-220",
+    "child_id": "PA-020",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A3-220",
+    "child_id": "A2a-032",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A3-220",
+    "child_id": "A3-221",
+    "parent_name": "Gastly",
+    "child_name": "Haunter"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A1-122",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A1-123",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A1-261",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A1-277",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A2a-033",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A3-222",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-121",
+    "child_id": "A3-234",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A1-122",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A1-123",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A1-261",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A1-277",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A2a-033",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A3-222",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "PA-020",
+    "child_id": "A3-234",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A1-122",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A1-123",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A1-261",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A1-277",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A2a-033",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A3-222",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A2a-032",
+    "child_id": "A3-234",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A1-122",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A1-123",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A1-261",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A1-277",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A2a-033",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A3-222",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A3-221",
+    "child_id": "A3-234",
+    "parent_name": "Haunter",
+    "child_name": "Gengar"
+  },
+  {
+    "parent_id": "A1-124",
+    "child_id": "A1-125",
+    "parent_name": "Drowzee",
+    "child_name": "Hypno"
+  },
+  {
+    "parent_id": "A1-068",
+    "child_id": "A1-069",
+    "parent_name": "Krabby",
+    "child_name": "Kingler"
+  },
+  {
+    "parent_id": "A1-099",
+    "child_id": "A1-100",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A1-099",
+    "child_id": "A1-235",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A1-099",
+    "child_id": "A2-055",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A1-099",
+    "child_id": "A2b-024",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A1-099",
+    "child_id": "A3B-096",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2-054",
+    "child_id": "A1-100",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2-054",
+    "child_id": "A1-235",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2-054",
+    "child_id": "A2-055",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2-054",
+    "child_id": "A2b-024",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2-054",
+    "child_id": "A3B-096",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2b-023",
+    "child_id": "A1-100",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2b-023",
+    "child_id": "A1-235",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2b-023",
+    "child_id": "A2-055",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2b-023",
+    "child_id": "A2b-024",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A2b-023",
+    "child_id": "A3B-096",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A3B-095",
+    "child_id": "A1-100",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A3B-095",
+    "child_id": "A1-235",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A3B-095",
+    "child_id": "A2-055",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A3B-095",
+    "child_id": "A2b-024",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A3B-095",
+    "child_id": "A3B-096",
+    "parent_name": "Voltorb",
+    "child_name": "Electrode"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A1-022",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A1-023",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A1-252",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A1a-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A1a-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A3-214",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A3-231",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A1-022",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A1-023",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A1-252",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A1a-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A1a-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A3-214",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A3-231",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A1-022",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A1-023",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A1-252",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A1a-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A1a-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A3-214",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A3-231",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A1-022",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A1-023",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A1-252",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A1a-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A1a-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A3-214",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A3-231",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A1-022",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A1-023",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A1-252",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A1a-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A1a-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A3-214",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A3-231",
+    "parent_name": "Exeggcute",
+    "child_name": "Exeggutor"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A1-152",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A1-153",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A1-264",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A3-227",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A3-236",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A1-152",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A1-153",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A1-264",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A3-227",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A3-236",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A1-152",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A1-153",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A1-264",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A3-227",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A3-236",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A1-152",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A1-153",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A1-264",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A3-227",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A3-236",
+    "parent_name": "Cubone",
+    "child_name": "Marowak"
+  },
+  {
+    "parent_id": "A1-176",
+    "child_id": "A1-177",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1-176",
+    "child_id": "A1-243",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1-176",
+    "child_id": "A1a-050",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1a-049",
+    "child_id": "A1-177",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1a-049",
+    "child_id": "A1-243",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1a-049",
+    "child_id": "A1a-050",
+    "parent_name": "Koffing",
+    "child_name": "Weezing"
+  },
+  {
+    "parent_id": "A1-156",
+    "child_id": "A1-157",
+    "parent_name": "Rhyhorn",
+    "child_name": "Rhydon"
+  },
+  {
+    "parent_id": "A1-156",
+    "child_id": "A2-081",
+    "parent_name": "Rhyhorn",
+    "child_name": "Rhydon"
+  },
+  {
+    "parent_id": "A2-080",
+    "child_id": "A1-157",
+    "parent_name": "Rhyhorn",
+    "child_name": "Rhydon"
+  },
+  {
+    "parent_id": "A2-080",
+    "child_id": "A2-081",
+    "parent_name": "Rhyhorn",
+    "child_name": "Rhydon"
+  },
+  {
+    "parent_id": "A1-157",
+    "child_id": "A2-082",
+    "parent_name": "Rhydon",
+    "child_name": "Rhyperior"
+  },
+  {
+    "parent_id": "A1-157",
+    "child_id": "A2-169",
+    "parent_name": "Rhydon",
+    "child_name": "Rhyperior"
+  },
+  {
+    "parent_id": "A2-081",
+    "child_id": "A2-082",
+    "parent_name": "Rhydon",
+    "child_name": "Rhyperior"
+  },
+  {
+    "parent_id": "A2-081",
+    "child_id": "A2-169",
+    "parent_name": "Rhydon",
+    "child_name": "Rhyperior"
+  },
+  {
+    "parent_id": "A1-070",
+    "child_id": "A1-071",
+    "parent_name": "Horsea",
+    "child_name": "Seadra"
+  },
+  {
+    "parent_id": "A1-072",
+    "child_id": "A1-073",
+    "parent_name": "Goldeen",
+    "child_name": "Seaking"
+  },
+  {
+    "parent_id": "A1-074",
+    "child_id": "A1-075",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A1-074",
+    "child_id": "A1-076",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A1-074",
+    "child_id": "A1-257",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A1-074",
+    "child_id": "A3-219",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A1-074",
+    "child_id": "A3-233",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A3-218",
+    "child_id": "A1-075",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A3-218",
+    "child_id": "A1-076",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A3-218",
+    "child_id": "A1-257",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A3-218",
+    "child_id": "A3-219",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A3-218",
+    "child_id": "A3-233",
+    "parent_name": "Staryu",
+    "child_name": "Starmie"
+  },
+  {
+    "parent_id": "A1-077",
+    "child_id": "A1-078",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1-077",
+    "child_id": "A1-233",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1-077",
+    "child_id": "A1a-018",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1-077",
+    "child_id": "A1a-076",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1a-017",
+    "child_id": "A1-078",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1a-017",
+    "child_id": "A1-233",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1a-017",
+    "child_id": "A1a-018",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1a-017",
+    "child_id": "A1a-076",
+    "parent_name": "Magikarp",
+    "child_name": "Gyarados"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A1-080",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A1a-019",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A1a-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-016",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-072",
+    "parent_name": "Eevee",
+    "child_name": "Vaporeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A1-102",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "PA-086",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-025",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-074",
+    "parent_name": "Eevee",
+    "child_name": "Jolteon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A1-045",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-008",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-009",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-071",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-079",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-087",
+    "parent_name": "Eevee",
+    "child_name": "Flareon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-028",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-075",
+    "parent_name": "Eevee",
+    "child_name": "Espeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-043",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-077",
+    "parent_name": "Eevee",
+    "child_name": "Umbreon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2-020",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-010",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-082",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-091",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-002",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-070",
+    "parent_name": "Eevee",
+    "child_name": "Leafeon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2-046",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-022",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-083",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A2a-092",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-017",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-073",
+    "parent_name": "Eevee",
+    "child_name": "Glaceon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-206",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-207",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-208",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-248",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-030",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "PA-092",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1a-061",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2-126",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A2a-062",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-055",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-056",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-078",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-083",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-033",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-034",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-076",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-081",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A3B-092",
+    "child_id": "A3B-089",
+    "parent_name": "Eevee",
+    "child_name": "Sylveon"
+  },
+  {
+    "parent_id": "A1-183",
+    "child_id": "A1-184",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A1-183",
+    "child_id": "PA-088",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A1-183",
+    "child_id": "A3B-052",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A3B-051",
+    "child_id": "A1-184",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A3B-051",
+    "child_id": "PA-088",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A3B-051",
+    "child_id": "A3B-052",
+    "parent_name": "Dratini",
+    "child_name": "Dragonair"
+  },
+  {
+    "parent_id": "A1-184",
+    "child_id": "A1-185",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A1-184",
+    "child_id": "A1-244",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A1-184",
+    "child_id": "A3B-053",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A1-184",
+    "child_id": "A3B-082",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A1-184",
+    "child_id": "A3B-090",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "PA-088",
+    "child_id": "A1-185",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "PA-088",
+    "child_id": "A1-244",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "PA-088",
+    "child_id": "A3B-053",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "PA-088",
+    "child_id": "A3B-082",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "PA-088",
+    "child_id": "A3B-090",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A3B-052",
+    "child_id": "A1-185",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A3B-052",
+    "child_id": "A1-244",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A3B-052",
+    "child_id": "A3B-053",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A3B-052",
+    "child_id": "A3B-082",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A3B-052",
+    "child_id": "A3B-090",
+    "parent_name": "Dragonair",
+    "child_name": "Dragonite"
+  },
+  {
+    "parent_id": "A1-087",
+    "child_id": "A1-088",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "A1-087",
+    "child_id": "A3A-092",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "PA-061",
+    "child_id": "A1-088",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "PA-061",
+    "child_id": "A3A-092",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "A3A-091",
+    "child_id": "A1-088",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "A3A-091",
+    "child_id": "A3A-092",
+    "parent_name": "Froakie",
+    "child_name": "Frogadier"
+  },
+  {
+    "parent_id": "A1-088",
+    "child_id": "A1-089",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A1-088",
+    "child_id": "PA-019",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A1-088",
+    "child_id": "A3A-093",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A3A-092",
+    "child_id": "A1-089",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A3A-092",
+    "child_id": "PA-019",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A3A-092",
+    "child_id": "A3A-093",
+    "parent_name": "Frogadier",
+    "child_name": "Greninja"
+  },
+  {
+    "parent_id": "A3-009",
+    "child_id": "A3-011",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3-009",
+    "child_id": "A3A-004",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3-010",
+    "child_id": "A3-011",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3-010",
+    "child_id": "A3A-004",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3A-003",
+    "child_id": "A3-011",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3A-003",
+    "child_id": "A3A-004",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3A-070",
+    "child_id": "A3-011",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3A-070",
+    "child_id": "A3A-004",
+    "parent_name": "Rowlet",
+    "child_name": "Dartrix"
+  },
+  {
+    "parent_id": "A3-011",
+    "child_id": "A3-012",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3-011",
+    "child_id": "A3-180",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3-011",
+    "child_id": "A3-198",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3-011",
+    "child_id": "A3A-005",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3A-004",
+    "child_id": "A3-012",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3A-004",
+    "child_id": "A3-180",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3A-004",
+    "child_id": "A3-198",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3A-004",
+    "child_id": "A3A-005",
+    "parent_name": "Dartrix",
+    "child_name": "Decidueye"
+  },
+  {
+    "parent_id": "A3-045",
+    "child_id": "A3-047",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3-045",
+    "child_id": "A3B-023",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3-046",
+    "child_id": "A3-047",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3-046",
+    "child_id": "A3B-023",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3B-022",
+    "child_id": "A3-047",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3B-022",
+    "child_id": "A3B-023",
+    "parent_name": "Popplio",
+    "child_name": "Brionne"
+  },
+  {
+    "parent_id": "A3-047",
+    "child_id": "A3-048",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3-047",
+    "child_id": "A3B-024",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3-047",
+    "child_id": "A3B-080",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3-047",
+    "child_id": "A3B-088",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3B-023",
+    "child_id": "A3-048",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3B-023",
+    "child_id": "A3B-024",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3B-023",
+    "child_id": "A3B-080",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3B-023",
+    "child_id": "A3B-088",
+    "parent_name": "Brionne",
+    "child_name": "Primarina"
+  },
+  {
+    "parent_id": "A3-030",
+    "child_id": "A3-032",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3-030",
+    "child_id": "A3B-012",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3-031",
+    "child_id": "A3-032",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3-031",
+    "child_id": "A3B-012",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3B-011",
+    "child_id": "A3-032",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3B-011",
+    "child_id": "A3B-012",
+    "parent_name": "Litten",
+    "child_name": "Torracat"
+  },
+  {
+    "parent_id": "A3-032",
+    "child_id": "A3-033",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3-032",
+    "child_id": "A3-182",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3-032",
+    "child_id": "A3-200",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3-032",
+    "child_id": "A3B-013",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3B-012",
+    "child_id": "A3-033",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3B-012",
+    "child_id": "A3-182",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3B-012",
+    "child_id": "A3-200",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3B-012",
+    "child_id": "A3B-013",
+    "parent_name": "Torracat",
+    "child_name": "Incineroar"
+  },
+  {
+    "parent_id": "A3-106",
+    "child_id": "A3-107",
+    "parent_name": "Alolan Rattata",
+    "child_name": "Alolan Raticate"
+  },
+  {
+    "parent_id": "A3-038",
+    "child_id": "A3-039",
+    "parent_name": "Alolan Sandshrew",
+    "child_name": "Alolan Sandslash"
+  },
+  {
+    "parent_id": "A3-040",
+    "child_id": "PA-070",
+    "parent_name": "Alolan Vulpix",
+    "child_name": "Alolan Ninetales"
+  },
+  {
+    "parent_id": "A3-040",
+    "child_id": "A3-041",
+    "parent_name": "Alolan Vulpix",
+    "child_name": "Alolan Ninetales"
+  },
+  {
+    "parent_id": "A3-162",
+    "child_id": "PA-070",
+    "parent_name": "Alolan Vulpix",
+    "child_name": "Alolan Ninetales"
+  },
+  {
+    "parent_id": "A3-162",
+    "child_id": "A3-041",
+    "parent_name": "Alolan Vulpix",
+    "child_name": "Alolan Ninetales"
+  },
+  {
+    "parent_id": "A3-117",
+    "child_id": "A3-118",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3-117",
+    "child_id": "A3A-047",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3-117",
+    "child_id": "A3A-080",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3-117",
+    "child_id": "A3A-087",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3A-046",
+    "child_id": "A3-118",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3A-046",
+    "child_id": "A3A-047",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3A-046",
+    "child_id": "A3A-080",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3A-046",
+    "child_id": "A3A-087",
+    "parent_name": "Alolan Diglett",
+    "child_name": "Alolan Dugtrio"
+  },
+  {
+    "parent_id": "A3-108",
+    "child_id": "A3-109",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3-108",
+    "child_id": "A3A-038",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3A-037",
+    "child_id": "A3-109",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3A-037",
+    "child_id": "A3A-038",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3A-073",
+    "child_id": "A3-109",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3A-073",
+    "child_id": "A3A-038",
+    "parent_name": "Alolan Meowth",
+    "child_name": "Alolan Persian"
+  },
+  {
+    "parent_id": "A3-059",
+    "child_id": "A3-060",
+    "parent_name": "Alolan Geodude",
+    "child_name": "Alolan Graveler"
+  },
+  {
+    "parent_id": "A3-060",
+    "child_id": "A3-061",
+    "parent_name": "Alolan Graveler",
+    "child_name": "Alolan Golem"
+  },
+  {
+    "parent_id": "PA-072",
+    "child_id": "A3-111",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "PA-072",
+    "child_id": "A3-188",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "PA-072",
+    "child_id": "A3-206",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "A3-110",
+    "child_id": "A3-111",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "A3-110",
+    "child_id": "A3-188",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "A3-110",
+    "child_id": "A3-206",
+    "parent_name": "Alolan Grimer",
+    "child_name": "Alolan Muk"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "PA-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A3-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1-021",
+    "child_id": "A3-156",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "PA-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A3-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "PA-060",
+    "child_id": "A3-156",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "PA-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A3-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1a-001",
+    "child_id": "A3-156",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "PA-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A3-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-001",
+    "child_id": "A3-156",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "PA-069",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A3-002",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A3-213",
+    "child_id": "A3-156",
+    "parent_name": "Exeggcute",
+    "child_name": "Alolan Exeggutor"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A3-027",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A1-151",
+    "child_id": "A3-160",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A3-027",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A1-239",
+    "child_id": "A3-160",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A3-027",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A3-089",
+    "child_id": "A3-160",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A3-027",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A3-226",
+    "child_id": "A3-160",
+    "parent_name": "Cubone",
+    "child_name": "Alolan Marowak"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-094",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-096",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-259",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-281",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1-285",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-009",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-015",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "PA-026",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A1a-025",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2a-025",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-022",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-082",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A2b-092",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A3-058",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A3-185",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  },
+  {
+    "parent_id": "A3-057",
+    "child_id": "A3-203",
+    "parent_name": "Pikachu",
+    "child_name": "Alolan Raichu"
+  }
+]
