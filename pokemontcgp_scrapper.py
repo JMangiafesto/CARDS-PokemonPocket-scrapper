@@ -24,7 +24,8 @@ set_filename_mapping = {
     "A2b": "a2b-shining-revelry.json", 
     "A3": "a3-celestial-guardians.json",
     "A3A": "a3a-extradimensional-crisis.json",
-    "A3B": "a3b-eevee-grove.json"
+    "A3B": "a3b-eevee-grove.json",
+    "A4": "a4-datamine.json"
 }
 
 # Rarity symbol to human-readable name mapping
@@ -159,9 +160,7 @@ def extract_card_info(soup, set_name=None):
     card_info["name"] = extract_name(soup)
     card_info["hp"] = extract_hp(soup)
     card_info["Element"] = extract_type(soup)
-    card_info["type"], card_info["subtype"] = (
-        extract_card_and_evolution_type(soup)
-    )
+    card_info["type"], card_info["subtype"] = extract_card_and_evolution_type(soup)
     card_info["image"] = extract_image(soup)
     card_info["attacks"] = extract_attacks(soup)
     card_info["ability"] = extract_ability(soup, card_info["type"])
@@ -218,9 +217,20 @@ def extract_card_and_evolution_type(soup):
     card_type = re.sub(
         r"\s+", " ", soup.find("p", class_="card-text-type").text.strip()
     )
+    
+    # Normalize card type
+    if "Pokémon" in card_type or "Pokemon" in card_type:
+        normalized_type = "Pokemon"
+    elif "Trainer" in card_type:
+        normalized_type = "Trainer"
+    else:
+        normalized_type = "Pokemon"  # Default fallback
+    
+    # Extract evolution type (subtype) - keep original logic
     evolution_info = card_type.split("-")
     evolution_type = evolution_info[1].strip() if len(evolution_info) > 1 else "Basic"
-    return card_type, evolution_type
+    
+    return normalized_type, evolution_type
 
 
 def extract_image(soup):
